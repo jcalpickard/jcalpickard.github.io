@@ -1,0 +1,11 @@
+# Site settings
+title: ⧉
+email: hello@justinpickard.net
+description: Notes and log entries, for now.
+url: "https://jcalpickard.github.io" # Update with your GitHub Pages URL
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
