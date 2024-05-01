@@ -6,8 +6,10 @@ url: "https://jcalpickard.github.io" # Update with your GitHub Pages URL
 permalink: /log/:year/:month/:day/:title/
 header_pages:
   - hello.md
-  - index.md
+  - home.md
+  - log.md
   - phd.md
+  - <a href="https://assemblag.es/@jcalpickard">Fediverse</a>
 
 # Build settings
 markdown: kramdown
