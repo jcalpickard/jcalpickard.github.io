@@ -9,7 +9,6 @@ header_pages:
   - home.md
   - log.md
   - phd.md
-  - <a href="https://assemblag.es/@jcalpickard">Fediverse</a>
 
 # Build settings
 markdown: kramdown
