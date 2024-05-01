@@ -1,4 +1,9 @@
-# Hello. This is how I like to keep in touch.
+---  
+layout: page
+title: "Hello"
+---  
+
+### Hello. This is how I like to keep in touch.
 
 • 📧 The best way to contact me is over [email](mailto:hello@justinpickard.net).
 

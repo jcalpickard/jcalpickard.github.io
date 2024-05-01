@@ -1,8 +1,13 @@
 # Site settings
 title: ⧉
 email: hello@justinpickard.net
-description: Notes and log entries, for now.
+description: Notes and log entries, for the time being.
 url: "https://jcalpickard.github.io" # Update with your GitHub Pages URL
+permalink: /log/:year/:month/:day/:title/
+header_pages:
+  - hello.md
+  - index.md
+  - phd.md
 
 # Build settings
 markdown: kramdown
