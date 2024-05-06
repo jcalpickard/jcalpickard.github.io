@@ -4,8 +4,12 @@ title: "Home"
 list_title: "Log"
 ---  
 
-### Hello, my name is Justin. I’m an independent researcher and editor, working to challenge dominant narratives and uncover hidden meanings.
+### Hello, I'm Justin. I'm an researcher and editor, readily <a href="https://en.wiktionary.org/wiki/nerd-snipe">nerd-sniped</a> by edge cases and emerging phenomena.
 
-I’m an advocate of creative, cross-disciplinary thinking, appropriate technology, and applied research. My work addresses topics including infrastructure, sociotechnical change, maintenance and repair, social movements, technological appropriation, and experimental and collaborative research methods.  
-  
-Last updated: Wednesday, 1 May 2024
+Operating from a home base in the haunted, flood-prone city of York, I use ethnographic methods to uncover hidden meanings and challenge dominant narratives. In my professional life, I’ve sought out opportunities to pursue open-ended, exploratory research in diverse contexts. I've co-founded a research company, taught observational methods, facilitated workshops, and conducted doctoral fieldwork on the cultural politics of infrastructure in Gujarat.
+
+Committed to advancing knowledge beyond and outside academia, I am at my happiest working with others to navigate complex issues or decipher strange and uncertain situations. Key research interests include appropriate technology, communities of practice, translocal processes, and improvisation and contingency in the design and use of technology.
+
+Having recently tumbled into the gravity well of generative language models, I am currently trying to learn Python.
+
+Last updated: Monday, 6 May 2024

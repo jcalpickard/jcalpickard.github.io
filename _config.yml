@@ -1,5 +1,6 @@
 # Site settings
 title: ⧉
+title_separator: "|"
 email: hello@justinpickard.net
 description: Notes and log entries, for the time being.
 url: "https://jcalpickard.github.io" # Update with your GitHub Pages URL
@@ -12,6 +13,8 @@ header_pages:
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-seo-tag
