@@ -195,10 +195,6 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
 
-.home-heading-wrap { margin-top: 0rem; }
-
-.post-header { margin-top: 0rem; }
-
 h1 { font-size: 2.5rem; font-weight: bold; }
 
 h2 { font-size: 2rem; }
@@ -214,3 +210,7 @@ h4 { font-size: 1.25rem; }
 .post-header h1, .home h1 { margin-top: 0; margin-bottom: 1rem; }
 
 .home, .post { max-width: 800px; margin-left: auto; margin-right: auto; }
+
+.home-heading-wrap { margin-top: 0rem; }
+
+.post-header { margin-top: 0rem; }
