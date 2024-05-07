@@ -7,7 +7,7 @@ title: "Hello"
 
 - 📧 The best way to contact me is over [email](mailto:jcalpickard@proton.me). I usually respond within 24-48 hours.
 
-- 🌐 I have a [profile](https://assemblag.es/@jcalpickard) on [Assemblag.es](https://assemblag.es/), a [community-focused Mastodon fork](https://github.com/hometown-fork/hometown/wiki) administered by off-duty STS researchers. I prefer it to other platforms because it's decentralised, with no single company controlling the network. I'm also currently involved in an improbable Python-for-ethnography skill exchange with our server admin, Tim.
+- 🌐 I have a [profile](https://assemblag.es/@jcalpickard) on [Assemblag.es](https://assemblag.es/), a [community-focused Mastodon fork](https://github.com/hometown-fork/hometown/wiki) administered by off-duty STS researchers. I prefer it to other platforms because it's decentralised, with no single company controlling the network. (I'm also currently involved in an improbable Python-for-ethnography skill exchange with our server admin, Tim.)
 
 - 📷 I share photos of strange objects, sights, and situations with friends and trusted others on [Instagram](https://www.instagram.com/jcalpickard/).
 
