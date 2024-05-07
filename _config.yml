@@ -6,8 +6,8 @@ description: Notes and log entries, for the time being.
 url: "https://jcalpickard.github.io" # Update with your GitHub Pages URL
 permalink: /log/:year/:month/:day/:title/
 header_pages:
-  - hello.md
   - index.md
+  - hello.md
   - log.md
   - phd.md
 
