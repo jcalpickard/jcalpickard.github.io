@@ -3,7 +3,7 @@ layout: page
 title: "Hello"
 ---  
 
-### Hello. Whether connecting with new people or catching up with old friends, this is how I prefer to keep in touch.
+#### Hello. Whether connecting with new people or catching up with old friends, this is how I prefer to keep in touch.
 
 • 📧 The best way to contact me is over [email](mailto:jcalpickard@proton.me). I usually respond within 24-48 hours.
 

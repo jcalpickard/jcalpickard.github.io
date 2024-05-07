@@ -11,6 +11,10 @@ header_pages:
   - log.md
   - phd.md
 
+sass:
+  sass_dir: assets/_sass
+  style: compressed # or :nested, :compact, :expanded
+
 # Build settings
 markdown: kramdown
 theme: minima
