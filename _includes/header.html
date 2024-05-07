@@ -23,7 +23,11 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
-        </div>
+
+          {%- for link in site.data.navigation.external_links -%}
+            <a class="page-link" href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.title }}</a>
+          {%- endfor -%}
+          </div>
       </nav>
     {%- endif -%}
   </div>

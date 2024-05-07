@@ -7,7 +7,7 @@ url: "https://jcalpickard.github.io" # Update with your GitHub Pages URL
 permalink: /log/:year/:month/:day/:title/
 header_pages:
   - hello.md
-  - home.md
+  - index.md
   - log.md
   - phd.md
 
