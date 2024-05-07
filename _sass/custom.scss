@@ -21,6 +21,12 @@ h4 {
 // Add other h4 styles as needed
 }
 
+.home h4 {
+  line-height: 1.5;
+  margin-top: 1.87rem;
+  margin-bottom: 1rem;
+}
+
 // Override .post-title and .page-heading styles (used in page.html, home.html for page title))
 .post-title,
 .page-heading {
