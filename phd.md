@@ -3,9 +3,7 @@ layout: page
 title: "PhD"
 ---  
 
-### PhD: Infrastructure politics and urban life  
-  
-I wrote my PhD thesis, ‘Appropriate infrastructure and urban sociotechnical change in Ahmedabad, Gujarat’ (2022), at the Institute of Development Studies, UK.
+#### I wrote my PhD thesis, ‘Appropriate infrastructure and urban sociotechnical change in Ahmedabad, Gujarat’ (2022), at the Institute of Development Studies, UK.
 
 This project addressed the relationship between infrastructure and sociotechnical change, presenting an interpretive account of infrastructure and urban development in the Indian city of Ahmedabad, in the state Gujarat. The study made contributions on theoretical, normative, and methodological grounds; proposing a novel theoretical framework, mobilising ‘apppropriateness’ as a criteria for appraising infrastructure projects, and adapting 19th- and early-20th-century writings on _flânerie_ as a method to explore sociotechnical subjects in contemporary postcolonial settings.
 

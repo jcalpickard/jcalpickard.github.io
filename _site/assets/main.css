@@ -211,6 +211,8 @@ h4 { font-size: 1.25rem; }
 
 .home, .post { max-width: 800px; margin-left: auto; margin-right: auto; }
 
+h1.page-heading, h1.post-title { line-height: 1.4; }
+
 .home-heading-wrap { margin-top: 0rem; }
 
 .post-header { margin-top: 0rem; }
