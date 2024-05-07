@@ -13,6 +13,6 @@ In this, the thesis spotlights three key dynamics shaping contemporary infrastru
 
 With practical implications for policymakers, urban practitioners, and the wider public, this research was made possible by an 1+3 ESRC studentship with the [STEPS Centre](https://steps-centre.org/) at the Institute of Development Studies, University of Sussex. 
 
-You can download a PDF copy of the thesis from my site [here](https://www.justinpickard.net/mutability-mobility-worlding.pdf) (24.8MB), or by visiting the University of Sussex [research repository](https://sro.sussex.ac.uk/id/eprint/106225/).
+You can download a PDF copy of the thesis from my site [here](/pdfs/mutability-mobility-worlding.pdf) (24.8MB), or by visiting the University of Sussex [research repository](https://sro.sussex.ac.uk/id/eprint/106225/).
 
 Updated: Tuesday, 7 May 2024.
