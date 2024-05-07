@@ -13,6 +13,6 @@ title: "Hello"
 
 • 👨🏻‍💼 I’m on [LinkedIn](https://www.linkedin.com/in/justinpickard/), though I don’t pretend to understand it. For a more accurate impression of my skills, personality, and preoccupations, consider following me on [Are.na](https://www.are.na/justin-pickard/index).
 
-• ☕ I am always eager to explore intersections over coffee or on a walk — in York, Leeds, or elsewhere in the north of England. My schedule is sufficiently flexible that I can normally work around others.
+• ☕ I am always eager to explore intersections over coffee or a walk — in York, Leeds, or elsewhere in the north of England. My schedule is sufficiently flexible that I can normally work around others.
 
 Last updated: Monday, 6 May 2024
