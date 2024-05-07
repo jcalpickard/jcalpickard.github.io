@@ -17,6 +17,6 @@ title: "Hello"
 
 - 🗂️ I'm an enthusiastic user of research and collaboration platform [Are.na](https://www.are.na/justin-pickard/index), which keeps me attuned to the weird art kids 15 years my junior. After buying a branded hoodie to justify shipping a copy of the site's print annual from the US, the offending garment has ended up in regular circulation, earning impressed and/or bewildered reactions from those in-the-know.
 
-- ☕ A firm believer in the efficiacy of in-person conversation, I'm always game to explore intersections over coffee or a walk — in York, Leeds, or elsewhere in the north of England. My schedule is sufficiently flexible that I can usually work around others. 
+- ☕ A firm believer in in-person conversation, I'm always game for a chat over coffee or a walk — in York, Leeds, or elsewhere in the north of England.
 
 Last updated: Tuesday, 7 May 2024
