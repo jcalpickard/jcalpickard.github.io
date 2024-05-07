@@ -3,7 +3,6 @@
 ---
 
 @import "minima";
-@import "custom";
 
 .home-heading-wrap {
     margin-top: 0rem; // Adjust value as needed
@@ -12,3 +11,5 @@
   .post-header {
     margin-top: 0rem;
   }
+
+@import "custom";
