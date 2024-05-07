@@ -12,7 +12,7 @@ header_pages:
   - phd.md
 
 sass:
-  sass_dir: assets/_sass
+  sass_dir: _sass
   style: compressed # or :nested, :compact, :expanded
 
 # Build settings
