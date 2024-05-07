@@ -9,7 +9,7 @@ Drawing on 10 months of field-based research in the city of Ahmedabad, the thesi
 
 Conceptually, the thesis makes novel contributions to ideas of 'appropriate infrastructure' and 'sociotechnical flânerie'. Connecting insights from post-war appropriate technology and postcolonial urbanism, I propose appropriateness as an evaluative lens and design criteria for contemporary infrastructure projects. Sociotechnical flânerie, meanwhile, adapts literary and ethnographic traditions of urban observation, tracing infrastructures' material and symbolic configurations from a street-eye view.
 
-In this, the thesis spotlights three key dynamics shaping contemporary infrastructure projects: *mutability* (a given system's capacity for adaptation and reconfiguration), *mobility* (the transfer of technologies, plans, and models between contexts), and *worlding* (how competing visions are enacted through infrastructure). Understanding these, I argue, is crucial for realising more inclusive and just urban futures.
+In this, the thesis spotlights three key dynamics shaping contemporary infrastructure projects: mutability (a given system's capacity for adaptation), mobility (the transfer of technologies, plans, and models between contexts), and worlding (how competing visions are enacted through infrastructure). Understanding these, I argue, is crucial for realising more inclusive and just urban futures.
 
 With practical implications for policymakers, urban practitioners, and the wider public, this research was made possible by an 1+3 ESRC studentship with the [STEPS Centre](https://steps-centre.org/) at the Institute of Development Studies, University of Sussex. 
 
