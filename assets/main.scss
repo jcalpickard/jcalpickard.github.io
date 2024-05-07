@@ -3,6 +3,7 @@
 ---
 
 @import "minima";
+@import "custom";
 
 .home-heading-wrap {
     margin-top: 0rem; // Adjust value as needed
@@ -11,57 +12,3 @@
   .post-header {
     margin-top: 0rem;
   }
-
-  // Override h1 styles
-h1 {
-    font-size: 2.5rem; // Desired font-size
-    font-weight: bold; // Desired font-weight
-    // Add other styles as needed
-}
-
-// Override other heading levels
-h2 {
-    font-size: 2rem;
-// Add other h2 styles as needed
-}
-
-h3 {
-  font-size: 1.5rem;
-// Add other h3 styles as needed
-}
-
-h4 {
-  font-size: 1.25rem;
-// Add other h4 styles as needed
-}
-
-// Override .post-title and .page-heading styles (used in page.html, home.html for page title))
-.post-title,
-.page-heading {
-    font-size: 2.5rem;
-    font-weight: bold;
-    // Add other styles as needed
-}
-
-// Override .post-list-heading styles (used in home.html for "Posts" heading)
-.post-list-heading {
-    font-size: 2rem;
-    // Add other styles as needed
-}
-
-// Override post-header and page-heading spacing
-.post-header,
-.home {
-  h1 {
-    margin-top: 0;
-    margin-bottom: 1rem; // adjust as needed
-  }
-}
-
-// Match home and post content widths
-.home,
-.post {
-  max-width: 800px; // adjust as needed
-  margin-left: auto;
-  margin-right: auto;
-}
