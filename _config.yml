@@ -21,3 +21,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+# Kramdown settings
+kramdown:
+  footnote_backlink: "&#x21b5;" # Use ↵ symbol instead of ↩

@@ -22,7 +22,7 @@ title: "Hello"
 Last updated: Wednesday, 8 May 2024
 
 ---
-<p>
 
 [^1]: I'm currently involved in an improbable Python-for-ethnography skill exchange with our Mastodon server admin, <a href="https://www.timcowlishaw.co.uk/">Tim</a>.
+
 [^2]: After buying a branded hoodie to justify shipping a copy of the platform's print annual from the US, the <a href="https://store.are.na/products/unisex-hoodie">offending garment</a> has ended up in regular circulation, earning impressed and/or bewildered reactions from those in-the-know.
