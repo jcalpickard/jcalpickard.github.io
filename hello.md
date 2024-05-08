@@ -9,7 +9,7 @@ title: "Hello"
 
 - 🌐 I have a [profile](https://assemblag.es/@jcalpickard) on [Assemblag.es](https://assemblag.es/), a [Mastodon fork](https://github.com/hometown-fork/hometown/wiki) administered by off-duty science and technology studies researchers.[^1] Decentralised by design, the platform's granular privacy settings and self-deleting archive have been instrumental in weaning me off Twitter, while presenting fresh opportunities to shitpost into the void.
 
-- 📷 I share photos of strange objects, sights, and situations with friends and trusted others on [Instagram](https://www.instagram.com/jcalpickard/). Having somehow dazzle-camoflagued Meta's ad-targeting systems, I also treat the platform as a window into the collective unconscious; a way of monitoring the ebb and flow of dropshippers and get-rich-quick schemes.
+- 📷 I share photos of strange objects, sights, and situations with friends and trusted others on [Instagram](https://www.instagram.com/jcalpickard/). Having dazzle-camoflagued Meta's ad-targeting systems, I also treat the platform as a window into the collective unconscious; a way of monitoring the ebb and flow of dropshippers and get-rich-quick schemes.
 
 - ⌨️ To streamline my website management, I've recently moved from Wordpress to a static site using [Jekyll](https://jekyllrb.com/) and GitHub Pages. I'm hoping this new setup can short-circuit some of the friction of posting, making it easier to push regular updates to the site's [Log](log.md). Expect a baggy stream-of-consciousness on technology, society, and everything in-between.
 
