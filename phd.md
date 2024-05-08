@@ -21,7 +21,7 @@ Updated: Wednesday, 8 May 2024.
 
 [^2]: Initiated in the early 2000s, the Sabarmati project set out to revitalise Ahmedabad's waterfront, developing it as a public space featuring parks, promenades, and commercial zones. Despite its ambitions to improve the urban environment and enhance city life, the project has been criticised for displacing thousands of families living along the riverbanks, while prioritising the interests of the wealthy and powerful.
 
-[^3]: Linking insights from post-war appropriate technology, the anti-colonial _Swadeshi_ movement, and grassroots innovation, the project positions 'appropriateness' as an evaluative lens and design criteria for infrastructure projects.
+[^3]: Linking insights from post-war appropriate technology, the anti-colonial _swadeshi_ movement, and grassroots innovation, the project positions 'appropriateness' as an evaluative lens and design criteria for infrastructure projects.
 
 [^4]: 'Sociotechnical flânerie' combines literary and ethnographic traditions of urban observation. A street-level perspective allows researchers to move beyond technocratic or managerial accounts of urban systems, focusing instead on how infrastructures are experienced, negotiated, and contested in everyday life.
 
