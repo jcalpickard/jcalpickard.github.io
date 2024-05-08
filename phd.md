@@ -25,4 +25,4 @@ Updated: Wednesday, 8 May 2024.
 
 [^4]: 'Sociotechnical flânerie' combines literary and ethnographic traditions of urban observation. A street-level perspective allows researchers to move beyond technocratic or managerial accounts of urban systems, focusing instead on how infrastructures are experienced, negotiated, and contested in everyday life.
 
-[^5]: An interdisciplinary research unit active from 2006–21, which combined expertise in international development and science and technology studies to explore different "pathways" to sustainability.
+[^5]: An interdisciplinary research unit active from 2006–21, which combined expertise in international development and science and technology studies. The STEPS Centre's "pathways" approach linked theory, research methods, and practice to highlight and open up the politics of sustainability.
