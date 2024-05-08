@@ -61,3 +61,24 @@ h4 {
 h1.page-heading, h1.post-title {
   line-height: 1; // Example line height
 }
+
+/* Make footnote reference links smaller */
+a.footnote {
+  font-size: 0.8em;
+}
+
+/* Add some spacing above the footnote section */
+.footnotes {
+  margin-top: 2rem; 
+}
+
+/* Style the numbered footnote list */
+.footnotes ol {
+  color: #666; /* Make numbers and list items grey */
+  font-size: 0.8em; /* Make numbers and list items smaller */
+}
+
+/* Add spacing between footnote list items */
+.footnotes ol li {
+  margin-bottom: 0.5rem;
+}
