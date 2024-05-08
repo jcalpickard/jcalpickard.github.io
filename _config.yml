@@ -1,8 +1,9 @@
 # Site settings
 title: ⧉
 title_separator: "|"
-email: hello@justinpickard.net
-description: Notes and log entries, for the time being.
+author: "Justin Pickard"
+email: jcalpickard@proton.me
+description: Notes and log entries, for now.
 url: "https://jcalpickard.github.io" # Update with your GitHub Pages URL
 permalink: /log/:year/:month/:day/:title/
 header_pages:
