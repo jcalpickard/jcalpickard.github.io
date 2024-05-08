@@ -9,13 +9,13 @@ title: "Hello"
 
 - 🌐 I have a [profile](https://assemblag.es/@jcalpickard) on [Assemblag.es](https://assemblag.es/), a [Mastodon fork](https://github.com/hometown-fork/hometown/wiki) administered by off-duty science and technology studies researchers.[^1] Decentralised by design, the platform's granular privacy settings and self-deleting archive have been instrumental in weaning me off Twitter, while presenting fresh opportunities to shitpost into the void.
 
-- 📷 I share photos of strange objects, sights, and situations with friends and trusted others on [Instagram](https://www.instagram.com/jcalpickard/). Having dazzle-camoflagued Meta's ad-targeting systems, I also treat the platform as a window into the collective unconscious; a way of monitoring the ebb and flow of dropshippers and get-rich-quick schemes.
+- 📷 I share photos of strange objects, sights, and situations with friends and trusted others on [Instagram](https://www.instagram.com/jcalpickard/). Having somehow dazzle-camouflaged Meta's ad-targeting systems, I also treat the platform as a window into the collective unconscious; a way of monitoring the ebb and flow of dropshippers and get-rich-quick schemes.
 
-- ⌨️ To streamline my website management, I've recently moved from Wordpress to a static site using [Jekyll](https://jekyllrb.com/) and GitHub Pages. I'm hoping this new setup can short-circuit some of the friction of posting, making it easier to push regular updates to the site's [Log](log.md). Expect a baggy stream-of-consciousness on technology, society, and everything in-between.
+- ⌨️ To streamline my website management, I've recently moved from Wordpress to a static site using [Jekyll](https://jekyllrb.com/) and GitHub Pages. I'm hoping this new setup can short-circuit some of the friction of posting, making it easier to push regular updates to the site's [Log](log.md).[^2]
 
 - 👔 I’m on [LinkedIn](https://www.linkedin.com/in/justinpickard/), though I don’t pretend to understand it.
 
-- 🗂️ I'm a paying subscriber and enthusiastic user of research and collaboration platform [Are.na](https://www.are.na/justin-pickard/index), which keeps me attuned to the weird art kids 15 years my junior.[^2] I've been using the site since March 2020, and over the years, it's become a kind of (searchable) prosthetic memory, and a key part of how I use the internet.
+- 🗂️ I'm a paying subscriber and enthusiastic user of research and collaboration platform [Are.na](https://www.are.na/justin-pickard/index), which keeps me attuned to the weird art kids 15 years my junior.[^3] I've been using the site since March 2020, and over the years, it's become a kind of (searchable) prosthetic memory, and a key part of how I use the internet.
 
 - ☕ In-person chats have their own magic, and I'm always game for a coffee or a walk. So if you're passing through York, Leeds, or elsewhere in the north of England, let me know, and let's make it happen.
 
@@ -25,4 +25,6 @@ Last updated: Wednesday, 8 May 2024
 
 [^1]: I'm currently participating in an improbable Python-for-ethnography skill exchange with <a href="https://www.timcowlishaw.co.uk/">Tim</a>, our server admin. Wouldn't have got that on Twitter.
 
-[^2]: After buying an Are.na-branded hoodie to justify the cost of shipping the platform's print annual from the US, the <a href="https://store.are.na/products/unisex-hoodie">offending garment</a> has ended up in regular circulation, earning impressed and/or bewildered reactions from those in-the-know.
+[^2]: Expect a baggy stream-of-consciousness, riffing on technology, society, and everything in-between.
+
+[^3]: After buying an Are.na-branded hoodie to justify the cost of shipping the platform's print annual from the US, the <a href="https://store.are.na/products/unisex-hoodie">offending garment</a> has ended up in regular circulation, earning impressed and/or bewildered reactions from those in-the-know.
