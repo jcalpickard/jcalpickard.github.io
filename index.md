@@ -8,11 +8,17 @@ list_title: "Log"
 
 ![Justin Pickard, dithered](http://files.justinpickard.net/images/pages/pickard-dithered.png)
 
-Operating from a home base in the haunted, <a href="https://www.theguardian.com/commentisfree/2021/jan/25/bringing-my-family-back-to-the-uk-was-a-bad-decision-but-home-has-its-comforts">flood-prone</a> city of York, I use ethnographic methods to uncover hidden meanings and challenge dominant narratives. In my work life, I've sought out opportunities to pursue open-ended, exploratory research in diverse settings. I have co-founded a research company, taught observational methods, facilitated workshops, and conducted fieldwork on the [cultural politics of infrastructure in Gujarat](phd.md).
+Operating from a home base in the haunted, <a href="https://www.theguardian.com/commentisfree/2021/jan/25/bringing-my-family-back-to-the-uk-was-a-bad-decision-but-home-has-its-comforts">flood-prone</a> city of York, I use ethnographic methods to uncover hidden meanings and challenge dominant narratives. In my work life, I've sought out opportunities to pursue open-ended, exploratory research in diverse settings. I have:
+
+- co-founded a research company
+- taught observational methods to diverse groups
+- facilitated workshops
+- participated in a collaborative prototyping residency on human-AI intimacies
+- conducted fieldwork on the [cultural politics of infrastructure in Gujarat](phd.md)
 
 Endlessly curious about how people make sense of the world, these experiences cultivated an appreciation for creative, cross-disciplinary inquiry. Today, I am at my happiest working with others to decipher complex or uncertain situations.
 
-Key research interests include:
+Current interests include:
 
 - appropriate technology
 - communities of practice
