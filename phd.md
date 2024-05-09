@@ -13,7 +13,7 @@ With practical implications for policymakers, urban practitioners, and the wider
 
 You can download a PDF copy of the thesis [here](https://files.justinpickard.net/pdfs/mutability-mobility-worlding.pdf) (24.8MB), or by visiting the University of Sussex [research repository](https://sro.sussex.ac.uk/id/eprint/106225/).
 
-Last updated: Wednesday, 8 May 2024.
+Last updated: Thursday, 9 May 2024.
 
 ---
 
