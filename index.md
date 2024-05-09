@@ -11,7 +11,7 @@ list_title: "Log"
 Operating from a home base in the haunted, <a href="https://www.theguardian.com/commentisfree/2021/jan/25/bringing-my-family-back-to-the-uk-was-a-bad-decision-but-home-has-its-comforts">flood-prone</a> city of York, I use ethnographic methods to uncover hidden meanings and challenge dominant narratives. In my work life, I've sought out opportunities to pursue open-ended, exploratory research in different settings. I have:
 
 - co-founded a research company
-- taught observational methods to varied groups
+- taught observational methods
 - facilitated workshops
 - participated in a collaborative prototyping residency on human-AI intimacies
 - conducted fieldwork on the [cultural politics of infrastructure in Gujarat](phd.md)
