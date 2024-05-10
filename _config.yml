@@ -5,12 +5,12 @@ email: jcalpickard@proton.me
 description: Notes and log entries, for now.
 url: "https://jcalpickard.github.io" # Update with your GitHub Pages URL
 permalink: /log/:year/:month/:day/:title/
-include: ['_compost']
 
 header_pages:
   - hello.md
   - index.md
   - log.md
+  - compost/index.md
   - phd.md
 
 sass:
@@ -23,6 +23,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-last-modified-at
 
 # Kramdown settings
 kramdown:

@@ -3,4 +3,4 @@ layout: garden
 title: 'Compost'
 ---
 
-#### Testing.
+#### Digital garden in the making.
