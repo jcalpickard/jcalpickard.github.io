@@ -23,7 +23,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-  # - jekyll-last-modified-at
+  - jekyll-last-modified-at
 
 # Kramdown settings
 kramdown:
