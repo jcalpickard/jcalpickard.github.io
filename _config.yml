@@ -5,6 +5,8 @@ email: jcalpickard@proton.me
 description: Notes and log entries, for now.
 url: "https://jcalpickard.github.io" # Update with your GitHub Pages URL
 permalink: /log/:year/:month/:day/:title/
+include: ['_compost']
+
 header_pages:
   - hello.md
   - index.md

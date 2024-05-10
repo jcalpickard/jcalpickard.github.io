@@ -1,7 +1,6 @@
----  
-layout: page
-title: "Compost"
-permalink: /compost/
+---
+layout: garden
+title: 'Compost'
 ---
 
 #### Testing.
