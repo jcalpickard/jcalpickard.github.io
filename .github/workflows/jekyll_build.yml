@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main  # Set this to your default branch
-  schedule:
-    - cron: '0 12 * * *'  # Optionally, schedule to build daily
 
 permissions:
   contents: write
