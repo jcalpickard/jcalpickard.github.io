@@ -7,7 +7,7 @@ title: "Hello"
 
 - 📧 The best way to contact me is over [email](mailto:jcalpickard@proton.me). After two decades on Gmail, I've recently switched the bulk of my personal communications to Proton Mail, with encouraging results.
 
-- 🌐 I have a [profile](https://assemblag.es/@jcalpickard) on [Assemblag.es](https://assemblag.es/), a [Mastodon fork](https://github.com/hometown-fork/hometown/wiki) administered by off-duty science and technology studies researchers.[^1] Decentralised by design, the platform's granular privacy settings and self-deleting archive have been instrumental in weaning me off Twitter, while presenting fresh opportunities to shitpost into the void.
+- 🌐 I have a [profile](https://assemblag.es/@jcalpickard) on [Assemblag.es](https://assemblag.es/), a [Mastodon fork](https://github.com/hometown-fork/hometown/wiki) administered by off-duty science and technology studies researchers.[^1] Decentralised by design, the platform's granular privacy settings and self-deleting archive have been instrumental in weaning me off Twitter.
 
 - 📷 I share photos of strange objects, sights, and situations with friends and trusted others on [Instagram](https://www.instagram.com/jcalpickard/). Having somehow dazzle-camouflaged Meta's ad-targeting systems, I also treat the platform as a window into the collective unconscious; a way of monitoring the ebb and flow of dropshippers and get-rich-quick schemes.
 
@@ -17,7 +17,7 @@ title: "Hello"
 
 - 🗂️ I'm a paying subscriber and enthusiastic user of research and collaboration platform [Are.na](https://www.are.na/justin-pickard/index), which keeps me attuned to the weird art kids 15 years my junior.[^2] I've been using the site since March 2020, and over the years, it's become a kind of (searchable) prosthetic memory, and a key part of how I use the internet.
 
-- ☕ Face-to-face conversation has its own magic, and I'm always game for a coffee or a walk. So if you're passing through York, Leeds, or elsewhere in the north of England, let me know, and we'll line something up.
+- ☕ In-person conversation has its own magic, and I'm always game for a coffee or a walk. So if you're passing through York, Leeds, or elsewhere in the north of England, let me know, and we'll line something up.
 
 Last updated: Thursday, 9 May 2024
 
