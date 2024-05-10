@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<div class="garden">
+  <header>
+    <h1>{{ page.title }}</h1>
+    <nav>
+      <a href="/compost">Home</a>
+      <a href="/compost/about">About</a>
+      <a href="/compost/tags">Tags</a>
+    </nav>
+  </header>
+
+  <main>
+
+    {% if page.last_updated %}
+      <p class="last-updated">Last updated: {{ page.last_updated | date: "%B %d, %Y" }}</p>
+    {% endif %}
+
+    {{ content }}
+
+    {% if page.tags %}
+      <div class="tags">
+        {% for tag in page.tags %}
+          <a href="/compost/tags/{{ tag }}">#{{ tag }}</a>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </main>
+
+  <footer>
+    <p>&copy; {{ site.time | date: '%Y' }} Your Name. All rights reserved.</p>
+  </footer>
+</div>

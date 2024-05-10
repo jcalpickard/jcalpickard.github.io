@@ -1,0 +1,27 @@
+---
+---
+
+.garden {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  header {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 2rem;
+  }
+
+  nav {
+    margin-top: 1rem;
+
+    a {
+      margin-right: 1rem;
+    }
+  }
+
+  footer {
+    margin-top: 2rem;
+    color: #888;
+    font-size: 0.8rem;
+  }
