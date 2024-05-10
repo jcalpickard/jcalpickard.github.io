@@ -14,19 +14,16 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest  # Specifies the runner environment
-
     steps:
     - uses: actions/checkout@v4  # Checks out your repository under $GITHUB_WORKSPACE so that the workflow can access its contents
       with:
         fetch-depth: 0  # Important for some plugins and for jekyll-last-modified-at
-
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.1.1'  # Specify the Ruby version you are using, match it with your local development environment
         bundler-cache: true  # Automatically caches and installs gems
-
 
     - name: Build and test site # Installs dependencies and builds your site using Jekyll
       run: |
