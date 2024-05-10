@@ -13,7 +13,8 @@ jobs:
   build:
     runs-on: ubuntu-latest  # Specifies the runner environment
     steps:
-    - uses: actions/checkout@v4  # Checks out your repository under $GITHUB_WORKSPACE so that the workflow can access its contents
+    - name: Checkout
+      uses: actions/checkout@v4  # Checks out your repository under $GITHUB_WORKSPACE so that the workflow can access its contents
       with:
         fetch-depth: 0  # Important for some plugins and for jekyll-last-modified-at
 
