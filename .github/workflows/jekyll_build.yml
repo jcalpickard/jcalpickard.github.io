@@ -7,6 +7,10 @@ on:
   schedule:
     - cron: '0 12 * * *'  # Optionally, schedule to build daily
 
+permissions:
+  contents: read
+  pages: write
+
 jobs:
   build:
     runs-on: ubuntu-latest  # Specifies the runner environment
@@ -29,4 +33,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
+        publish_dir: ./_site
