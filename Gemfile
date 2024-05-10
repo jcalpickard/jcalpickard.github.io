@@ -10,6 +10,5 @@ gem 'webrick'
 
 group :jekyll_plugins do
     gem 'jekyll-include-cache'
-    gem 'jekyll-last-modified-at'
     gem 'jekyll-feed'
   end

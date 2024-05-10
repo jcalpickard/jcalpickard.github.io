@@ -27,5 +27,3 @@ Key research interests include:
 - improvisation and contingency in the design and use of technology
 
 Having recently tumbled into the gravity well of generative language models, I am also now trying to learn Python.
-
-Last updated: Thursday, 9 May 2024
