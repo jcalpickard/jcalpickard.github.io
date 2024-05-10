@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest  # Specifies the runner environment
 
     steps:
-    - uses: actions/checkout@v2  # Checks out your repository under $GITHUB_WORKSPACE so that the workflow can access its contents
+    - uses: actions/checkout@v4  # Checks out your repository under $GITHUB_WORKSPACE so that the workflow can access its contents
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
