@@ -270,6 +270,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll (~> 3.9.5)
   jekyll-feed
   jekyll-include-cache
   jekyll-last-modified-at
