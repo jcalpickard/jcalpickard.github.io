@@ -5,7 +5,7 @@ title: "Hello"
 
 #### Whether connecting with new people or catching up with old friends, these are some of the ways I prefer to keep in touch.
 
-- 📧 The best way to contact me is over [email](mailto:jcalpickard@proton.me). After two decades on Gmail, I've recently switched the bulk of my personal communications to Proton Mail, with encouraging results.
+- 📧 The best way to contact me is over [email](mailto:jcalpickard@proton.me). After two decades on Gmail, I've recently switched the bulk of my personal communications to Proton Mail.
 
 - 🌐 I have a [profile](https://assemblag.es/@jcalpickard) on [Assemblag.es](https://assemblag.es/), a [Mastodon fork](https://github.com/hometown-fork/hometown/wiki) administered by off-duty science and technology studies researchers.[^1] Decentralised by design, the platform's granular privacy settings and self-deleting archive have been instrumental in weaning me off Twitter, while presenting fresh opportunities to post into the void.
 
