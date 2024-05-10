@@ -20,7 +20,7 @@ jobs:
         ruby-version: '3.1'  # Specify the Ruby version you are using, match it with your local development environment
 
     - name: Build and test site # Installs dependencies and builds your site using Jekyll
-      run:
+      run: |
         gem install bundler
         bundle install
         bundle exec jekyll build
