@@ -3,4 +3,4 @@ layout: garden
 title: 'Compost'
 ---
 
-#### Digital garden in the making.
+#### Digital garden in the making?
