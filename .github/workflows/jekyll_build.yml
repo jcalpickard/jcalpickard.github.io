@@ -17,7 +17,7 @@ jobs:
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.1'  # Specify the Ruby version you are using, match it with your local development environment
+        ruby-version: '3.1.1'  # Specify the Ruby version you are using, match it with your local development environment
 
     - name: Build and test site # Installs dependencies and builds your site using Jekyll
       run: |
