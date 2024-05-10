@@ -13,8 +13,6 @@ With practical implications for policymakers, urban practitioners, and the wider
 
 You can download a PDF copy of the thesis [here](https://files.justinpickard.net/pdfs/mutability-mobility-worlding.pdf) (24.8MB), or by visiting the University of Sussex [research repository](https://sro.sussex.ac.uk/id/eprint/106225/).
 
-Last updated: Thursday, 9 May 2024.
-
 ---
 
 [^1]: Derived from the Sanskrit word ‘pratoli’, meaning gate or entrance, a *pol* is a self-contained neighbourhood, arranged around a central courtyard, housing people of the same caste, religion, or profession. With shared amenities including wells, common toilets, and places of worship, the *pols* allowed Ahmedabad's diverse communities to coexist in close proximity, while maintaining seperate ways of life.
