@@ -15,7 +15,7 @@ title: "Hello"
 
 - 👔 I’m on [LinkedIn](https://www.linkedin.com/in/justinpickard/), though I don’t pretend to understand it.
 
-- 🗂️ I'm a paying subscriber and enthusiastic user of research and collaboration platform [Are.na](https://www.are.na/justin-pickard/index), which keeps me attuned to the weird art kids 15 years my junior.[^2] I've been using the site since March 2020, and over the years, it's become a kind of (searchable) prosthetic memory, and a key part of how I use the internet.
+- 🗂️ I'm an enthusiastic user of research and collaboration platform [Are.na](https://www.are.na/justin-pickard/index), which keeps me attuned to the weird art kids 15 years my junior.[^2] I've been using the site since March 2020, and over the years, it's become a kind of (searchable) prosthetic memory, and a key part of how I use the internet.
 
 - ☕ In-person conversation has its own magic, and I'm always game for a coffee or a walk. So if you're passing through York, Leeds, or elsewhere in the north of England, let me know, and we'll line something up.
 
