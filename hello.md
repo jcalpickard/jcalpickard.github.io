@@ -7,7 +7,7 @@ title: "Hello"
 
 - 📧 The best way to contact me is over [email](mailto:jcalpickard@proton.me). After two decades on Gmail, I've recently switched the bulk of my personal communications to Proton Mail, with encouraging results.
 
-- 🌐 I have a [profile](https://assemblag.es/@jcalpickard) on [Assemblag.es](https://assemblag.es/), a [Mastodon fork](https://github.com/hometown-fork/hometown/wiki) administered by off-duty science and technology studies researchers.[^1] Decentralised by design, the platform's granular privacy settings and self-deleting archive have been instrumental in weaning me off Twitter.
+- 🌐 I have a [profile](https://assemblag.es/@jcalpickard) on [Assemblag.es](https://assemblag.es/), a [Mastodon fork](https://github.com/hometown-fork/hometown/wiki) administered by off-duty science and technology studies researchers.[^1] Decentralised by design, the platform's granular privacy settings and self-deleting archive have been instrumental in weaning me off Twitter, while presenting fresh opportunities to post into the void.
 
 - 📷 I share photos of strange objects, sights, and situations with friends and trusted others on [Instagram](https://www.instagram.com/jcalpickard/). Having somehow dazzle-camouflaged Meta's ad-targeting systems, I also treat the platform as a window into the collective unconscious; a way of monitoring the ebb and flow of dropshippers and get-rich-quick schemes.
 

@@ -1,4 +1,4 @@
 ---  
 layout: garden
-title: "Garden"
+title: "Compost"
 ---
