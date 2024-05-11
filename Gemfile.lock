@@ -202,6 +202,7 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jekyll-wikilinks (0.0.5)
     jemoji (0.13.0)
       gemoji (>= 3, < 5)
       html-pipeline (~> 2.2)
@@ -279,6 +280,7 @@ DEPENDENCIES
   jekyll (~> 3.9.5)
   jekyll-feed
   jekyll-include-cache
+  jekyll-wikilinks
   webrick
 
 RUBY VERSION

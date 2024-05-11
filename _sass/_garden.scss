@@ -7,7 +7,7 @@
 
   // Typography
 
-  h1 {
+  h1, h2 {
     font-family: 'Poetsen One', sans-serif;
     color: #606060; /* Grey color for headers to indicate draft status */
   }
@@ -32,7 +32,7 @@
   }
 
   // Layout and spacing
-  padding: 2rem; // Increased padding for a more relaxed layout
+  padding: 1.5rem; // Increased padding for a more relaxed layout
   max-width: 800px; // Limit the content width for better readability
   margin: 0 auto; // Center the content within the page
 }

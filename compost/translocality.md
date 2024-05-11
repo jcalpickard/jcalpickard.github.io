@@ -1,4 +1,0 @@
----  
-layout: garden
-title: "Translocality"
----

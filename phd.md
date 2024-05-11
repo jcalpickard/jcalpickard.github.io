@@ -21,4 +21,4 @@ You can download a PDF copy of the thesis [here](https://files.justinpickard.net
 
 [^3]: Linking insights from post-war appropriate technology, the anti-colonial _swadeshi_ movement, and grassroots innovation, the project positions 'appropriateness' as an evaluative lens and design criteria for infrastructure projects.
 
-[^4]: Sociotechnical flânerie combines literary and ethnographic traditions of urban observation, adopting a street-level perspective to explore how infrastructures are experienced, negotiated, and contested in everyday life. ([※](/compost/sociotechnical-flânerie))
+[^4]: Sociotechnical flânerie combines literary and ethnographic traditions of urban observation, adopting a street-level perspective to explore how infrastructures are experienced, negotiated, and contested in everyday life.
