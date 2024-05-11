@@ -16,7 +16,7 @@ Operating from a home base in the haunted, <a href="https://www.theguardian.com/
 - participated in a collaborative prototyping residency on human-AI intimacies
 - conducted fieldwork on the [cultural politics of infrastructure in Gujarat](phd.md)
 
-These experiences (and others) have instilled a deep appreciation for creative, cross-disciplinary inquiry. Today, I am at my happiest working with others to decipher complex or uncertain situations.
+These experiences (and others) instilled a deep appreciation for creative, cross-disciplinary inquiry. Today, I am at my happiest working with others to decipher complex or uncertain situations.
 
 Key research interests include:
 

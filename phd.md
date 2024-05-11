@@ -7,7 +7,7 @@ title: "PhD"
 
 Drawing on ten months of field-based research in the city of Ahmedabad, the thesis reveals the social and political lives of infrastructural systems. Ahmedabad's urban landscape provided a revelatory setting to examine issues of appropriateness and equity – from the adaptive reuse of traditional water systems in the old city's densely-packed *pols*[^1], to the import of foreign 'smart city' best practices, and competing visions for developing the Sabarmati riverfront.[^2]
 
-Conceptually, the thesis makes novel contributions to ideas of 'appropriate infrastructure'[^3] and 'sociotechnical flânerie'[^4], while spotlighting three dynamics shaping infrastructure projects: mutability (a given system's flexibility or capacity for adaptation), mobility (the transfer of technologies, plans, and best practices between locations), and worlding (how competing visions are enacted through infrastructure). Grasping these dynamics is, I argue, a crucial step in realising more just and inclusive urban futures.
+Conceptually, the thesis contributes to ideas of 'appropriate infrastructure'[^3] and 'sociotechnical flânerie'[^4], while spotlighting three key dynamics shaping infrastructure projects: mutability (a given system's flexibility or capacity for adaptation), mobility (the transfer of technologies, plans, and best practices between locations), and worlding (how competing visions are enacted through infrastructure). Grasping these is, I argue, a crucial step in realising more just and inclusive urban futures.
 
 With implications for policymakers, urban practitioners, and the wider public, this research was made possible by an 1+3 ESRC studentship with the [STEPS Centre](https://steps-centre.org/), at the Institute of Development Studies. 
 
@@ -21,4 +21,4 @@ You can download a PDF copy of the thesis [here](https://files.justinpickard.net
 
 [^3]: Linking insights from post-war appropriate technology, the anti-colonial _swadeshi_ movement, and grassroots innovation, the project positions 'appropriateness' as an evaluative lens and design criteria for infrastructure projects.
 
-[^4]: 'Sociotechnical flânerie' combines literary and ethnographic traditions of urban observation, adopting a street-level perspective to explore how infrastructures are experienced, negotiated, and contested in everyday life.
+[^4]: Sociotechnical flânerie combines literary and ethnographic traditions of urban observation, adopting a street-level perspective to explore how infrastructures are experienced, negotiated, and contested in everyday life. ([※](/compost/sociotechnical-flânerie))
