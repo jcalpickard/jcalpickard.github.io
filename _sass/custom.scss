@@ -1,5 +1,6 @@
 // Set the font family for h1 headings
-h1 {
+h1,
+h2 {
   font-family: 'Freeman', sans-serif;
   font-style: normal;
 }
@@ -14,8 +15,10 @@ h1 {
 // Override other heading levels
 h2 {
     font-size: 2rem;
-// Add other h2 styles as needed
-}
+    color: #333333; // Add other h2 styles as needed
+    letter-spacing: 0.5px;
+    margin-top: 1.5em; /* Added top margin to create space between heading and previous content */
+  }
 
 h3 {
   font-size: 1.5rem;
