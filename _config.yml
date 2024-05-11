@@ -9,9 +9,9 @@ permalink: /log/:year/:month/:day/:title/
 header_pages:
   - hello.md
   - index.md
+  - phd.md
   - log.md
   - compost/index.md
-  - phd.md
 
 sass:
   sass_dir: _sass
