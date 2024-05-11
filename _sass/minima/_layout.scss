@@ -190,6 +190,8 @@
 
 .post-list-heading {
   @include relative-font-size(1.75);
+  margin-top: 2rem; // Adjust as needed
+  margin-bottom: 1rem; // Adjust as needed
 }
 
 .post-list {
