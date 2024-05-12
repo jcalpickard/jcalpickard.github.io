@@ -7,33 +7,35 @@ layout: default
 </head>
 
 <div class="garden">
-  <header>
-    <h1>{{ page.title }}</h1>
-  </header>
+  <div class="note-container {{ page.stage }}">
+    <header>
+      <h1>{{ page.title }}</h1>
+    </header>
 
-  <main>
+    <main>
 
-    {% if page.last_updated %}
-      <p class="last-updated">Last updated: {{ page.last_updated | date: "%B %d, %Y" }}</p>
-    {% endif %}
+      {% if page.last_updated %}
+        <p class="last-updated">Last updated: {{ page.last_updated | date: "%B %d, %Y" }}</p>
+      {% endif %}
 
-    {{ content }}
+      {{ content }}
 
-    {% if page.tags %}
-      <div class="tags">
-        {% for tag in page.tags %}
-          <a href="/compost/tags/{{ tag }}">#{{ tag }}</a>
-        {% endfor %}
-      </div>
-    {% endif %}
-  </main>
+      {% if page.tags %}
+        <div class="tags">
+          {% for tag in page.tags %}
+            <a href="/compost/tags/{{ tag }}">#{{ tag }}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </main>
 
-  <footer>
-    <nav>
-      <a href="/compost">Home</a>
-      <a href="/compost/about">About</a>
-      <a href="/compost/tags">Tags</a>
-    </nav>
-  </footer>
+    <footer>
+      <nav>
+        <a href="/compost">Home</a>
+        <a href="/compost/about">About</a>
+        <a href="/compost/tags">Tags</a>
+      </nav>
+    </footer>
 
+  </div>
 </div>

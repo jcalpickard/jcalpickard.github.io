@@ -1,0 +1,33 @@
+// compost_styles.scss
+
+.note-container {
+  &.bruck {
+    background-color: #d6d2c1;
+    color: #8c8c7e;
+  }
+
+  &.tinkering {
+    background-color: #e0dcc8;
+    color: #7e7e6e;
+  }
+
+  &.roughing-out {
+    background-color: #e8e3d2;
+    color: #6d6d5e;
+  }
+
+  &.moulding {
+    background-color: #f0ece0;
+    color: #5e5e4e;
+  }
+
+  &.detailing {
+    background-color: #f5f2e8;
+    color: #4e4e3e;
+  }
+
+    // Layout and spacing
+    padding: 0.75rem; // Increased padding for a more relaxed layout
+    max-width: 800px; // Limit the content width for better readability
+    margin: 0 auto; // Center the content within the page
+}
