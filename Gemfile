@@ -11,4 +11,5 @@ gem 'webrick'
 group :jekyll_plugins do
     gem 'jekyll-include-cache'
     gem 'jekyll-feed'
+    gem 'jekyll-tagging'
   end

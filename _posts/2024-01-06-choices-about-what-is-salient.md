@@ -1,7 +1,6 @@
 ---  
 layout: post
 title: "Choices about what is salient"
-tags: [context]
 categories:
 ---
 

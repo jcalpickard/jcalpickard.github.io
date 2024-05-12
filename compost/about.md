@@ -1,6 +1,7 @@
 ---  
 layout: garden
 title: "About"
+tags: [navigation]
 ---
 
 A collection of evolving notes and half-baked ideas, tended to over time; from bruck and scrap to works in-progress. Inspired by permaculture, an experiment in working and learning in public, outside of project ontologies and gridded organisational time.
