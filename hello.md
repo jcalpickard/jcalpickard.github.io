@@ -19,8 +19,6 @@ title: "Hello"
 
 - ☕ In-person conversation has its own magic, and I'm always game for a coffee or a walk. So if you're passing through York, Leeds, or elsewhere in the north of England, let me know, and we'll line something up.
 
----
-
 [^1]: I'm currently participating in an improbable Python-for-ethnography skill exchange with <a href="https://www.timcowlishaw.co.uk/">Tim</a>, our server admin. Wouldn't have got that on Twitter.
 
 [^2]: After buying an Are.na-branded hoodie to justify the cost of shipping the platform's print annual from the US, the <a href="https://store.are.na/products/unisex-hoodie">offending garment</a> has ended up in regular circulation, earning impressed and/or bewildered reactions from those in-the-know.

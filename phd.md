@@ -13,8 +13,6 @@ With implications for policymakers, urban practitioners, and the wider public, t
 
 You can download a PDF copy of the thesis [here](https://files.justinpickard.net/pdfs/mutability-mobility-worlding.pdf) (24.8MB), or by visiting the University of Sussex [research repository](https://sro.sussex.ac.uk/id/eprint/106225/).
 
----
-
 [^1]: Derived from the Sanskrit word ‘pratoli’, meaning gate or entrance, a *pol* is a self-contained neighbourhood, arranged around a central courtyard, housing people of the same caste, religion, or profession. With shared amenities including wells, common toilets, and places of worship, the *pols* allowed Ahmedabad's diverse communities to coexist in close proximity, while maintaining seperate ways of life.
 
 [^2]: Initiated in the early 2000s, the Sabarmati project set out to revitalise Ahmedabad's waterfront, developing it as a public space featuring parks, promenades, and commercial zones. Despite its ambitions to enhance the urban environment, the project was criticised for displacing thousands of families living along the riverbanks, while prioritising the interests of the wealthy and powerful.
