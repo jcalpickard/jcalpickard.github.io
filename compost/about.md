@@ -4,7 +4,7 @@ title: "About"
 status: tinkering
 ---
 
-A collection of evolving notes and half-baked ideas, tended to over time; from scrap and bruck to works in-progress. Inspired by permaculture, a experiment in working and learning in public, outside of project ontologies and gridded organisational time.
+A collection of evolving notes and half-baked ideas, tended to over time; from bruck and scrap to works in-progress. Inspired by permaculture, a experiment in working and learning in public, outside of project ontologies and gridded organisational time.
 
 > [Bruck](/bruck.md)[^1] → [Tinkering](/tinkering.md)[^2] → Roughing out[^3] → Moulding[^4] → Detailing[^5]
 
