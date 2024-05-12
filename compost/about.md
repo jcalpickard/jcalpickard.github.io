@@ -8,7 +8,7 @@ A collection of evolving notes and half-baked ideas, tended to over time; from s
 
 > Scrap/bruck[^1] → Tinkering[^2] → Roughing out[^3] → Moulding[^4] → Detailing[^5]
 
-A rich personal compost. Umami flavours. Diverse sources and perspectives as fertile ground. All of the rhizomes. Multiple entry points and pathways, no prescribed journeys. Feedback and contributions welcome.
+A rich personal compost. All of the rhizomes. Umami flavours. Diverse sources and perspectives as fertile ground. Multiple entry points, no prescribed journeys. Feedback and contributions welcome.
 
 [^1]: Gathering raw materials and inspiration
 
