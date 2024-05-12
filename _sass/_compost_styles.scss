@@ -1,6 +1,9 @@
 // compost_styles.scss
 
 .note-container {
+    background-color: #f5f2e8; // Light, warm background color
+    color: #4e4e3e; // Dark, desaturated green-tinted text
+
   &.bruck {
     background-color: #d6d2c1;
     color: #8c8c7e;
@@ -21,13 +24,8 @@
     color: #5e5e4e;
   }
 
-  &.detailing {
-    background-color: #f5f2e8;
-    color: #4e4e3e;
-  }
-
     // Layout and spacing
-    padding: 0.75rem; // Increased padding for a more relaxed layout
+    padding: 1.5rem; // Increased padding for a more relaxed layout
     max-width: 800px; // Limit the content width for better readability
     margin: 0 auto; // Center the content within the page
 }

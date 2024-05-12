@@ -1,9 +1,6 @@
 // Compost section overrides
 
 .garden {
-  // Colour scheme
-  background-color: #f5f2e8;
-  color: #333333;
 
   // Typography
 
@@ -49,7 +46,7 @@
   }
 
     // Layout and spacing
-    padding: 0.75rem; // Increased padding for a more relaxed layout
+    padding: 0rem; // Increased padding for a more relaxed layout
     max-width: 800px; // Limit the content width for better readability
     margin: 0 auto; // Center the content within the page
   }
