@@ -7,7 +7,6 @@ gem 'jekyll', '~> 3.9.5'
 
 gem 'github-pages', group: :jekyll_plugins
 gem 'webrick'
-gem 'jekyll-wikilinks'
 
 group :jekyll_plugins do
     gem 'jekyll-include-cache'

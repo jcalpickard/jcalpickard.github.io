@@ -280,7 +280,7 @@ DEPENDENCIES
   jekyll (~> 3.9.5)
   jekyll-feed
   jekyll-include-cache
-  jekyll-wikilinks
+  jekyll-wikilinks (~> 0.0.5)
   webrick
 
 RUBY VERSION

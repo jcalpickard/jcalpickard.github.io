@@ -6,7 +6,7 @@ status: tinkering
 
 A collection of evolving notes and half-baked ideas, tended to over time; from scrap and bruck to works in-progress. Inspired by permaculture, a experiment in working and learning in public, outside of project ontologies and gridded organisational time.
 
-> [[Bruck]][^1] → Tinkering[^2] → Roughing out[^3] → Moulding[^4] → Detailing[^5]
+> [Bruck](/bruck.md)[^1] → [Tinkering](/tinkering.md)[^2] → Roughing out[^3] → Moulding[^4] → Detailing[^5]
 
 A rich personal compost. All of the rhizomes. Umami flavours. Diverse sources and perspectives as fertile ground. Multiple entry points and pathways, no prescribed journeys. Feedback and contributions welcome.
 
