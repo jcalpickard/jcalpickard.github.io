@@ -20,17 +20,6 @@ sass:
 collections:
   compost:
     output: true
-  compost_tags:
-    permalink: compost/tags/:name/
-    output: true
-
-defaults:
-  - scope:
-      path: ''
-      type: compost_tags
-    values:
-      permalink: "compost/tags/:name/"
-      layout: tag
 
 # Build settings
 markdown: kramdown

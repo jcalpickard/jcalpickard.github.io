@@ -20,20 +20,12 @@ layout: default
 
       {{ content }}
 
-      {% if page.tags %}
-        <div class="tags">
-          {% for tag in page.tags %}
-            <a href="/compost/tags/{{ tag | slugify }}/index.html">{{ tag }}</a>
-          {% endfor %}
-        </div>
-      {% endif %}
     </main>
 
     <footer>
       <nav>
         <a href="/compost">Home</a>
         <a href="/compost/about">About</a>
-        <a href="/compost/tags">Tags</a>
       </nav>
     </footer>
 
