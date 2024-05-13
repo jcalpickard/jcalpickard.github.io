@@ -2,6 +2,7 @@
 layout: garden
 title: "Tinkering"
 stage: tinkering
+tags: ['improvisation']
 ---
 
 A hands-on, experimental approach to problem-solving and innovation, through incremental adjustments to what already exists. Playful exploration. A willingness to engage with materials or mechanisms directly. Repair, repurposing, a cyclical process of trial and error, through experiments and iteration.

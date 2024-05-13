@@ -23,7 +23,7 @@ layout: default
       {% if page.tags %}
         <div class="tags">
           {% for tag in page.tags %}
-            <a href="/compost/tag/{{ tag | slugify }}/index.html">{{ tag }}</a>
+            <a href="/compost/tags/{{ tag | slugify }}/index.html">{{ tag }}</a>
           {% endfor %}
         </div>
       {% endif %}

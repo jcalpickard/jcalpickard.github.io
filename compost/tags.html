@@ -2,13 +2,9 @@
 layout: garden
 title: "Tags"
 ---
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tags = site_tags | split:',' | sort %}
-
+{% assign tag_posts = site.compost | where_exp: "item", "item.tags contains tag_name" %}
 <ul>
-  {% for tag in tags %}
-    <li>
-      <a href="/compost/tag/{{ tag | slugify }}/index.html">{{ tag }}</a>
-    </li>
+  {% for tag in compost_tags %}
+    <li>{{ tag }}</li>
   {% endfor %}
 </ul>
