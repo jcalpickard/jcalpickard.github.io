@@ -1,7 +1,7 @@
 # Site settings
 title: ⧉
 author: "Justin Pickard"
-email: jcalpickard@proton.me
+email: hello@justinpickard.net
 description: Notes and log entries, for now.
 url: "https://jcalpickard.github.io" # Update with your GitHub Pages URL
 baseurl: "" # Ensure this is set to an empty string if not using a subdirectory
@@ -10,9 +10,9 @@ permalink: /log/:year/:month/:day/:title/
 header_pages:
   - hello.md
   - index.md
-  - phd.md
-  - log.md
   - compost.md
+  - log.md
+  - phd.md
 
 sass:
   sass_dir: _sass
