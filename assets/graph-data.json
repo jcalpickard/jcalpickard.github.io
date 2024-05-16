@@ -1,0 +1,111 @@
+{
+  "nodes": [
+    {
+      "id": "About",
+      "label": "About",
+      "stage": "detailing",
+      "tags": [
+
+      ],
+      "url": "/compost/about/"
+    },
+    {
+      "id": "Appropriate technology",
+      "label": "Appropriate technology",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/appropriate-technology/"
+    },
+    {
+      "id": "Bruck",
+      "label": "Bruck",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/bruck/"
+    },
+    {
+      "id": "Detailing",
+      "label": "Detailing",
+      "stage": "detailing",
+      "tags": [
+
+      ],
+      "url": "/compost/detailing/"
+    },
+    {
+      "id": "Digital garden",
+      "label": "Digital garden",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/digital-garden/"
+    },
+    {
+      "id": "Moulding",
+      "label": "Moulding",
+      "stage": "moulding",
+      "tags": [
+
+      ],
+      "url": "/compost/moulding/"
+    },
+    {
+      "id": "Roughing out",
+      "label": "Roughing out",
+      "stage": "roughing-out",
+      "tags": [
+
+      ],
+      "url": "/compost/roughing-out/"
+    },
+    {
+      "id": "Tinkering",
+      "label": "Tinkering",
+      "stage": "tinkering",
+      "tags": [
+        "material",
+        "improvisation"
+      ],
+      "url": "/compost/tinkering/"
+    }
+  ],
+  "links": [
+    {
+      "source": "Appropriate technology",
+      "target": "Digital garden"
+    },
+    {
+      "source": "Bruck",
+      "target": "About"
+    },
+    {
+      "source": "Detailing",
+      "target": "About"
+    },
+    {
+      "source": "Detailing",
+      "target": "Moulding"
+    },
+    {
+      "source": "Moulding",
+      "target": "About"
+    },
+    {
+      "source": "Roughing out",
+      "target": "About"
+    },
+    {
+      "source": "Tinkering",
+      "target": "About"
+    },
+    {
+      "source": "Tinkering",
+      "target": "Bruck"
+    }
+  ]
+}
