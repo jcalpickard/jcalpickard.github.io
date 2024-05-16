@@ -1,0 +1,51 @@
+I" <h1>Graph</h1>
+
+<div id="network" style="width: 100%; height: 200px;"></div>
+
+<script type="text/javascript">
+  fetch('/assets/graph-data.json')
+    .then(response => response.json())
+    .then(data => {
+      const container = document.getElementById('network');
+      const options = {
+        nodes: {
+          shape: 'dot',
+          size: 20,
+          font: {
+            size: 15,
+            color: '#000000'
+          }
+        },
+        edges: {
+          width: 2
+        }
+      };
+
+      // Convert links to edges
+      const edges = data.links.map(link => ({
+        from: link.source,
+        to: link.target
+      }));
+
+      const networkData = {
+        nodes: data.nodes,
+        edges: edges
+      };
+
+    const network = new vis.Network(container, networkData, options);
+
+      // Add click event listener to nodes
+      network.on('click', (params) => {
+        if (params.nodes.length === 1) {
+          const nodeId = params.nodes[0];
+          const node = data.nodes.find(node => node.id === nodeId);
+          if (node && node.url) {
+            window.location.href = node.url;
+          }
+        }
+      });
+    });
+</script>
+
+<p>That was a graph.</p>
+:ET

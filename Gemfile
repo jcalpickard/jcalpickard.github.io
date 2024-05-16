@@ -3,12 +3,17 @@
 ruby '3.1.1'
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.9.5'
+gem 'jekyll', '~> 4.2.0'
+gem 'minima', '~> 2.5'
+gem 'kramdown-parser-gfm'
 
-gem 'github-pages', group: :jekyll_plugins
 gem 'webrick'
+gem 'debug', require: false
+gem 'faraday-retry'
 
 group :jekyll_plugins do
     gem 'jekyll-include-cache'
     gem 'jekyll-feed'
+    gem 'jekyll-relative-links'
+    gem 'jekyll-wikirefs'
   end

@@ -1,0 +1,13 @@
+---
+layout: garden
+---
+
+<ul>
+{% for compost in site.compost %}
+  {% if compost.tags contains page.tag %}
+    <li>
+      <a href="{{ compost.url }}">{{ compost.title }}</a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>

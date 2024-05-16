@@ -1,0 +1,5 @@
+<ul>
+    {% for tag in page.tags %}
+      <li><a href="/compost/tags/{{ tag | slugify }}">{{ tag }}</a></li>
+    {% endfor %}
+  </ul>

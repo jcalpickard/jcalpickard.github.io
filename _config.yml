@@ -4,6 +4,7 @@ author: "Justin Pickard"
 email: jcalpickard@proton.me
 description: Notes and log entries, for now.
 url: "https://jcalpickard.github.io" # Update with your GitHub Pages URL
+baseurl: "" # Ensure this is set to an empty string if not using a subdirectory
 permalink: /log/:year/:month/:day/:title/
 
 header_pages:
@@ -11,22 +12,66 @@ header_pages:
   - index.md
   - phd.md
   - log.md
-  - compost/index.md
+  - compost.md
 
 sass:
   sass_dir: _sass
   style: compressed # or :nested, :compact, :expanded
 
+destination: _site
+
+keep_files:
+- assets/graph-data.json
+
 collections:
   compost:
     output: true
+    permalink: /compost/:path/
+  data:
+    output: true
+
+## generating tag pages
+defaults:
+  - scope:
+      path: "tags"
+    values:
+      layout: tag
 
 # Build settings
 markdown: kramdown
 theme: minima
+plugins_dir: _plugins
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-relative-links
+  - jekyll-wikirefs
+
+wikirefs:
+  attributes:
+    enabled: true
+    css: 
+      exclude: []
+    name: 
+      typed: 'typed'
+      wiki: 'wiki-link'
+      web: 'web-link'
+      invalid_wiki: 'invalid-wiki-link'
+    embed_container: 'embed-container'
+    embed_title: 'embed-title'
+    embed_content: 'embed-content'
+    embed_link: 'embed-wiki-link'
+    embed_image_container: 'embed-image-container'
+    embed_image: 'embed-image'
+  enabled: true
+  exclude: []
+
+  keep_files:
+  - assets/graph-data.json
+
+livereload:
+  enable: true
+  port: 35729
 
 # Kramdown settings
 kramdown:

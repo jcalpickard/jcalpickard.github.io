@@ -1,0 +1,21 @@
+// This configuration tells VS Code how to start the Jekyll server with the Ruby debugger attached. 
+// The program field specifies the path to the Jekyll executable, and the args field specifies the command-line arguments to pass to Jekyll.
+
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug Jekyll Site",
+        "type": "rdbg",
+        "request": "launch",
+        "script": "${workspaceRoot}/bin/jekyll",
+        "args": [
+          "serve", 
+          "--trace", 
+          "--no-watch", 
+          "--skip-initial-build"
+        ],
+        "cwd": "${workspaceRoot}",
+      }
+    ]
+  }
