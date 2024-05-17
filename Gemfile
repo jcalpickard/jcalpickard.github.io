@@ -4,7 +4,7 @@ ruby '3.1.1'
 source 'https://rubygems.org'
 
 gem 'jekyll', '~> 4.2.0'
-gem 'minima', '~> 2.5'
+gem "minima", github: "jekyll/minima"
 gem 'kramdown-parser-gfm'
 
 gem 'webrick'

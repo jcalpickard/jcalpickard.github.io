@@ -47,6 +47,8 @@ plugins:
   - jekyll-relative-links
   - jekyll-wikirefs
 
+skin: dark
+
 wikirefs:
   attributes:
     enabled: true

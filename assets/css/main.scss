@@ -2,7 +2,11 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "minima";
-@import "custom";
-@import "garden"; // This line imports the garden partial
-@import "compost_styles"; // This line imports the compost_styles partial
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
+@import "minima/custom-variables"; // Your custom variables
+@import "minima/base";
+@import "minima/layout";
+@import "custom"; // Import your custom styles after Minima
+@import "garden"; // Import your custom partials after custom styles
+@import "compost_styles";

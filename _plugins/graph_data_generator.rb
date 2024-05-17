@@ -14,7 +14,6 @@ module Jekyll
       links = []
 
       compost_notes.each do |note|
-        Jekyll.logger.info "Processing note: #{note.data['title']}"
         node = {
           id: note.data['title'],
           label: note.data['title'],
@@ -53,7 +52,6 @@ module Jekyll
     def generate(site)
       graph_data = site.config['graph_data']
       output_path = File.join(site.dest, 'assets', 'graph-data.json')
-      Jekyll.logger.info "Writing graph data to #{output_path}"
       
       # Ensure the directory exists
       FileUtils.mkdir_p(File.dirname(output_path))
