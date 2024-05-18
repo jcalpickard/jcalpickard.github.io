@@ -43,8 +43,8 @@
 
   .menu-icon {
     float: right;
-    width: 36px;
-    height: 26px;
+    width: 2.25em;
+    height: 1.625em;
     line-height: 0;
     padding-top: 10px;
     text-align: center;
@@ -57,8 +57,8 @@
   label[for="nav-trigger"] {
     display: block;
     float: right;
-    width: 36px;
-    height: 36px;
+    width: 2.25em;
+    height: 2.25em;
     z-index: 2;
     cursor: pointer;
   }
@@ -123,7 +123,7 @@
  */
 .site-footer {
   border-top: 1px solid $border-color-01;
-  padding: $spacing-unit 0;
+  padding: ($spacing-unit * 1.5) 0;
 }
 
 .footer-heading {
@@ -205,10 +205,6 @@
   flex: 1 0 auto;
 }
 
-.page-heading {
-  @include relative-font-size(2);
-}
-
 .post-list-heading {
   @include relative-font-size(1.75);
 }
@@ -233,19 +229,19 @@
 }
 
 
+/**
+ * Headings
+ */
+.post-header, .page-heading {
+ margin-bottom: $spacing-unit * .5;
+}
 
 /**
  * Posts
  */
-.post-header {
-  margin-bottom: $spacing-unit;
-}
-
 .post-title,
 .post-content h1 {
   @include relative-font-size(2.5);
-  letter-spacing: -1px;
-  line-height: 1.15;
 
   @media screen and (min-width: $on-large) {
     @include relative-font-size(2.5);
@@ -255,7 +251,7 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
-  h1, h2, h3, h4, h5, h6 { margin-top: $spacing-unit }
+  h1, h2, h3, h4, h5, h6 { margin-top: $spacing-unit * .5 }
 
   h2 {
     @include relative-font-size(2);
