@@ -1,9 +1,10 @@
+I"­<h1>Graph</h1>
+
 <div id="network" style="width: 100%; height: 400px;"></div>
 <div id="tooltip" class="graph-tooltip" style="display: none; position: absolute; background: #fff; border: 1px solid #ccc; padding: 10px; z-index: 1000;"></div>
 
-
 <script type="text/javascript">
-  fetch('{{ "/assets/graph-data.json" | relative_url }}')
+  fetch('/assets/graph-data.json')
     .then(response => response.json())
     .then(data => {
       const container = document.getElementById('network');
@@ -62,3 +63,6 @@
     });
   });
 </script>
+
+<p>That was a graph.</p>
+:ET
