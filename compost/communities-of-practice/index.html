@@ -204,13 +204,14 @@
           solver: 'barnesHut',
           barnesHut: {
             theta: 0.5,
-            gravitationalConstant: -300,
-            centralGravity: 0.2,
-            springLength: 175,
-            springConstant: 0.05,
+            gravitationalConstant: -3000,
+            centralGravity: 0.3,
+            springLength: 95,
+            springConstant: 0.04,
             damping: 0.1,
             avoidOverlap: 0.5,
-            maxVelocity: 50
+            maxVelocity: 50,
+            minVelocity: 0.1
           },
           stabilization: {
             iterations: 250
