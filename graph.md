@@ -1,5 +1,5 @@
 ---
-layout: garden
+layout: base
 ---
 
 <h1>Graph</h1>

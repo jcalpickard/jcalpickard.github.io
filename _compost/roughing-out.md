@@ -1,7 +1,7 @@
 ---  
 layout: garden
 title: "Roughing out"
-stage: roughing-out
+stage: roughingOut
 ---
 
 Roughing out. Gerating a preliminary, imperfect version, as a prelude to refining a concept or idea. Shitty first drafts. Vomiting words on a page. Free association, brainstorming. Rapid, spotaneous, iterative cycles of creation, focusing on quality over quantity. Uncontrolled careeening.
