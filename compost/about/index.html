@@ -159,15 +159,15 @@
         return;
       }
 
-    const egocentricData = getEgocentricData(data, currentNodeId, 2); // 2 degrees of separation
+    const egocentricData = getEgocentricData(data, currentNodeId, 3); // 3 degrees of separation
 
     const container = document.getElementById('network');
     const stages = {
-      bruck: { color: '#CFD8DC', size: 15, borderWidth: 0 },
-      tinkering: { color: '#B0BEC5', size: 15, borderWidth: 0 },
-      roughingOut: { color: '#90A4AE', size: 15, borderWidth: 0 },
-      moulding: { color: '#78909C', size: 15, borderWidth: 0 },
-      detailing: { color: '#607D8B', size: 15, borderWidth: 0 }
+      bruck: { color: '#CFD8DC', size: 20, borderWidth: 0 },
+      tinkering: { color: '#B0BEC5', size: 20, borderWidth: 0 },
+      roughingOut: { color: '#90A4AE', size: 20, borderWidth: 0 },
+      moulding: { color: '#78909C', size: 20, borderWidth: 0 },
+      detailing: { color: '#607D8B', size: 20, borderWidth: 0 }
     };
 
     egocentricData.nodes.forEach(node => {
@@ -204,21 +204,42 @@
           }
         },
         edges: {
+          smooth: {
+            enabled: true
+          },
           width: 1.5
         },
         layout: {
-          hierarchical: false
+          improvedLayout: true,
+          hierarchical: {
+            enabled: false,
+            direction: 'LR',
+            sortMethod: 'directed',
+            levelSeparation: 150,
+            nodeSpacing: 150
+          }
         },
         interaction: {
           hover: true,
           navigationButtons: false,
-          keyboard: true,
+          keyboard: false,
           tooltipDelay: 300
         },
         physics: {
           enabled: true,
+          solver: 'barnesHut',
+          barnesHut: {
+            theta: 0.5,
+            gravitationalConstant: -300,
+            centralGravity: 0.2,
+            springLength: 175,
+            springConstant: 0.05,
+            damping: 0.1,
+            avoidOverlap: 0.5,
+            maxVelocity: 50
+          },
           stabilization: {
-            iterations: 200
+            iterations: 250
           }
         }
       };
@@ -253,9 +274,9 @@
         // Center the graph on the current node
         network.once('stabilized', function () {
           network.focus(currentNodeId, {
-          scale: 0.50, // Adjust the scale as needed
+          scale: 0.333, // Adjust the scale as needed
           animation: {
-            duration: 1250,
+            duration: 1000,
             easingFunction: 'easeInOutQuad'
           }
         });
