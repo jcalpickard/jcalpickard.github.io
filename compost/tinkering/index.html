@@ -118,13 +118,57 @@
   </style>
 </head>
 <body>
-<div id="network" style="width: 100%; height: 175px;"></div>
+<div id="network" style="width: 100%; height: 250px;"></div>
 <div id="tooltip" class="graph-tooltip" style="display: none; position: absolute; background: #fff; border: 1px solid #ccc; padding: 10px; z-index: 1000;"></div>
 
 <script type="text/javascript">
+  function getCurrentPageNodeId(data) {
+      const currentUrl = window.location.href;
+      const node = data.nodes.find(node => currentUrl.includes(node.url));
+      return node ? node.id : null;
+    }
+
+  function getEgocentricData(data, currentNodeId, degrees) {
+    const nodes = new Set();
+    const edges = new Set();
+    const queue = [currentNodeId];
+    const visited = new Set();
+
+    for (let i = 0; i < degrees; i++) {
+      const nextQueue = [];
+      while (queue.length > 0) {
+        const nodeId = queue.shift();
+        if (!visited.has(nodeId)) {
+          visited.add(nodeId);
+          nodes.add(nodeId);
+          data.links.forEach(link => {
+            if (link.source === nodeId || link.target === nodeId) {
+              edges.add(link);
+              nextQueue.push(link.source === nodeId ? link.target : link.source);
+            }
+          });
+        }
+      }
+      queue.push(...nextQueue);
+    }
+
+    return {
+      nodes: data.nodes.filter(node => nodes.has(node.id)),
+      edges: Array.from(edges)
+    };
+  }
+
   fetch('/assets/graph-data.json')
-  .then(response => response.json())
-  .then(data => {
+    .then(response => response.json())
+    .then(data => {
+      const currentNodeId = getCurrentPageNodeId(data);
+      if (!currentNodeId) {
+        console.error('Current page node ID not found in graph data.');
+        return;
+      }
+
+    const egocentricData = getEgocentricData(data, currentNodeId, 2); // 2 degrees of separation
+
     const container = document.getElementById('network');
     const stages = {
       bruck: { color: '#CFD8DC', size: 15, borderWidth: 0 },
@@ -134,28 +178,28 @@
       detailing: { color: '#607D8B', size: 15, borderWidth: 0 }
     };
 
-    data.nodes.forEach(node => {
-      const stage = stages[node.stage];
-      if (stage) {
-        node.color = stage.color;
-        node.size = stage.size;
-        node.borderWidth = stage.borderWidth;
-        node.title = `<div>
-                        <strong>${node.label}</strong>
-                        <p>Stage: ${node.stage}</p>
-                        <p>Tags: ${node.tags.join(', ')}</p>
-                      </div>`;
+    egocentricData.nodes.forEach(node => {
+        const stage = stages[node.stage];
+        if (stage) {
+          node.color = stage.color;
+          node.size = stage.size;
+          node.borderWidth = stage.borderWidth;
+          node.tooltipContent = `<div>
+                                <strong>${node.label}</strong>
+                                <p>Tags: ${node.tags.join(', ')}</p>
+                                </div>`;
+          console.log(node); // Debugging line
       }
     });
 
       // Convert links to edges
-      const edges = data.links.map(link => ({
+      const edges = egocentricData.edges.map(link => ({
         from: link.source,
         to: link.target
       }));
 
       const networkData = {
-        nodes: data.nodes,
+        nodes: egocentricData.nodes,
         edges: edges
       };
 
@@ -172,29 +216,28 @@
         },
         layout: {
           hierarchical: false
-          },
+        },
+        interaction: {
+          hover: true,
+          navigationButtons: false,
+          keyboard: true,
+          tooltipDelay: 300
+        },
         physics: {
-          enabled: true
+          enabled: true,
+          stabilization: {
+            iterations: 200
+          }
         }
       };
 
-        // interaction: {
-        //  hover: true,
-        //  navigationButtons: true,
-        //  keyboard: true,
-        //  tooltipDelay: 300
-        // }
-
       const network = new vis.Network(container, networkData, options);
-
-      // var tooltip = document.createElement("div");
-      //  tooltip.className = "graph-tooltip";
-      //  document.body.appendChild(tooltip);
 
       network.on("hoverNode", function (params) {
         const nodeId = params.node;
-        const nodeData = data.nodes.find(node => node.id === nodeId);
-        tooltip.innerHTML = nodeData.title;
+        const nodeData = egocentricData.nodes.find(node => node.id === nodeId);
+          console.log(nodeData); // Debugging line
+        tooltip.innerHTML = nodeData.tooltipContent;
         tooltip.style.display = "block";
         tooltip.style.left = params.event.pageX + "px";
         tooltip.style.top = params.event.pageY + "px";
@@ -214,6 +257,16 @@
             }, 300);
           }
         }
+      });
+        // Center the graph on the current node
+        network.once('stabilized', function () {
+          network.focus(currentNodeId, {
+          scale: 0.50, // Adjust the scale as needed
+          animation: {
+            duration: 1250,
+            easingFunction: 'easeInOutQuad'
+          }
+        });
       });
     })
     .catch(error => {
