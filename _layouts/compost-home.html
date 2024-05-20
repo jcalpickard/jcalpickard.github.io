@@ -1,0 +1,48 @@
+---
+layout: base
+---
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+
+<div class="garden">
+  <div class="note-container {{ page.stage }}">
+    <header>
+      <h1>{{ page.title }}</h1>
+    </header>
+
+    <main>
+
+      {% if page.last_updated %}
+        <p class="last-updated">Last updated: {{ page.last_updated | date: "%B %d, %Y" }}</p>
+      {% endif %}
+
+      {{ content }}
+
+      {% if page.tags.size > 0 %}
+      <p>Tags: 
+        {% for tag in page.tags %}
+          <a href="/compost/tags/{{ tag | slugify }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      </p>
+      {% endif %}
+
+      {% if page.backlinks and page.backlinks.size > 0 %}
+        <p>Backlinks</p>
+        <ul>
+          {% for backlink in page.backlinks %}
+          {% assign linked_doc = site.documents | where: "url", backlink.url | first %}
+          {{ backlink.type }}: <a class="wiki-link" href="{{ linked_doc.url }}">{{ linked_doc.title }}</a>
+        {% endfor %}
+        </ul>
+      {% endif %}
+      </main>
+      {% include full-graph.html %}
+    <footer>
+      <nav>
+        <a href="/compost">Home</a>
+        <a href="/compost/about">About</a>
+      </nav>
+    </footer>
+  </div>

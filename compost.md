@@ -1,6 +1,8 @@
 ---
-layout: garden
+layout: compost-home
 title: Compost
+stage: "detailing"
+tags:
 permalink: /compost/
 ---
 
