@@ -28,13 +28,13 @@
       "url": "/compost/bruck/"
     },
     {
-      "id": "Detailing",
-      "label": "Detailing",
-      "stage": "detailing",
+      "id": "Communities of practice",
+      "label": "Communities of practice",
+      "stage": "bruck",
       "tags": [
 
       ],
-      "url": "/compost/detailing/"
+      "url": "/compost/communities-of-practice/"
     },
     {
       "id": "Digital garden",
@@ -46,15 +46,6 @@
       "url": "/compost/digital-garden/"
     },
     {
-      "id": "Moulding",
-      "label": "Moulding",
-      "stage": "moulding",
-      "tags": [
-
-      ],
-      "url": "/compost/moulding/"
-    },
-    {
       "id": "Roughing out",
       "label": "Roughing out",
       "stage": "roughingOut",
@@ -62,6 +53,15 @@
 
       ],
       "url": "/compost/roughing-out/"
+    },
+    {
+      "id": "Side-missions",
+      "label": "Side-missions",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/side-missions/"
     },
     {
       "id": "Tinkering",
@@ -72,6 +72,24 @@
         "improvisation"
       ],
       "url": "/compost/tinkering/"
+    },
+    {
+      "id": "Translocality",
+      "label": "Translocality",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/translocality/"
+    },
+    {
+      "id": "Undertakings",
+      "label": "Undertakings",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/undertakings/"
     }
   ],
   "links": [
@@ -84,20 +102,12 @@
       "target": "About"
     },
     {
-      "source": "Detailing",
-      "target": "About"
-    },
-    {
-      "source": "Detailing",
-      "target": "Moulding"
-    },
-    {
-      "source": "Moulding",
-      "target": "About"
-    },
-    {
       "source": "Roughing out",
       "target": "About"
+    },
+    {
+      "source": "Side-missions",
+      "target": "Undertakings"
     },
     {
       "source": "Tinkering",
