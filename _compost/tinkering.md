@@ -5,7 +5,7 @@ tags: [material, improvisation]
 stage: tinkering
 ---
 
-A hands-on, experimental approach to problem-solving and innovation, through incremental adjustments to what already exists. Playful exploration. A willingness to engage with materials or mechanisms directly. Repair, repurposing, a cyclical process of trial and error, through experiments and iteration. Next stage: [[roughing-out]].
+A hands-on, experimental approach to problem-solving and innovation, through incremental adjustments to what already exists. Playful exploration. A willingness to engage with materials or mechanisms directly. Repair, repurposing, a cyclical process of trial and error, through experiments and iteration.
 
 Tinkering values discovery, embracing failure as opportunities to learn and refine ideas. Tinkerers work with a variety of tools and materials, drawing inspiration from diverse fields and integrating different skillsets. Tactile exploration?
 
