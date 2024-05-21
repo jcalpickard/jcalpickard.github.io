@@ -19,6 +19,15 @@
       "url": "/compost/about/"
     },
     {
+      "id": "Adaptive roadmapping",
+      "label": "Adaptive roadmapping",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/adaptive-roadmapping/"
+    },
+    {
       "id": "Appropriate technology",
       "label": "Appropriate technology",
       "stage": "bruck",
@@ -53,6 +62,15 @@
 
       ],
       "url": "/compost/bruck/"
+    },
+    {
+      "id": "Care",
+      "label": "Care",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/care/"
     },
     {
       "id": "Chronos and kairos",
@@ -203,7 +221,7 @@
       "label": "Hauntology",
       "stage": "bruck",
       "tags": [
-
+        "time"
       ],
       "url": "/compost/hauntology/"
     },
@@ -242,6 +260,15 @@
 
       ],
       "url": "/compost/jugaad/"
+    },
+    {
+      "id": "Lay expertise",
+      "label": "Lay expertise",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/lay-expertise/"
     },
     {
       "id": "Megadungeon",
@@ -307,6 +334,15 @@
       "url": "/compost/northeast-atlantic-archipelago/"
     },
     {
+      "id": "Oligoptica",
+      "label": "Oligoptica",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/oligoptica/"
+    },
+    {
       "id": "Ontography",
       "label": "Ontography",
       "stage": "bruck",
@@ -320,7 +356,7 @@
       "label": "Pace layers",
       "stage": "bruck",
       "tags": [
-
+        "time"
       ],
       "url": "/compost/pace-layers/"
     },
@@ -531,6 +567,15 @@
 
       ],
       "url": "/compost/user-innovation/"
+    },
+    {
+      "id": "Virtue ethics",
+      "label": "Virtue ethics",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/virtue-ethics/"
     },
     {
       "id": "Vital conjunctures",
