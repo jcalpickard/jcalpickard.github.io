@@ -102,7 +102,7 @@
     {
       "id": "Forking",
       "label": "Forking",
-      "stage": "tinkering",
+      "stage": "bruck",
       "tags": [
 
       ],
@@ -165,7 +165,7 @@
     {
       "id": "Prompt engineering",
       "label": "Prompt engineering",
-      "stage": "tinkering",
+      "stage": "bruck",
       "tags": [
 
       ],
@@ -211,7 +211,7 @@
     {
       "id": "Trace ethnography",
       "label": "Trace ethnography",
-      "stage": "tinkering",
+      "stage": "bruck",
       "tags": [
 
       ],
