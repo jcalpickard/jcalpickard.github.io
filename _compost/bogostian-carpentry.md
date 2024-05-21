@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Side-missions"
+title: "Bogostian carpentry"
 stage: bruck
 ---

@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Side-missions"
+title: "Permacomputing"
 stage: bruck
 ---
