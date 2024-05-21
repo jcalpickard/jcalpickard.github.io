@@ -1,6 +1,15 @@
 {
   "nodes": [
     {
+      "id": "Abductive reasoning",
+      "label": "Abductive reasoning",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/abductive-reasoning/"
+    },
+    {
       "id": "About",
       "label": "About",
       "stage": "roughingOut",
@@ -8,6 +17,15 @@
 
       ],
       "url": "/compost/about/"
+    },
+    {
+      "id": "Adda",
+      "label": "Adda",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/adda/"
     },
     {
       "id": "Appropriate technology",
@@ -46,13 +64,13 @@
       "url": "/compost/bruck/"
     },
     {
-      "id": "Cloud-free",
-      "label": "Cloud-free",
+      "id": "Chronos and kairos",
+      "label": "Chronos and kairos",
       "stage": "bruck",
       "tags": [
-
+        "time"
       ],
-      "url": "/compost/cloud-free/"
+      "url": "/compost/chronos-and-kairos/"
     },
     {
       "id": "Collaboration",
@@ -62,6 +80,24 @@
 
       ],
       "url": "/compost/collaboration/"
+    },
+    {
+      "id": "Colloids",
+      "label": "Colloids",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/colloids/"
+    },
+    {
+      "id": "Colportage",
+      "label": "Colportage",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/colportage/"
     },
     {
       "id": "Combinatorics",
@@ -82,6 +118,42 @@
       "url": "/compost/communities-of-practice/"
     },
     {
+      "id": "Conjunctural analysis",
+      "label": "Conjunctural analysis",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/conjunctural-analysis/"
+    },
+    {
+      "id": "Counterfactuals",
+      "label": "Counterfactuals",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/counterfactuals/"
+    },
+    {
+      "id": "Counterfoil research",
+      "label": "Counterfoil research",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/counterfoil-research/"
+    },
+    {
+      "id": "Degrowth",
+      "label": "Degrowth",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/degrowth/"
+    },
+    {
       "id": "Digital gardening",
       "label": "Digital gardening",
       "stage": "bruck",
@@ -100,6 +172,24 @@
       "url": "/compost/ethnography/"
     },
     {
+      "id": "Ferality",
+      "label": "Ferality",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/ferality/"
+    },
+    {
+      "id": "Field philosophy",
+      "label": "Field philosophy",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/field-philosophy/"
+    },
+    {
       "id": "Forking",
       "label": "Forking",
       "stage": "bruck",
@@ -107,6 +197,24 @@
 
       ],
       "url": "/compost/forking/"
+    },
+    {
+      "id": "Hauntology",
+      "label": "Hauntology",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/hauntology/"
+    },
+    {
+      "id": "Improvisation",
+      "label": "Improvisation",
+      "stage": "bruck",
+      "tags": [
+        "improvisation"
+      ],
+      "url": "/compost/improvisation/"
     },
     {
       "id": "Infrastructure",
@@ -118,6 +226,24 @@
       "url": "/compost/infrastructure/"
     },
     {
+      "id": "Insularity",
+      "label": "Insularity",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/insularity/"
+    },
+    {
+      "id": "Jagged noetic substrates",
+      "label": "Jagged noetic substrates",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/jagged-noetic-substrates/"
+    },
+    {
       "id": "Jugaad",
       "label": "Jugaad",
       "stage": "bruck",
@@ -125,6 +251,15 @@
 
       ],
       "url": "/compost/jugaad/"
+    },
+    {
+      "id": "Megadungeon",
+      "label": "Megadungeon",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/megadungeon/"
     },
     {
       "id": "Minor technologies",
@@ -136,6 +271,51 @@
       "url": "/compost/minor-technologies/"
     },
     {
+      "id": "Morphological analysis",
+      "label": "Morphological analysis",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/morphological-analysis/"
+    },
+    {
+      "id": "Muddling through",
+      "label": "Muddling through",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/muddling-through/"
+    },
+    {
+      "id": "Mycorrhizal time",
+      "label": "Mycorrhizal time",
+      "stage": "bruck",
+      "tags": [
+        "time"
+      ],
+      "url": "/compost/mycorrhizal-time/"
+    },
+    {
+      "id": "Narrative aircover",
+      "label": "Narrative aircover",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/narrative-aircover/"
+    },
+    {
+      "id": "Northeast Atlantic archipelago",
+      "label": "Northeast Atlantic archipelago",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/northeast-atlantic-archipelago/"
+    },
+    {
       "id": "Ontography",
       "label": "Ontography",
       "stage": "bruck",
@@ -145,6 +325,24 @@
       "url": "/compost/ontography/"
     },
     {
+      "id": "Pace layers",
+      "label": "Pace layers",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/pace-layers/"
+    },
+    {
+      "id": "Panpneumatics",
+      "label": "Panpneumatics",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/panpneumatics/"
+    },
+    {
       "id": "Permacomputing",
       "label": "Permacomputing",
       "stage": "bruck",
@@ -152,6 +350,15 @@
 
       ],
       "url": "/compost/permacomputing/"
+    },
+    {
+      "id": "Permaculture",
+      "label": "Permaculture",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/permaculture/"
     },
     {
       "id": "Postcolonial technoscience",
@@ -172,13 +379,94 @@
       "url": "/compost/prompt-engineering/"
     },
     {
-      "id": "Roughing out",
-      "label": "Roughing out",
-      "stage": "tinkering",
+      "id": "Prosopography",
+      "label": "Prosopography",
+      "stage": "bruck",
       "tags": [
 
       ],
-      "url": "/compost/roughing-out/"
+      "url": "/compost/prosopography/"
+    },
+    {
+      "id": "Prototyping",
+      "label": "Prototyping",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/prototyping/"
+    },
+    {
+      "id": "Psychogeography",
+      "label": "Psychogeography",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/psychogeography/"
+    },
+    {
+      "id": "Rearguard yin tactics",
+      "label": "Rearguard yin tactics",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/rearguard-yin-tactics/"
+    },
+    {
+      "id": "Repair cultures",
+      "label": "Repair cultures",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/repair/"
+    },
+    {
+      "id": "Retrieval-augmented generation",
+      "label": "Retrieval-augmented generation",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/retrieval-augmented-generation/"
+    },
+    {
+      "id": "Reverse salients",
+      "label": "Reverse salients",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/reverse-salients/"
+    },
+    {
+      "id": "Rhizome",
+      "label": "Rhizome",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/rhizome/"
+    },
+    {
+      "id": "Ruderality",
+      "label": "Ruderality",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/ruderality/"
+    },
+    {
+      "id": "Seasonality",
+      "label": "Seasonality",
+      "stage": "bruck",
+      "tags": [
+        "time"
+      ],
+      "url": "/compost/seasonality/"
     },
     {
       "id": "Side-missions",
@@ -197,6 +485,15 @@
 
       ],
       "url": "/compost/situated-software/"
+    },
+    {
+      "id": "Stewardship",
+      "label": "Stewardship",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/stewardship/"
     },
     {
       "id": "Tinkering",
@@ -234,6 +531,15 @@
 
       ],
       "url": "/compost/user-innovation/"
+    },
+    {
+      "id": "Vital conjunctures",
+      "label": "Vital conjunctures",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/vital-conjunctures/"
     }
   ],
   "links": [
@@ -250,16 +556,12 @@
       "target": "About"
     },
     {
+      "source": "Ethnography",
+      "target": "Trace ethnography"
+    },
+    {
       "source": "Jugaad",
       "target": "Bruck"
-    },
-    {
-      "source": "Roughing out",
-      "target": "About"
-    },
-    {
-      "source": "Roughing out",
-      "target": "Tinkering"
     },
     {
       "source": "Tinkering",
