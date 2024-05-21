@@ -19,15 +19,6 @@
       "url": "/compost/about/"
     },
     {
-      "id": "Adda",
-      "label": "Adda",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/adda/"
-    },
-    {
       "id": "Appropriate technology",
       "label": "Appropriate technology",
       "stage": "bruck",
@@ -50,7 +41,7 @@
       "label": "Bricolage",
       "stage": "bruck",
       "tags": [
-
+        "improvisation"
       ],
       "url": "/compost/bricolage/"
     },
@@ -118,6 +109,15 @@
       "url": "/compost/communities-of-practice/"
     },
     {
+      "id": "Computational thinking",
+      "label": "Computational thinking",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/computational-thinking/"
+    },
+    {
       "id": "Conjunctural analysis",
       "label": "Conjunctural analysis",
       "stage": "bruck",
@@ -152,15 +152,6 @@
 
       ],
       "url": "/compost/degrowth/"
-    },
-    {
-      "id": "Digital gardening",
-      "label": "Digital gardening",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/digital-gardening/"
     },
     {
       "id": "Ethnography",
@@ -199,6 +190,15 @@
       "url": "/compost/forking/"
     },
     {
+      "id": "Ground-zero empiricism",
+      "label": "Ground-zero empiricism",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/ground-zero-empiricism/"
+    },
+    {
       "id": "Hauntology",
       "label": "Hauntology",
       "stage": "bruck",
@@ -206,15 +206,6 @@
 
       ],
       "url": "/compost/hauntology/"
-    },
-    {
-      "id": "Improvisation",
-      "label": "Improvisation",
-      "stage": "bruck",
-      "tags": [
-        "improvisation"
-      ],
-      "url": "/compost/improvisation/"
     },
     {
       "id": "Infrastructure",
@@ -284,7 +275,7 @@
       "label": "Muddling through",
       "stage": "bruck",
       "tags": [
-
+        "improvisation"
       ],
       "url": "/compost/muddling-through/"
     },
@@ -368,6 +359,15 @@
 
       ],
       "url": "/compost/postcolonial-technoscience/"
+    },
+    {
+      "id": "Project ontology",
+      "label": "Project ontology",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/project-ontology/"
     },
     {
       "id": "Prompt engineering",
@@ -544,24 +544,88 @@
   ],
   "links": [
     {
-      "source": "Appropriate technology",
-      "target": "Digital gardening"
+      "source": "Bricolage",
+      "target": "Bruck"
     },
     {
       "source": "Bricolage",
-      "target": "Bruck"
+      "target": "Jugaad"
+    },
+    {
+      "source": "Bricolage",
+      "target": "Muddling through"
     },
     {
       "source": "Bruck",
       "target": "About"
     },
     {
+      "source": "Combinatorics",
+      "target": "Morphological analysis"
+    },
+    {
+      "source": "Communities of practice",
+      "target": "Situated software"
+    },
+    {
+      "source": "Ethnography",
+      "target": "Field philosophy"
+    },
+    {
       "source": "Ethnography",
       "target": "Trace ethnography"
     },
     {
+      "source": "Ferality",
+      "target": "Ruderality"
+    },
+    {
+      "source": "Hauntology",
+      "target": "Conjunctural analysis"
+    },
+    {
+      "source": "Insularity",
+      "target": "Northeast Atlantic archipelago"
+    },
+    {
+      "source": "Jugaad",
+      "target": "Bricolage"
+    },
+    {
       "source": "Jugaad",
       "target": "Bruck"
+    },
+    {
+      "source": "Narrative aircover",
+      "target": "Vital conjunctures"
+    },
+    {
+      "source": "Ontography",
+      "target": "Morphological analysis"
+    },
+    {
+      "source": "Pace layers",
+      "target": "Reverse salients"
+    },
+    {
+      "source": "Project ontology",
+      "target": "Side-missions"
+    },
+    {
+      "source": "Repair cultures",
+      "target": "Stewardship"
+    },
+    {
+      "source": "Reverse salients",
+      "target": "Pace layers"
+    },
+    {
+      "source": "Ruderality",
+      "target": "Ferality"
+    },
+    {
+      "source": "Stewardship",
+      "target": "Permaculture"
     },
     {
       "source": "Tinkering",
@@ -570,6 +634,10 @@
     {
       "source": "Tinkering",
       "target": "Bruck"
+    },
+    {
+      "source": "User innovation",
+      "target": "Situated software"
     }
   ]
 }
