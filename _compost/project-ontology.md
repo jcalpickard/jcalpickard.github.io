@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Adda"
+title: "Project ontology"
 stage: bruck
 ---

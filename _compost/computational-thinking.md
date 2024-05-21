@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Appropriate technology"
+title: "Computational thinking"
 stage: bruck
 ---

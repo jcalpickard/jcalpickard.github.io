@@ -1,1 +1,15 @@
 // Placeholder to allow overriding predefined variables smoothly.
+
+:root {
+    --note-bg-light: #f5f2e8;
+    --note-bg-bruck: #ddd7c4;
+    --note-bg-tinkering: #e2ddc9;
+    --note-bg-roughing-out: #e6e2d2;
+    --note-bg-moulding: #ece8dc;
+  
+    --border-color-light: #{darken(#f5f2e8, 15%)};
+    --border-color-bruck: #{darken(#ddd7c4, 15%)};
+    --border-color-tinkering: #{darken(#e2ddc9, 15%)};
+    --border-color-roughing-out: #{darken(#e6e2d2, 15%)};
+    --border-color-moulding: #{darken(#ece8dc, 15%)};
+  }

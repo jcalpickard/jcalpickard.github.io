@@ -138,21 +138,38 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $brand-color;
-  border-left: 4px solid $border-color-01;
-  padding-left: $spacing-unit * .5;
+  color: inherit;
   @include relative-font-size(1.125);
   font-style: normal;
+  position: relative;
 
   > :last-child {
     margin-bottom: 0;
   }
-
-  i, em {
-    font-style: normal;
-  }
 }
 
+blockquote cite {
+  font-style: normal;
+  display: block;
+  text-align: right;
+  font-size: 0.75em;
+  margin-top: $spacing-unit;
+}
+
+// Define a map of background classes to border colors
+$note-backgrounds: (
+  'bruck': var(--border-color-bruck),
+  'tinkering': var(--border-color-tinkering),
+  'roughing-out': var(--border-color-roughing-out),
+  'moulding': var(--border-color-moulding)
+);
+
+// Loop through the map and apply the styles
+@each $class, $border-color in $note-backgrounds {
+  .note-container.#{$class} blockquote {
+    border-left-color: $border-color;
+  }
+}
 
 
 /**
