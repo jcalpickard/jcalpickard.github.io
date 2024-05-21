@@ -58,7 +58,12 @@ module Jekyll
       
       # Write the JSON data to the file
       File.write(output_path, JSON.pretty_generate(graph_data))
-    
+      
+      # Confirm the file was written
+      if File.exist?(output_path)
+        Jekyll.logger.info "Graph data successfully written to #{output_path}"
+      else
+        Jekyll.logger.error "Failed to write graph data to #{output_path}"
       end
     end
   end
