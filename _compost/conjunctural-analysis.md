@@ -7,3 +7,4 @@ stage: bruck
 Conjunctural analysis examines the multiple forces converging at a particular sociopolitical moment.
 
 - [&] Compare with: [[hauntology]]? (both concerned with contextual/historical entanglements)
+- [&] Compare with: [[vital-conjunctures]]? (large vs. small scale)

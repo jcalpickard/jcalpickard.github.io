@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Repair"
+title: "Cognitive mapping"
 stage: bruck
 ---

@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Repair"
+title: "Sociotechnical systems"
 stage: bruck
 ---

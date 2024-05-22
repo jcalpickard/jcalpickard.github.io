@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Oligoptica"
+title: "Cybernetics"
 stage: bruck
 ---
