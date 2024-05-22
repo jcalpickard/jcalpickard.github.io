@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Holobiont"
+title: "Cognitive justice"
 stage: bruck
 ---

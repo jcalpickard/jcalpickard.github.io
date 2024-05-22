@@ -4,4 +4,4 @@ title: "Experimental publishing"
 stage: bruck
 ---
 
-Potentially a form of [[tinkering]]?
+Potentially a form of [[tinkering]] and/or [[prototyping]]?
