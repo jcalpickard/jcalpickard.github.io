@@ -91,6 +91,15 @@
       "url": "/compost/chronos-and-kairos/"
     },
     {
+      "id": "Cognitive justice",
+      "label": "Cognitive justice",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/cognitive-justice/"
+    },
+    {
       "id": "Cognitive mapping",
       "label": "Cognitive mapping",
       "stage": "bruck",
@@ -163,13 +172,22 @@
       "url": "/compost/conjunctural-analysis/"
     },
     {
-      "id": "Counterfactuals",
-      "label": "Counterfactuals",
+      "id": "Convivial tools",
+      "label": "Convivial tools",
       "stage": "bruck",
       "tags": [
 
       ],
-      "url": "/compost/counterfactuals/"
+      "url": "/compost/convivial-tools/"
+    },
+    {
+      "id": "Counterfactual reasoning",
+      "label": "Counterfactual reasoning",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/counterfactual-reasoning/"
     },
     {
       "id": "Counterfoil research",
@@ -179,6 +197,15 @@
 
       ],
       "url": "/compost/counterfoil-research/"
+    },
+    {
+      "id": "CSCW (Computer-supported collaborative work)",
+      "label": "CSCW (Computer-supported collaborative work)",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/cscw/"
     },
     {
       "id": "Cybernetics",
@@ -197,6 +224,15 @@
 
       ],
       "url": "/compost/degrowth/"
+    },
+    {
+      "id": "Digital gardening",
+      "label": "Digital gardening",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/digital-gardening/"
     },
     {
       "id": "Ethnography",
@@ -262,15 +298,6 @@
       "url": "/compost/hauntology/"
     },
     {
-      "id": "Holobiont",
-      "label": "Holobiont",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/holobiont/"
-    },
-    {
       "id": "Infrastructure",
       "label": "Infrastructure",
       "stage": "bruck",
@@ -305,6 +332,15 @@
 
       ],
       "url": "/compost/jugaad/"
+    },
+    {
+      "id": "Knowledge graphs",
+      "label": "Knowledge graphs",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/knowledge-graphs/"
     },
     {
       "id": "Landvættir",
@@ -613,6 +649,15 @@
       "url": "/compost/stewardship/"
     },
     {
+      "id": "Technological momentum",
+      "label": "Technological momentum",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/technological-momentum/"
+    },
+    {
       "id": "Tinkering",
       "label": "Tinkering",
       "stage": "tinkering",
@@ -695,12 +740,12 @@
       "target": "Muddling through"
     },
     {
-      "source": "Bruck",
-      "target": "About"
-    },
-    {
       "source": "Care",
       "target": "Stewardship"
+    },
+    {
+      "source": "Collaboration",
+      "target": "CSCW (Computer-supported collaborative work)"
     },
     {
       "source": "Combinatorics",
@@ -713,6 +758,10 @@
     {
       "source": "Computational thinking",
       "target": "Prompt engineering"
+    },
+    {
+      "source": "Convivial tools",
+      "target": "Counterfoil research"
     },
     {
       "source": "Counterfoil research",
@@ -755,6 +804,10 @@
       "target": "Bruck"
     },
     {
+      "source": "Knowledge graphs",
+      "target": "Digital gardening"
+    },
+    {
       "source": "Lay expertise",
       "target": "User innovation"
     },
@@ -783,8 +836,20 @@
       "target": "Reverse salients"
     },
     {
+      "source": "Permaculture",
+      "target": "Permacomputing"
+    },
+    {
       "source": "Project ontology",
       "target": "Side-missions"
+    },
+    {
+      "source": "Prototyping",
+      "target": "Experimental publishing"
+    },
+    {
+      "source": "Prototyping",
+      "target": "User innovation"
     },
     {
       "source": "Rearguard yin tactics",
@@ -821,10 +886,6 @@
     {
       "source": "Stewardship",
       "target": "Permaculture"
-    },
-    {
-      "source": "Tinkering",
-      "target": "About"
     },
     {
       "source": "Tinkering",
