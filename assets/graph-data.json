@@ -19,6 +19,15 @@
       "url": "/compost/about/"
     },
     {
+      "id": "Actor-network theory",
+      "label": "Actor-network theory",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/actor-network-theory/"
+    },
+    {
       "id": "Adaptive roadmapping",
       "label": "Adaptive roadmapping",
       "stage": "bruck",
@@ -80,6 +89,15 @@
         "time"
       ],
       "url": "/compost/chronos-and-kairos/"
+    },
+    {
+      "id": "Cognitive mapping",
+      "label": "Cognitive mapping",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/cognitive-mapping/"
     },
     {
       "id": "Collaboration",
@@ -163,6 +181,15 @@
       "url": "/compost/counterfoil-research/"
     },
     {
+      "id": "Cybernetics",
+      "label": "Cybernetics",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/cybernetics/"
+    },
+    {
       "id": "Degrowth",
       "label": "Degrowth",
       "stage": "bruck",
@@ -179,6 +206,15 @@
 
       ],
       "url": "/compost/ethnography/"
+    },
+    {
+      "id": "Experimental publishing",
+      "label": "Experimental publishing",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/experimental-publishing/"
     },
     {
       "id": "Ferality",
@@ -226,6 +262,15 @@
       "url": "/compost/hauntology/"
     },
     {
+      "id": "Holobiont",
+      "label": "Holobiont",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/holobiont/"
+    },
+    {
       "id": "Infrastructure",
       "label": "Infrastructure",
       "stage": "bruck",
@@ -260,6 +305,24 @@
 
       ],
       "url": "/compost/jugaad/"
+    },
+    {
+      "id": "Landvættir",
+      "label": "Landvættir",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/landv%C3%A6ttir/"
+    },
+    {
+      "id": "Latency",
+      "label": "Latency",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/latency/"
     },
     {
       "id": "Lay expertise",
@@ -334,15 +397,6 @@
       "url": "/compost/northeast-atlantic-archipelago/"
     },
     {
-      "id": "Oligoptica",
-      "label": "Oligoptica",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/oligoptica/"
-    },
-    {
       "id": "Ontography",
       "label": "Ontography",
       "stage": "bruck",
@@ -386,6 +440,15 @@
 
       ],
       "url": "/compost/permaculture/"
+    },
+    {
+      "id": "Phronesis",
+      "label": "Phronesis",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/phronesis/"
     },
     {
       "id": "Postcolonial technoscience",
@@ -451,8 +514,8 @@
       "url": "/compost/rearguard-yin-tactics/"
     },
     {
-      "id": "Repair cultures",
-      "label": "Repair cultures",
+      "id": "Repair",
+      "label": "Repair",
       "stage": "bruck",
       "tags": [
 
@@ -523,6 +586,24 @@
       "url": "/compost/situated-software/"
     },
     {
+      "id": "Sociotechnical flânerie",
+      "label": "Sociotechnical flânerie",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/sociotechnical-fl%C3%A2nerie/"
+    },
+    {
+      "id": "Sociotechnical systems",
+      "label": "Sociotechnical systems",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/sociotechnical-systems/"
+    },
+    {
       "id": "Stewardship",
       "label": "Stewardship",
       "stage": "bruck",
@@ -585,9 +666,22 @@
 
       ],
       "url": "/compost/vital-conjunctures/"
+    },
+    {
+      "id": "Worlding",
+      "label": "Worlding",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/worlding/"
     }
   ],
   "links": [
+    {
+      "source": "Appropriate technology",
+      "target": "Minor technologies"
+    },
     {
       "source": "Bricolage",
       "target": "Bruck"
@@ -605,6 +699,10 @@
       "target": "About"
     },
     {
+      "source": "Care",
+      "target": "Stewardship"
+    },
+    {
       "source": "Combinatorics",
       "target": "Morphological analysis"
     },
@@ -613,8 +711,24 @@
       "target": "Situated software"
     },
     {
+      "source": "Computational thinking",
+      "target": "Prompt engineering"
+    },
+    {
+      "source": "Counterfoil research",
+      "target": "Rearguard yin tactics"
+    },
+    {
+      "source": "Ethnography",
+      "target": "Actor-network theory"
+    },
+    {
       "source": "Ethnography",
       "target": "Field philosophy"
+    },
+    {
+      "source": "Ethnography",
+      "target": "Sociotechnical flânerie"
     },
     {
       "source": "Ethnography",
@@ -641,8 +755,24 @@
       "target": "Bruck"
     },
     {
+      "source": "Lay expertise",
+      "target": "User innovation"
+    },
+    {
+      "source": "Minor technologies",
+      "target": "Appropriate technology"
+    },
+    {
+      "source": "Muddling through",
+      "target": "Adaptive roadmapping"
+    },
+    {
       "source": "Narrative aircover",
       "target": "Vital conjunctures"
+    },
+    {
+      "source": "Ontography",
+      "target": "Actor-network theory"
     },
     {
       "source": "Ontography",
@@ -657,7 +787,11 @@
       "target": "Side-missions"
     },
     {
-      "source": "Repair cultures",
+      "source": "Rearguard yin tactics",
+      "target": "Counterfoil research"
+    },
+    {
+      "source": "Repair",
       "target": "Stewardship"
     },
     {
@@ -665,8 +799,24 @@
       "target": "Pace layers"
     },
     {
+      "source": "Rhizome",
+      "target": "Actor-network theory"
+    },
+    {
       "source": "Ruderality",
       "target": "Ferality"
+    },
+    {
+      "source": "Side-missions",
+      "target": "Forking"
+    },
+    {
+      "source": "Sociotechnical systems",
+      "target": "Infrastructure"
+    },
+    {
+      "source": "Sociotechnical systems",
+      "target": "Sociotechnical flânerie"
     },
     {
       "source": "Stewardship",
@@ -681,8 +831,24 @@
       "target": "Bruck"
     },
     {
+      "source": "Tinkering",
+      "target": "Experimental publishing"
+    },
+    {
+      "source": "Trace ethnography",
+      "target": "Sociotechnical flânerie"
+    },
+    {
       "source": "User innovation",
       "target": "Situated software"
+    },
+    {
+      "source": "Virtue ethics",
+      "target": "Phronesis"
+    },
+    {
+      "source": "Vital conjunctures",
+      "target": "Conjunctural analysis"
     }
   ]
 }
