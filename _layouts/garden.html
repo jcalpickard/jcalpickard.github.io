@@ -14,9 +14,7 @@ layout: base
 
     <main>
 
-      {% if page.last_updated %}
-        <p class="last-updated">Last updated: {{ page.last_updated | date: "%B %d, %Y" }}</p>
-      {% endif %}
+      {% include last-updated.html %}
 
       {{ content }}
 
@@ -45,6 +43,7 @@ layout: base
         <a href="/compost/about">About</a>
       </nav>
     </footer>
+    
   </div>
 <div>
 {% include graph.html %}

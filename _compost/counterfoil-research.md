@@ -8,5 +8,3 @@ stage: bruck
 <cite>— Ivan Illich, _Tools for Conviviality_ (1973), pp. 92-93</cite>
 
 Part of Ivan Illich's work on [[convivial-tools]].
-
-- [&] See also: [[rearguard-yin-tactics]]?

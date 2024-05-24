@@ -13,6 +13,7 @@ gem 'faraday-retry'
 
 group :jekyll_plugins do
     gem 'jekyll-include-cache'
+    gem 'jekyll-last-modified-at'
     gem 'jekyll-feed'
     gem 'jekyll-relative-links'
     gem 'jekyll-wikirefs'
