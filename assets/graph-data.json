@@ -208,15 +208,6 @@
       "url": "/compost/cscw/"
     },
     {
-      "id": "Cybernetics",
-      "label": "Cybernetics",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/cybernetics/"
-    },
-    {
       "id": "Degrowth",
       "label": "Degrowth",
       "stage": "bruck",
@@ -372,7 +363,7 @@
     {
       "id": "Megadungeon",
       "label": "Megadungeon",
-      "stage": "bruck",
+      "stage": "tinkering",
       "tags": [
 
       ],
@@ -744,6 +735,10 @@
       "target": "Stewardship"
     },
     {
+      "source": "Chronos and kairos",
+      "target": "Vital conjunctures"
+    },
+    {
       "source": "Collaboration",
       "target": "CSCW (Computer-supported collaborative work)"
     },
@@ -762,10 +757,6 @@
     {
       "source": "Convivial tools",
       "target": "Counterfoil research"
-    },
-    {
-      "source": "Counterfoil research",
-      "target": "Rearguard yin tactics"
     },
     {
       "source": "Ethnography",
@@ -837,11 +828,19 @@
     },
     {
       "source": "Permaculture",
+      "target": "About"
+    },
+    {
+      "source": "Permaculture",
       "target": "Permacomputing"
     },
     {
       "source": "Project ontology",
       "target": "Side-missions"
+    },
+    {
+      "source": "Prototyping",
+      "target": "Bogostian carpentry"
     },
     {
       "source": "Prototyping",
@@ -852,16 +851,16 @@
       "target": "User innovation"
     },
     {
-      "source": "Rearguard yin tactics",
-      "target": "Counterfoil research"
-    },
-    {
       "source": "Repair",
       "target": "Stewardship"
     },
     {
       "source": "Reverse salients",
       "target": "Pace layers"
+    },
+    {
+      "source": "Rhizome",
+      "target": "About"
     },
     {
       "source": "Rhizome",
