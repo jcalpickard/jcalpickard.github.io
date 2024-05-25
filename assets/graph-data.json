@@ -46,6 +46,15 @@
       "url": "/compost/appropriate-technology/"
     },
     {
+      "id": "Begumpura",
+      "label": "Begumpura",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/begumpura/"
+    },
+    {
       "id": "Bogostian carpentry",
       "label": "Bogostian carpentry",
       "stage": "bruck",
@@ -181,6 +190,15 @@
       "url": "/compost/convivial-tools/"
     },
     {
+      "id": "Cosmotechnics",
+      "label": "Cosmotechnics",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/cosmotechnics/"
+    },
+    {
       "id": "Counterfactual reasoning",
       "label": "Counterfactual reasoning",
       "stage": "bruck",
@@ -224,6 +242,15 @@
 
       ],
       "url": "/compost/digital-gardening/"
+    },
+    {
+      "id": "Distributed cognition",
+      "label": "Distributed cognition",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/distributed-cognition/"
     },
     {
       "id": "Ethnography",
@@ -287,6 +314,24 @@
         "time"
       ],
       "url": "/compost/hauntology/"
+    },
+    {
+      "id": "Heterotopias",
+      "label": "Heterotopias",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/heterotopias/"
+    },
+    {
+      "id": "Hyperobjects",
+      "label": "Hyperobjects",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/hyperobjects/"
     },
     {
       "id": "Infrastructure",
@@ -577,6 +622,15 @@
       "url": "/compost/rhizome/"
     },
     {
+      "id": "Right to the city",
+      "label": "Right to the city",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/right-to-the-city/"
+    },
+    {
       "id": "Ruderality",
       "label": "Ruderality",
       "stage": "bruck",
@@ -638,6 +692,15 @@
 
       ],
       "url": "/compost/stewardship/"
+    },
+    {
+      "id": "Stigmergy",
+      "label": "Stigmergy",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/stigmergy/"
     },
     {
       "id": "Technological momentum",
@@ -739,6 +802,10 @@
       "target": "Vital conjunctures"
     },
     {
+      "source": "Cognitive justice",
+      "target": "Lay expertise"
+    },
+    {
       "source": "Collaboration",
       "target": "CSCW (Computer-supported collaborative work)"
     },
@@ -779,6 +846,10 @@
       "target": "Ruderality"
     },
     {
+      "source": "Field philosophy",
+      "target": "Bogostian carpentry"
+    },
+    {
       "source": "Hauntology",
       "target": "Conjunctural analysis"
     },
@@ -797,6 +868,10 @@
     {
       "source": "Knowledge graphs",
       "target": "Digital gardening"
+    },
+    {
+      "source": "Lay expertise",
+      "target": "Cognitive justice"
     },
     {
       "source": "Lay expertise",
@@ -865,6 +940,10 @@
     {
       "source": "Rhizome",
       "target": "Actor-network theory"
+    },
+    {
+      "source": "Right to the city",
+      "target": "Begumpura"
     },
     {
       "source": "Ruderality",
