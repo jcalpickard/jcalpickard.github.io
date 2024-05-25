@@ -98,3 +98,9 @@ a.footnote {
 .footnotes ol li {
   margin-bottom: 0.5rem;
 }
+
+.img-padded {
+  max-width: 100%;
+  height: auto;
+  padding: 10px 0; /* 10px padding top and bottom, 0 padding left and right */
+}

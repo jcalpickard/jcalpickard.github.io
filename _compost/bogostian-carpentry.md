@@ -4,4 +4,4 @@ title: "Bogostian carpentry"
 stage: bruck
 ---
 
-[[Field-philosophy]] through [[prototyping]]?
+[[field-philosophy]] through [[prototyping]]?

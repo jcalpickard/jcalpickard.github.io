@@ -13,6 +13,7 @@ header_pages:
   - compost.md
   - log.md
   - phd.md
+  - cv.md
 
 sass:
   sass_dir: _sass

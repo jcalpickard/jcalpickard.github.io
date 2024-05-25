@@ -1,0 +1,25 @@
+---
+layout: post
+---
+
+{{ content }}
+
+<p class="weeknotes-nav" style="margin-top: 20px; text-align: center;">
+  {% assign sorted_weeknotes = site.categories.weeknotes | sort: 'date' %}
+  {% for weeknote in sorted_weeknotes %}
+    {% if weeknote.url == page.url %}
+      {% assign prev_index = forloop.index0 | minus: 1 %}
+      {% assign next_index = forloop.index | plus: 1 %}
+      {% if forloop.first == false %}
+        <a href="{{ sorted_weeknotes[prev_index].url }}" style="margin-right: 20px; text-decoration: none; color: #000;" onmouseover="this.style.color='#007BFF'" onmouseout="this.style.color='#000'">
+          &larr; Earlier
+        </a>
+      {% endif %}
+      {% if next_index < sorted_weeknotes.size %}
+        <a href="{{ sorted_weeknotes[next_index].url }}" style="text-decoration: none; color: #000;" onmouseover="this.style.color='#007BFF'" onmouseout="this.style.color='#000'">
+          Later &rarr;
+        </a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</p>
