@@ -57,7 +57,7 @@
     {
       "id": "Bogostian carpentry",
       "label": "Bogostian carpentry",
-      "stage": "bruck",
+      "stage": "tinkering",
       "tags": [
 
       ],
@@ -217,6 +217,15 @@
       "url": "/compost/counterfoil-research/"
     },
     {
+      "id": "Critical making",
+      "label": "Critical making",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/critical-making/"
+    },
+    {
       "id": "CSCW (Computer-supported collaborative work)",
       "label": "CSCW (Computer-supported collaborative work)",
       "stage": "bruck",
@@ -262,6 +271,15 @@
       "url": "/compost/ethnography/"
     },
     {
+      "id": "Experimental archaeology",
+      "label": "Experimental archaeology",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/experimental-archaeology/"
+    },
+    {
       "id": "Experimental publishing",
       "label": "Experimental publishing",
       "stage": "bruck",
@@ -287,6 +305,15 @@
 
       ],
       "url": "/compost/field-philosophy/"
+    },
+    {
+      "id": "Fieldnotes",
+      "label": "Fieldnotes",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/fieldnotes/"
     },
     {
       "id": "Forking",
@@ -332,6 +359,15 @@
 
       ],
       "url": "/compost/hyperobjects/"
+    },
+    {
+      "id": "Independent research",
+      "label": "Independent research",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/independent-research/"
     },
     {
       "id": "Infrastructure",
@@ -494,6 +530,15 @@
 
       ],
       "url": "/compost/panpneumatics/"
+    },
+    {
+      "id": "Participant observation",
+      "label": "Participant observation",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/participant-observation/"
     },
     {
       "id": "Permacomputing",
@@ -712,6 +757,15 @@
       "url": "/compost/technological-momentum/"
     },
     {
+      "id": "Thick description",
+      "label": "Thick description",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/thick-description/"
+    },
+    {
       "id": "Tinkering",
       "label": "Tinkering",
       "stage": "tinkering",
@@ -826,6 +880,10 @@
       "target": "Counterfoil research"
     },
     {
+      "source": "Critical making",
+      "target": "Bogostian carpentry"
+    },
+    {
       "source": "Ethnography",
       "target": "Actor-network theory"
     },
@@ -842,6 +900,10 @@
       "target": "Trace ethnography"
     },
     {
+      "source": "Experimental archaeology",
+      "target": "Bogostian carpentry"
+    },
+    {
       "source": "Ferality",
       "target": "Ruderality"
     },
@@ -850,8 +912,16 @@
       "target": "Bogostian carpentry"
     },
     {
+      "source": "Fieldnotes",
+      "target": "Ethnography"
+    },
+    {
       "source": "Hauntology",
       "target": "Conjunctural analysis"
+    },
+    {
+      "source": "Independent research",
+      "target": "Bogostian carpentry"
     },
     {
       "source": "Insularity",
@@ -895,11 +965,19 @@
     },
     {
       "source": "Ontography",
+      "target": "Bogostian carpentry"
+    },
+    {
+      "source": "Ontography",
       "target": "Morphological analysis"
     },
     {
       "source": "Pace layers",
       "target": "Reverse salients"
+    },
+    {
+      "source": "Participant observation",
+      "target": "Ethnography"
     },
     {
       "source": "Permaculture",
@@ -964,6 +1042,10 @@
     {
       "source": "Stewardship",
       "target": "Permaculture"
+    },
+    {
+      "source": "Thick description",
+      "target": "Ethnography"
     },
     {
       "source": "Tinkering",
