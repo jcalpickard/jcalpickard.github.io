@@ -12,7 +12,7 @@
     {
       "id": "About",
       "label": "About",
-      "stage": "roughingOut",
+      "stage": "tinkering",
       "tags": [
 
       ],
@@ -66,7 +66,7 @@
     {
       "id": "Bricolage",
       "label": "Bricolage",
-      "stage": "bruck",
+      "stage": "tinkering",
       "tags": [
         "improvisation"
       ],
@@ -138,7 +138,7 @@
     {
       "id": "Colportage",
       "label": "Colportage",
-      "stage": "bruck",
+      "stage": "tinkering",
       "tags": [
 
       ],
@@ -215,6 +215,15 @@
 
       ],
       "url": "/compost/counterfoil-research/"
+    },
+    {
+      "id": "Crip time",
+      "label": "Crip time",
+      "stage": "bruck",
+      "tags": [
+        "time"
+      ],
+      "url": "/compost/crip-time/"
     },
     {
       "id": "Critical design",
@@ -368,15 +377,6 @@
 
       ],
       "url": "/compost/heterotopias/"
-    },
-    {
-      "id": "Hyperobjects",
-      "label": "Hyperobjects",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/hyperobjects/"
     },
     {
       "id": "Independent research",
@@ -649,6 +649,15 @@
       "url": "/compost/psychogeography/"
     },
     {
+      "id": "Queer time",
+      "label": "Queer time",
+      "stage": "bruck",
+      "tags": [
+        "time"
+      ],
+      "url": "/compost/queer-time/"
+    },
+    {
       "id": "Rearguard yin tactics",
       "label": "Rearguard yin tactics",
       "stage": "bruck",
@@ -656,6 +665,15 @@
 
       ],
       "url": "/compost/rearguard-yin-tactics/"
+    },
+    {
+      "id": "Relational ontology",
+      "label": "Relational ontology",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/relational-ontology/"
     },
     {
       "id": "Repair",
@@ -868,15 +886,15 @@
     },
     {
       "source": "Bricolage",
-      "target": "Bruck"
-    },
-    {
-      "source": "Bricolage",
       "target": "Jugaad"
     },
     {
       "source": "Bricolage",
       "target": "Muddling through"
+    },
+    {
+      "source": "Bruck",
+      "target": "Bricolage"
     },
     {
       "source": "Care",
@@ -893,6 +911,10 @@
     {
       "source": "Collaboration",
       "target": "CSCW (Computer-supported collaborative work)"
+    },
+    {
+      "source": "Combinatorics",
+      "target": "Bricolage"
     },
     {
       "source": "Combinatorics",
@@ -913,6 +935,10 @@
     {
       "source": "Convivial tools",
       "target": "Counterfoil research"
+    },
+    {
+      "source": "Crip time",
+      "target": "Chronos and kairos"
     },
     {
       "source": "Critical design",
@@ -960,11 +986,11 @@
     },
     {
       "source": "Hauntology",
-      "target": "Conjunctural analysis"
+      "target": "Colportage"
     },
     {
-      "source": "Independent research",
-      "target": "Bogostian carpentry"
+      "source": "Hauntology",
+      "target": "Conjunctural analysis"
     },
     {
       "source": "Insularity",
@@ -976,7 +1002,7 @@
     },
     {
       "source": "Jugaad",
-      "target": "Bruck"
+      "target": "User innovation"
     },
     {
       "source": "Knowledge graphs",
@@ -1031,6 +1057,10 @@
       "target": "Permacomputing"
     },
     {
+      "source": "Postcolonial technoscience",
+      "target": "Cognitive justice"
+    },
+    {
       "source": "Project-based learning",
       "target": "Critical making"
     },
@@ -1048,11 +1078,23 @@
     },
     {
       "source": "Prototyping",
-      "target": "Experimental publishing"
+      "target": "User innovation"
     },
     {
-      "source": "Prototyping",
-      "target": "User innovation"
+      "source": "Psychogeography",
+      "target": "Colportage"
+    },
+    {
+      "source": "Queer time",
+      "target": "Chronos and kairos"
+    },
+    {
+      "source": "Relational ontology",
+      "target": "Care"
+    },
+    {
+      "source": "Repair",
+      "target": "Appropriate technology"
     },
     {
       "source": "Repair",
@@ -1067,10 +1109,6 @@
       "target": "About"
     },
     {
-      "source": "Rhizome",
-      "target": "Actor-network theory"
-    },
-    {
       "source": "Right to the city",
       "target": "Begumpura"
     },
@@ -1079,8 +1117,16 @@
       "target": "Ferality"
     },
     {
+      "source": "Seasonality",
+      "target": "Chronos and kairos"
+    },
+    {
       "source": "Side-missions",
       "target": "Forking"
+    },
+    {
+      "source": "Sociotechnical flânerie",
+      "target": "Colportage"
     },
     {
       "source": "Sociotechnical systems",
@@ -1104,7 +1150,7 @@
     },
     {
       "source": "Tinkering",
-      "target": "Experimental publishing"
+      "target": "Care"
     },
     {
       "source": "Trace ethnography",
@@ -1116,11 +1162,19 @@
     },
     {
       "source": "Virtue ethics",
+      "target": "Care"
+    },
+    {
+      "source": "Virtue ethics",
       "target": "Phronesis"
     },
     {
       "source": "Vital conjunctures",
       "target": "Conjunctural analysis"
+    },
+    {
+      "source": "Worlding",
+      "target": "Cognitive mapping"
     }
   ]
 }
