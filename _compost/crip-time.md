@@ -1,5 +1,6 @@
 ---  
 layout: garden
-title: "Hyperobjects"
+title: "Crip time"
 stage: bruck
+tags: [time]
 ---

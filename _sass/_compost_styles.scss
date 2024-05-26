@@ -1,8 +1,15 @@
 // compost_styles.scss
 
 .note-container {
-    background-color: #f5f2e8; // Light, warm background color
-    color: #4e4e3e; // Dark, desaturated green-tinted text
+  background-color: #f5f2e8; // Light, warm background color
+  color: #4e4e3e; // Dark, desaturated green-tinted text
+  padding: 1.5rem; // Increased padding for a more relaxed layout
+  max-width: 800px; // Limit the content width for better readability
+  margin: 0 auto; // Center the content within the page
+
+  .footnotes, .footnotes ol, .footnotes p {
+    color: inherit;
+  }
 
   &.bruck {
     background-color: #ddd7c4;
@@ -24,10 +31,18 @@
     color: #5e5e4e;
   }
 
-    // Layout and spacing
-    padding: 1.5rem; // Increased padding for a more relaxed layout
-    max-width: 800px; // Limit the content width for better readability
-    margin: 0 auto; // Center the content within the page
+  .footnotes {
+    font-size: 0.9rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.25);
+
+    ol {
+      margin-left: 1.5rem;
+    }
+
+    p {
+      margin-bottom: 2rem;
+    }
+  }
 }
 
 .note-container blockquote {

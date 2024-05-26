@@ -15,4 +15,4 @@ Rummaging through the information presented to us, stashing pieces that seem use
 
 Reevaluating the utility of that deemed waste. A respect for the history and potential of objects (and ideas), with an eye to further extending their lifespan.
 
-See also: [[jugaad]], [[bricolage]]. Often a prelude to [[tinkering]].
+Often a prelude to [[tinkering]].

@@ -5,6 +5,6 @@ stage: bruck
 tags: [improvisation]
 ---
 
-In the context of policy?
+An incremental, pragmatic approach to problem-solving and policymaking, characterised by small adjustments rather than radical change. After Charles Lindblom.
 
 - [&] See also: [[bricolage]]? (ad hoc, improvised ways of working)

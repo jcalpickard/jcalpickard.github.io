@@ -30,7 +30,6 @@ Engaging directly with the material? Letting material and body serve as co-autho
 
 Echoes of taxidermy?
 
-- [?] What are the implications for the [[independent-research|independent researcher]]?
 - [?] What counts as a "sincere philosophical output" in artifact form? What criteria distinguish it from artistic expression or design prototyping?
 - [?] How do you evaluate or validate the knowledge claims or insights embodied in an artifact? What modes of critique or peer review apply?
 - [&] See also: [[experimental-archaeology]], [[critical-making]]?

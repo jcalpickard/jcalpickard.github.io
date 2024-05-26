@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Experimental publishing"
+title: "Relational ontology"
 stage: bruck
 ---

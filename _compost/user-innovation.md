@@ -5,3 +5,5 @@ stage: bruck
 ---
 
 Potentially a form of [[lay-expertise]]? Often relies on [[prototyping]].
+
+- [&] See also: [[jugaad]]?
