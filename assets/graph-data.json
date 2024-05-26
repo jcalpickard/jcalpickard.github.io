@@ -3,7 +3,7 @@
     {
       "id": "Abductive reasoning",
       "label": "Abductive reasoning",
-      "stage": "bruck",
+      "stage": "tinkering",
       "tags": [
 
       ],
@@ -217,6 +217,15 @@
       "url": "/compost/counterfoil-research/"
     },
     {
+      "id": "Critical design",
+      "label": "Critical design",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/critical-design/"
+    },
+    {
       "id": "Critical making",
       "label": "Critical making",
       "stage": "bruck",
@@ -224,6 +233,15 @@
 
       ],
       "url": "/compost/critical-making/"
+    },
+    {
+      "id": "Critical technical practice",
+      "label": "Critical technical practice",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/critical-technical-practice/"
     },
     {
       "id": "CSCW (Computer-supported collaborative work)",
@@ -577,6 +595,15 @@
       "url": "/compost/postcolonial-technoscience/"
     },
     {
+      "id": "Project-based learning",
+      "label": "Project-based learning",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/project-based-learning/"
+    },
+    {
       "id": "Project ontology",
       "label": "Project ontology",
       "stage": "bruck",
@@ -836,6 +863,10 @@
       "target": "Minor technologies"
     },
     {
+      "source": "Bogostian carpentry",
+      "target": "Critical making"
+    },
+    {
       "source": "Bricolage",
       "target": "Bruck"
     },
@@ -869,6 +900,10 @@
     },
     {
       "source": "Communities of practice",
+      "target": "Abductive reasoning"
+    },
+    {
+      "source": "Communities of practice",
       "target": "Situated software"
     },
     {
@@ -880,8 +915,16 @@
       "target": "Counterfoil research"
     },
     {
+      "source": "Critical design",
+      "target": "Critical making"
+    },
+    {
       "source": "Critical making",
       "target": "Bogostian carpentry"
+    },
+    {
+      "source": "Critical technical practice",
+      "target": "Critical making"
     },
     {
       "source": "Ethnography",
@@ -986,6 +1029,14 @@
     {
       "source": "Permaculture",
       "target": "Permacomputing"
+    },
+    {
+      "source": "Project-based learning",
+      "target": "Critical making"
+    },
+    {
+      "source": "Project ontology",
+      "target": "Project-based learning"
     },
     {
       "source": "Project ontology",
