@@ -268,7 +268,7 @@ pre {
  */
 table {
   margin-bottom: $spacing-unit;
-  max-width: 100%;
+  width: 100%;
   height: auto;
   padding: 10px 0; /* 10px padding top and bottom, 0 padding left and right */
   text-align: $table-text-align;
@@ -277,7 +277,7 @@ table {
   border: 1px solid $table-border-color;
   tr {
     &:hover {
-      background-color: $table-zebra-color;
+      background-color: rgba(255, 255, 255, 0.75);
     }
   }
   th, td {
@@ -297,4 +297,36 @@ table {
     -webkit-overflow-scrolling: touch;
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
+}
+
+
+/**
+ * Footnotes
+ */
+
+ .footnotes {
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #666;
+  font-size: 1em;
+  color: #606060;
+}
+
+.footnotes ol {
+  color: #666;
+  font-size: 0.8em;
+  padding-left: 1rem;
+}
+
+.footnotes ol li {
+  margin-bottom: 0.5rem;
+}
+
+.footnotes p {
+  margin: 0;
+}
+
+a.footnote {
+  font-size: 0.8em;
+  vertical-align: super;
 }

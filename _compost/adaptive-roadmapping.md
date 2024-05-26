@@ -21,4 +21,4 @@ Key features: dynamic visualisation, real-time data integration, and the ability
 | **Decision-making & development**             | One-time planning event; long intervals between updates; slow and reactiven                                           | Fast and proactive; continuous, iterative planning cycles, based on the latest inputs                         |
 | **Outcome focus**               | Focuses on delivering pre-set plans rather than achieving outcomes                | Focuses on achieving outcomes and adapting plans to meet those outcomes     |
 
-[^1]: Some examples would be helpful.
+[^1]: Some examples would be helpful! Need to add these.

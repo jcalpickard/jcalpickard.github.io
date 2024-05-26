@@ -76,29 +76,6 @@ body {
   line-height: 1; // Example line height
 }
 
-/* Make footnote reference links smaller */
-a.footnote {
-  font-size: 0.8em;
-}
-
-/* Add some spacing above the footnote section */
-.footnotes {
-  margin-top: 1.5rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid #666;
-}
-
-/* Style the numbered footnote list */
-.footnotes ol {
-  color: #666; /* Make numbers and list items grey */
-  font-size: 0.8em; /* Make numbers and list items smaller */
-}
-
-/* Add spacing between footnote list items */
-.footnotes ol li {
-  margin-bottom: 0.5rem;
-}
-
 .img-padded {
   max-width: 100%;
   height: auto;
