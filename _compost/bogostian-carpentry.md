@@ -10,9 +10,11 @@ Analogous to woodworking, but material-agnostic; 'to do carpentry is to make any
 
 The products of carpentry are sincere philosophical/investigative outputs; 'not mere accidents, waypoints on the way to something else.' (Bogost 2012) Not a means to an ends. Prototypes embodying and advancing philosophical inquiry, providing fuzzy, speculative glimpses insight into the worlds of objects. Exploring ontology by practicing it? Playful, earnest, and sincere.
 
+Model-making?
+
 Philosophical lab equipment? (what work does this analogy do?)
 
-Engaging directly with the material? Letting material and body serve as co-authors?
+Engaging directly with the material? Letting material and body serve as co-authors? A tactice, embodied experience.
 
 > An obvious question, then: must scholarly productivity take written form? Is writing the most efficient and appropriate material for judging academic work? If the answer is yes, it is so only by convention.
 <cite>— Ian Bogost, _Alien Phenomenology_ (2012)</cite>
@@ -29,4 +31,6 @@ Engaging directly with the material? Letting material and body serve as co-autho
 Echoes of taxidermy?
 
 - [?] What are the implications for the [[independent-research|independent researcher]]?
+- [?] What counts as a "sincere philosophical output" in artifact form? What criteria distinguish it from artistic expression or design prototyping?
+- [?] How do you evaluate or validate the knowledge claims or insights embodied in an artifact? What modes of critique or peer review apply?
 - [&] See also: [[experimental-archaeology]], [[critical-making]]?

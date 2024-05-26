@@ -268,13 +268,15 @@ pre {
  */
 table {
   margin-bottom: $spacing-unit;
-  width: 100%;
+  max-width: 100%;
+  height: auto;
+  padding: 10px 0; /* 10px padding top and bottom, 0 padding left and right */
   text-align: $table-text-align;
-  color: $table-text-color;
+  font-size: 0.8em;
   border-collapse: collapse;
   border: 1px solid $table-border-color;
   tr {
-    &:nth-child(even) {
+    &:hover {
       background-color: $table-zebra-color;
     }
   }
@@ -282,11 +284,11 @@ table {
     padding: ($spacing-unit * 33.3333333333 * .01) ($spacing-unit * .5);
   }
   th {
-    background-color: $table-header-bg-color;
-    border: 1px solid $table-header-border;
+    background-color: rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(0, 0, 0, 0.25);
   }
   td {
-    border: 1px solid $table-border-color;
+    border: 1px solid rgba(0, 0, 0, 0.25);
   }
 
   @include media-query($on-laptop) {
