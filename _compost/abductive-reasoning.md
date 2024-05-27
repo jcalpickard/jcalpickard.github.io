@@ -1,8 +1,8 @@
 ---  
 layout: garden
 title: "Abductive reasoning"
-stage: tinkering
-tags:
+stage: bruck
+tags: [epistemics]
 ---
 
 A form of logical inference that seeks to find the simplest, most likely explanation or hypothesis for an observed phenomenon or set of data, based on the available information.

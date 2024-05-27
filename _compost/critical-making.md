@@ -24,4 +24,4 @@ involves wrestling with the technical prototypes, exploring the various configur
 and using them to express, critique, and extend relevant concepts, theories, and models.
 <cite>— Matt Ratto, "Critical Making: Conceptual and Material Studies in Technology and Social Life" (2011)</cite>
 
-- [&] See also: [[critical-design]], [[critical-technical-practice]]?
+- [&] See also: [[critical-design]]?

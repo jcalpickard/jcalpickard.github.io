@@ -2,6 +2,7 @@
 layout: garden
 title: "Morphological analysis"
 stage: bruck
+tags: [epistemics]
 ---
 
 Can be mathematically modelled using [[combinatorics]]. A form of [[ontography]], broadly speaking?

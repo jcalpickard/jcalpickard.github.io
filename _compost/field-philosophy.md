@@ -2,6 +2,5 @@
 layout: garden
 title: "Field philosophy"
 stage: bruck
+tags: [epistemics]
 ---
-
-How does this differ from [[ethnography]]?

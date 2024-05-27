@@ -2,6 +2,7 @@
 layout: garden
 title: "Cognitive justice"
 stage: bruck
+tags: [epistemics]
 ---
 
 Recognising and holding space for a plurality of knowledge systems, and asserting the right of different forms of knowledge to co-exist without being subjugated by dominant Western scientific knowledge.

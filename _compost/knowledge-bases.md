@@ -1,6 +1,5 @@
 ---  
 layout: garden
-title: "Crip time"
+title: "Knowledge bases"
 stage: bruck
-tags: [time]
 ---
