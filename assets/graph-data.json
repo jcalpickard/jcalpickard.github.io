@@ -3,9 +3,9 @@
     {
       "id": "Abductive reasoning",
       "label": "Abductive reasoning",
-      "stage": "tinkering",
+      "stage": "bruck",
       "tags": [
-
+        "epistemics"
       ],
       "url": "/compost/abductive-reasoning/"
     },
@@ -104,7 +104,7 @@
       "label": "Cognitive justice",
       "stage": "bruck",
       "tags": [
-
+        "epistemics"
       ],
       "url": "/compost/cognitive-justice/"
     },
@@ -113,7 +113,7 @@
       "label": "Cognitive mapping",
       "stage": "bruck",
       "tags": [
-
+        "epistemics"
       ],
       "url": "/compost/cognitive-mapping/"
     },
@@ -167,16 +167,17 @@
       "label": "Computational thinking",
       "stage": "bruck",
       "tags": [
-
+        "epistemics"
       ],
       "url": "/compost/computational-thinking/"
     },
     {
       "id": "Conjunctural analysis",
       "label": "Conjunctural analysis",
-      "stage": "bruck",
+      "stage": "tinkering",
       "tags": [
-
+        "epistemics",
+        "time"
       ],
       "url": "/compost/conjunctural-analysis/"
     },
@@ -203,7 +204,7 @@
       "label": "Counterfactual reasoning",
       "stage": "bruck",
       "tags": [
-
+        "epistemics"
       ],
       "url": "/compost/counterfactual-reasoning/"
     },
@@ -215,15 +216,6 @@
 
       ],
       "url": "/compost/counterfoil-research/"
-    },
-    {
-      "id": "Crip time",
-      "label": "Crip time",
-      "stage": "bruck",
-      "tags": [
-        "time"
-      ],
-      "url": "/compost/crip-time/"
     },
     {
       "id": "Critical design",
@@ -253,8 +245,8 @@
       "url": "/compost/critical-technical-practice/"
     },
     {
-      "id": "CSCW (Computer-supported collaborative work)",
-      "label": "CSCW (Computer-supported collaborative work)",
+      "id": "CSCW (Computer-supported cooperative work)",
+      "label": "CSCW (Computer-supported cooperative work)",
       "stage": "bruck",
       "tags": [
 
@@ -284,9 +276,18 @@
       "label": "Distributed cognition",
       "stage": "bruck",
       "tags": [
-
+        "epistemics"
       ],
       "url": "/compost/distributed-cognition/"
+    },
+    {
+      "id": "Divination",
+      "label": "Divination",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/divination/"
     },
     {
       "id": "Ethnography",
@@ -329,7 +330,7 @@
       "label": "Field philosophy",
       "stage": "bruck",
       "tags": [
-
+        "epistemics"
       ],
       "url": "/compost/field-philosophy/"
     },
@@ -352,11 +353,20 @@
       "url": "/compost/forking/"
     },
     {
+      "id": "Gopnikism",
+      "label": "Gopnikism",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/gopnikism/"
+    },
+    {
       "id": "Ground-zero empiricism",
       "label": "Ground-zero empiricism",
       "stage": "bruck",
       "tags": [
-
+        "epistemics"
       ],
       "url": "/compost/ground-zero-empiricism/"
     },
@@ -424,6 +434,15 @@
       "url": "/compost/jugaad/"
     },
     {
+      "id": "Knowledge bases",
+      "label": "Knowledge bases",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/knowledge-bases/"
+    },
+    {
       "id": "Knowledge graphs",
       "label": "Knowledge graphs",
       "stage": "bruck",
@@ -431,6 +450,15 @@
 
       ],
       "url": "/compost/knowledge-graphs/"
+    },
+    {
+      "id": "Knowledge management",
+      "label": "Knowledge management",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/knowledge-management/"
     },
     {
       "id": "Landvættir",
@@ -482,7 +510,7 @@
       "label": "Morphological analysis",
       "stage": "bruck",
       "tags": [
-
+        "epistemics"
       ],
       "url": "/compost/morphological-analysis/"
     },
@@ -878,6 +906,10 @@
   "links": [
     {
       "source": "Appropriate technology",
+      "target": "Critical technical practice"
+    },
+    {
+      "source": "Appropriate technology",
       "target": "Minor technologies"
     },
     {
@@ -906,11 +938,19 @@
     },
     {
       "source": "Cognitive justice",
+      "target": "Cosmotechnics"
+    },
+    {
+      "source": "Cognitive justice",
       "target": "Lay expertise"
     },
     {
+      "source": "Cognitive mapping",
+      "target": "Conjunctural analysis"
+    },
+    {
       "source": "Collaboration",
-      "target": "CSCW (Computer-supported collaborative work)"
+      "target": "CSCW (Computer-supported cooperative work)"
     },
     {
       "source": "Combinatorics",
@@ -941,8 +981,8 @@
       "target": "Counterfoil research"
     },
     {
-      "source": "Crip time",
-      "target": "Chronos and kairos"
+      "source": "Counterfactual reasoning",
+      "target": "Critical design"
     },
     {
       "source": "Critical design",
@@ -953,16 +993,20 @@
       "target": "Bogostian carpentry"
     },
     {
-      "source": "Critical technical practice",
-      "target": "Critical making"
+      "source": "Critical making",
+      "target": "Critical technical practice"
+    },
+    {
+      "source": "Distributed cognition",
+      "target": "Communities of practice"
+    },
+    {
+      "source": "Distributed cognition",
+      "target": "CSCW (Computer-supported cooperative work)"
     },
     {
       "source": "Ethnography",
       "target": "Actor-network theory"
-    },
-    {
-      "source": "Ethnography",
-      "target": "Field philosophy"
     },
     {
       "source": "Ethnography",
@@ -1009,8 +1053,16 @@
       "target": "User innovation"
     },
     {
+      "source": "Knowledge bases",
+      "target": "Digital gardening"
+    },
+    {
       "source": "Knowledge graphs",
       "target": "Digital gardening"
+    },
+    {
+      "source": "Knowledge management",
+      "target": "CSCW (Computer-supported cooperative work)"
     },
     {
       "source": "Lay expertise",
@@ -1095,10 +1147,6 @@
     {
       "source": "Relational ontology",
       "target": "Care"
-    },
-    {
-      "source": "Repair",
-      "target": "Appropriate technology"
     },
     {
       "source": "Repair",
