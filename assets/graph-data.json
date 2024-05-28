@@ -37,6 +37,15 @@
       "url": "/compost/adaptive-roadmapping/"
     },
     {
+      "id": "Agnotology",
+      "label": "Agnotology",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/agnotology/"
+    },
+    {
       "id": "Appropriate technology",
       "label": "Appropriate technology",
       "stage": "bruck",
@@ -44,6 +53,15 @@
 
       ],
       "url": "/compost/appropriate-technology/"
+    },
+    {
+      "id": "Baroque",
+      "label": "Baroque",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/baroque/"
     },
     {
       "id": "Begumpura",
@@ -89,6 +107,15 @@
 
       ],
       "url": "/compost/care/"
+    },
+    {
+      "id": "Chaîne opératoires",
+      "label": "Chaîne opératoires",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/cha%C3%AEne-op%C3%A9ratoires/"
     },
     {
       "id": "Chronos and kairos",
@@ -172,6 +199,15 @@
       "url": "/compost/computational-thinking/"
     },
     {
+      "id": "Conceptual emergency",
+      "label": "Conceptual emergency",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/conceptual-emergency/"
+    },
+    {
       "id": "Conjunctural analysis",
       "label": "Conjunctural analysis",
       "stage": "tinkering",
@@ -245,13 +281,22 @@
       "url": "/compost/critical-technical-practice/"
     },
     {
-      "id": "CSCW (Computer-supported cooperative work)",
-      "label": "CSCW (Computer-supported cooperative work)",
+      "id": "Computer-supported cooperative work",
+      "label": "Computer-supported cooperative work",
       "stage": "bruck",
       "tags": [
 
       ],
       "url": "/compost/cscw/"
+    },
+    {
+      "id": "Cultural transmission",
+      "label": "Cultural transmission",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/cultural-transmission/"
     },
     {
       "id": "Degrowth",
@@ -285,9 +330,18 @@
       "label": "Divination",
       "stage": "bruck",
       "tags": [
-
+        "epistemics"
       ],
       "url": "/compost/divination/"
+    },
+    {
+      "id": "Enclosure",
+      "label": "Enclosure",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/enclosure/"
     },
     {
       "id": "Ethnography",
@@ -297,6 +351,15 @@
 
       ],
       "url": "/compost/ethnography/"
+    },
+    {
+      "id": "Exile",
+      "label": "Exile",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/exile/"
     },
     {
       "id": "Experimental archaeology",
@@ -319,7 +382,7 @@
     {
       "id": "Ferality",
       "label": "Ferality",
-      "stage": "bruck",
+      "stage": "tinkering",
       "tags": [
 
       ],
@@ -328,7 +391,7 @@
     {
       "id": "Field philosophy",
       "label": "Field philosophy",
-      "stage": "bruck",
+      "stage": "tinkering",
       "tags": [
         "epistemics"
       ],
@@ -371,6 +434,15 @@
       "url": "/compost/ground-zero-empiricism/"
     },
     {
+      "id": "Graphical user interface",
+      "label": "Graphical user interface",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/gui/"
+    },
+    {
       "id": "Hauntology",
       "label": "Hauntology",
       "stage": "bruck",
@@ -378,6 +450,15 @@
         "time"
       ],
       "url": "/compost/hauntology/"
+    },
+    {
+      "id": "Human-computer interaction",
+      "label": "Human-computer interaction",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/hci/"
     },
     {
       "id": "Heterotopias",
@@ -488,6 +569,15 @@
       "url": "/compost/lay-expertise/"
     },
     {
+      "id": "Material culture",
+      "label": "Material culture",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/material-culture/"
+    },
+    {
       "id": "Megadungeon",
       "label": "Megadungeon",
       "stage": "tinkering",
@@ -560,6 +650,15 @@
       "url": "/compost/ontography/"
     },
     {
+      "id": "Open-source software",
+      "label": "Open-source software",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/open-source-software/"
+    },
+    {
       "id": "Pace layers",
       "label": "Pace layers",
       "stage": "bruck",
@@ -576,6 +675,15 @@
 
       ],
       "url": "/compost/panpneumatics/"
+    },
+    {
+      "id": "Paradigm shift",
+      "label": "Paradigm shift",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/paradigm-shift/"
     },
     {
       "id": "Participant observation",
@@ -614,6 +722,15 @@
       "url": "/compost/phronesis/"
     },
     {
+      "id": "Piracy",
+      "label": "Piracy",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/piracy/"
+    },
+    {
       "id": "Postcolonial technoscience",
       "label": "Postcolonial technoscience",
       "stage": "bruck",
@@ -621,6 +738,15 @@
 
       ],
       "url": "/compost/postcolonial-technoscience/"
+    },
+    {
+      "id": "Postnormal science",
+      "label": "Postnormal science",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/postnormal-science/"
     },
     {
       "id": "Project-based learning",
@@ -821,6 +947,15 @@
       "url": "/compost/stigmergy/"
     },
     {
+      "id": "Tarot",
+      "label": "Tarot",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/tarot/"
+    },
+    {
       "id": "Technological momentum",
       "label": "Technological momentum",
       "stage": "bruck",
@@ -837,6 +972,15 @@
 
       ],
       "url": "/compost/thick-description/"
+    },
+    {
+      "id": "Time-sharing",
+      "label": "Time-sharing",
+      "stage": "bruck",
+      "tags": [
+        "time"
+      ],
+      "url": "/compost/time-sharing/"
     },
     {
       "id": "Tinkering",
@@ -865,6 +1009,15 @@
 
       ],
       "url": "/compost/translocality/"
+    },
+    {
+      "id": "Trickster",
+      "label": "Trickster",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/trickster/"
     },
     {
       "id": "User innovation",
@@ -905,12 +1058,28 @@
   ],
   "links": [
     {
+      "source": "Abductive reasoning",
+      "target": "Conceptual emergency"
+    },
+    {
+      "source": "Abductive reasoning",
+      "target": "Ground-zero empiricism"
+    },
+    {
+      "source": "Agnotology",
+      "target": "Ground-zero empiricism"
+    },
+    {
       "source": "Appropriate technology",
       "target": "Critical technical practice"
     },
     {
       "source": "Appropriate technology",
       "target": "Minor technologies"
+    },
+    {
+      "source": "Baroque",
+      "target": "Ferality"
     },
     {
       "source": "Bogostian carpentry",
@@ -950,7 +1119,11 @@
     },
     {
       "source": "Collaboration",
-      "target": "CSCW (Computer-supported cooperative work)"
+      "target": "Computer-supported cooperative work"
+    },
+    {
+      "source": "Colportage",
+      "target": "Experimental publishing"
     },
     {
       "source": "Combinatorics",
@@ -959,6 +1132,10 @@
     {
       "source": "Combinatorics",
       "target": "Morphological analysis"
+    },
+    {
+      "source": "Combinatorics",
+      "target": "Tarot"
     },
     {
       "source": "Communities of practice",
@@ -977,12 +1154,20 @@
       "target": "Prompt engineering"
     },
     {
+      "source": "Conceptual emergency",
+      "target": "Ground-zero empiricism"
+    },
+    {
       "source": "Convivial tools",
       "target": "Counterfoil research"
     },
     {
       "source": "Counterfactual reasoning",
       "target": "Critical design"
+    },
+    {
+      "source": "Counterfactual reasoning",
+      "target": "Hauntology"
     },
     {
       "source": "Critical design",
@@ -997,16 +1182,36 @@
       "target": "Critical technical practice"
     },
     {
+      "source": "Computer-supported cooperative work",
+      "target": "Human-computer interaction"
+    },
+    {
+      "source": "Cultural transmission",
+      "target": "Gopnikism"
+    },
+    {
       "source": "Distributed cognition",
       "target": "Communities of practice"
     },
     {
       "source": "Distributed cognition",
-      "target": "CSCW (Computer-supported cooperative work)"
+      "target": "Computer-supported cooperative work"
+    },
+    {
+      "source": "Divination",
+      "target": "Combinatorics"
+    },
+    {
+      "source": "Enclosure",
+      "target": "Ferality"
     },
     {
       "source": "Ethnography",
       "target": "Actor-network theory"
+    },
+    {
+      "source": "Ethnography",
+      "target": "Chaîne opératoires"
     },
     {
       "source": "Ethnography",
@@ -1017,8 +1222,20 @@
       "target": "Trace ethnography"
     },
     {
+      "source": "Exile",
+      "target": "Ferality"
+    },
+    {
       "source": "Experimental archaeology",
       "target": "Bogostian carpentry"
+    },
+    {
+      "source": "Experimental archaeology",
+      "target": "Chaîne opératoires"
+    },
+    {
+      "source": "Experimental publishing",
+      "target": "Independent research"
     },
     {
       "source": "Ferality",
@@ -1033,12 +1250,24 @@
       "target": "Ethnography"
     },
     {
+      "source": "Forking",
+      "target": "Hauntology"
+    },
+    {
+      "source": "Graphical user interface",
+      "target": "Human-computer interaction"
+    },
+    {
       "source": "Hauntology",
       "target": "Colportage"
     },
     {
       "source": "Hauntology",
       "target": "Conjunctural analysis"
+    },
+    {
+      "source": "Human-computer interaction",
+      "target": "Gopnikism"
     },
     {
       "source": "Insularity",
@@ -1049,20 +1278,24 @@
       "target": "Bricolage"
     },
     {
-      "source": "Jugaad",
-      "target": "User innovation"
+      "source": "Knowledge bases",
+      "target": "Digital gardening"
     },
     {
       "source": "Knowledge bases",
-      "target": "Digital gardening"
+      "target": "Experimental publishing"
     },
     {
       "source": "Knowledge graphs",
       "target": "Digital gardening"
     },
     {
+      "source": "Knowledge graphs",
+      "target": "Experimental publishing"
+    },
+    {
       "source": "Knowledge management",
-      "target": "CSCW (Computer-supported cooperative work)"
+      "target": "Computer-supported cooperative work"
     },
     {
       "source": "Lay expertise",
@@ -1071,6 +1304,14 @@
     {
       "source": "Lay expertise",
       "target": "User innovation"
+    },
+    {
+      "source": "Material culture",
+      "target": "Chaîne opératoires"
+    },
+    {
+      "source": "Material culture",
+      "target": "Experimental archaeology"
     },
     {
       "source": "Minor technologies",
@@ -1085,24 +1326,36 @@
       "target": "Vital conjunctures"
     },
     {
-      "source": "Ontography",
-      "target": "Actor-network theory"
+      "source": "Northeast Atlantic archipelago",
+      "target": "Hauntology"
     },
     {
       "source": "Ontography",
-      "target": "Bogostian carpentry"
+      "target": "Actor-network theory"
     },
     {
       "source": "Ontography",
       "target": "Morphological analysis"
     },
     {
+      "source": "Open-source software",
+      "target": "Forking"
+    },
+    {
       "source": "Pace layers",
       "target": "Reverse salients"
     },
     {
+      "source": "Paradigm shift",
+      "target": "Ground-zero empiricism"
+    },
+    {
       "source": "Participant observation",
       "target": "Ethnography"
+    },
+    {
+      "source": "Participant observation",
+      "target": "Field philosophy"
     },
     {
       "source": "Permaculture",
@@ -1113,8 +1366,20 @@
       "target": "Permacomputing"
     },
     {
+      "source": "Piracy",
+      "target": "Ferality"
+    },
+    {
+      "source": "Piracy",
+      "target": "Forking"
+    },
+    {
       "source": "Postcolonial technoscience",
       "target": "Cognitive justice"
+    },
+    {
+      "source": "Postnormal science",
+      "target": "Ground-zero empiricism"
     },
     {
       "source": "Project-based learning",
@@ -1130,15 +1395,15 @@
     },
     {
       "source": "Prototyping",
-      "target": "Bogostian carpentry"
-    },
-    {
-      "source": "Prototyping",
       "target": "User innovation"
     },
     {
       "source": "Psychogeography",
       "target": "Colportage"
+    },
+    {
+      "source": "Psychogeography",
+      "target": "Hauntology"
     },
     {
       "source": "Queer time",
@@ -1151,6 +1416,10 @@
     {
       "source": "Repair",
       "target": "Stewardship"
+    },
+    {
+      "source": "Retrieval-augmented generation",
+      "target": "Gopnikism"
     },
     {
       "source": "Reverse salients",
@@ -1193,8 +1462,20 @@
       "target": "Permaculture"
     },
     {
+      "source": "Tarot",
+      "target": "Combinatorics"
+    },
+    {
+      "source": "Tarot",
+      "target": "Divination"
+    },
+    {
       "source": "Thick description",
       "target": "Ethnography"
+    },
+    {
+      "source": "Time-sharing",
+      "target": "Human-computer interaction"
     },
     {
       "source": "Tinkering",
@@ -1207,6 +1488,10 @@
     {
       "source": "Trace ethnography",
       "target": "Sociotechnical flânerie"
+    },
+    {
+      "source": "Trickster",
+      "target": "Ferality"
     },
     {
       "source": "User innovation",

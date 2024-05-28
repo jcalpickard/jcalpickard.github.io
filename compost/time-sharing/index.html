@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<head>
+  <html lang="en">
+  <link rel="stylesheet" href="/assets/css/main.css"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>⧉</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Freeman&family=Inter:wght@100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Overpass:ital,wght@0,100..900;1,100..900&family=Recursive:wght,CASL,MONO@371,0.5,0.5&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <script src="https://cdn.jsdelivr.net/npm/vis-network/standalone/umd/vis-network.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/vis-network/styles/vis-network.min.css" rel="stylesheet" type="text/css" /><link type="application/atom+xml" rel="alternate" href="https://jcalpickard.github.io/feed.xml" title="⧉" /></head></head>
+
+  <body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">⧉</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/hello/">Hello</a><a class="page-link" href="/">Home</a><a class="page-link" href="/compost/">Compost</a><a class="page-link" href="/log/">Log</a><a class="page-link" href="/phd/">PhD</a><a class="page-link" href="/cv/">CV</a><a class="page-link" href="https://www.are.na/justin-pickard" target="_blank" rel="noopener noreferrer">Are.na</a><a class="page-link" href="https://assemblag.es/@jcalpickard" target="_blank" rel="noopener noreferrer">Fediverse</a>
+          </div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <head>
+  <link href="https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+
+<div class="garden">
+  <div class="note-container bruck">
+    <header>
+      <h1>Time-sharing</h1>
+    </header>
+
+    <main>
+
+      <p class="last-updated">
+    <small style="font-style: normal;">Last updated: Tuesday, 28 May 2024</small>
+  </p>
+
+      
+
+
+      
+      <p>Tags: 
+        
+          <a href="/compost/tags/time/">time</a>
+        
+      </p>
+      
+
+      
+        <p>Backlinks</p>
+        <ul>
+          
+          
+          : <a class="wiki-link" href="/compost/hci/">Human-computer interaction</a>
+        
+        </ul>
+      
+      </main>
+        
+    <footer>
+      <nav>
+        <a href="/compost">Home</a>
+        <a href="/compost/about">About</a>
+      </nav>
+    </footer>
+    
+  </div>
+<div>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+  <style>
+    #network {
+      width: 100%;
+      height: 100%;
+      border: 0px solid lightgray;
+    }
+    .graph-tooltip {
+      position: absolute;
+      background-color: white;
+      border: 1px solid black;
+      padding: 5px;
+      display: none;
+      z-index: 1000;
+    }
+  </style>
+</head>
+<body>
+<div id="network" style="width: 100%; height: 250px;"></div>
+<div id="tooltip" class="graph-tooltip" style="display: none; position: absolute; background: #fff; border: 1px solid #ccc; padding: 10px; z-index: 1000;"></div>
+
+<script type="text/javascript">
+  function getCurrentPageNodeId(data) {
+      const currentUrl = window.location.href;
+      const node = data.nodes.find(node => currentUrl.includes(node.url));
+      return node ? node.id : null;
+    }
+
+  function getEgocentricData(data, currentNodeId, degrees) {
+    const nodes = new Set();
+    const edges = new Set();
+    const queue = [currentNodeId];
+    const visited = new Set();
+
+    for (let i = 0; i < degrees; i++) {
+      const nextQueue = [];
+      while (queue.length > 0) {
+        const nodeId = queue.shift();
+        if (!visited.has(nodeId)) {
+          visited.add(nodeId);
+          nodes.add(nodeId);
+          data.links.forEach(link => {
+            if (link.source === nodeId || link.target === nodeId) {
+              edges.add(link);
+              nextQueue.push(link.source === nodeId ? link.target : link.source);
+            }
+          });
+        }
+      }
+      queue.push(...nextQueue);
+    }
+
+    return {
+      nodes: data.nodes.filter(node => nodes.has(node.id)),
+      edges: Array.from(edges)
+    };
+  }
+
+  fetch('/assets/graph-data.json')
+    .then(response => response.json())
+    .then(data => {
+      const currentNodeId = getCurrentPageNodeId(data);
+      if (!currentNodeId) {
+        console.error('Current page node ID not found in graph data.');
+        return;
+      }
+
+    const egocentricData = getEgocentricData(data, currentNodeId, 3); // 3 degrees of separation
+
+    const container = document.getElementById('network');
+    const stages = {
+      bruck: { color: '#CFD8DC', size: 20, borderWidth: 0 },
+      tinkering: { color: '#B0BEC5', size: 20, borderWidth: 0 },
+      roughingOut: { color: '#90A4AE', size: 20, borderWidth: 0 },
+      moulding: { color: '#78909C', size: 20, borderWidth: 0 },
+      detailing: { color: '#607D8B', size: 20, borderWidth: 0 }
+    };
+
+    egocentricData.nodes.forEach(node => {
+        const stage = stages[node.stage];
+        if (stage) {
+          node.color = stage.color;
+          node.size = stage.size;
+          node.borderWidth = stage.borderWidth;
+          node.tooltipContent = `<div>
+                                <strong>${node.label}</strong>
+                                <p>Tags: ${node.tags.join(', ')}</p>
+                                </div>`;
+          console.log(node); // Debugging line
+      }
+    });
+
+      // Convert links to edges
+      const edges = egocentricData.edges.map(link => ({
+        from: link.source,
+        to: link.target
+      }));
+
+      const networkData = {
+        nodes: egocentricData.nodes,
+        edges: edges
+      };
+
+      const options = {
+        nodes: {
+          shape: 'dot',
+          font: {
+            size: 12,
+            color: '#000000'
+          }
+        },
+        edges: {
+          smooth: {
+            enabled: true
+          },
+          width: 1.5
+        },
+        layout: {
+          improvedLayout: true,
+          hierarchical: {
+            enabled: false,
+            direction: 'LR',
+            sortMethod: 'directed',
+            levelSeparation: 150,
+            nodeSpacing: 150
+          }
+        },
+        interaction: {
+          hover: true,
+          navigationButtons: false,
+          keyboard: false,
+          tooltipDelay: 300
+        },
+        physics: {
+          enabled: true,
+          solver: 'barnesHut',
+          barnesHut: {
+            theta: 0.5,
+            gravitationalConstant: -3500,
+            centralGravity: 0.3,
+            springLength: 95,
+            springConstant: 0.04,
+            damping: 0.5,
+            avoidOverlap: 0.5
+          },
+          maxVelocity: 50,
+          minVelocity: 0.1,
+          stabilization: {
+            iterations: 250
+          }
+        }
+      };
+
+      const network = new vis.Network(container, networkData, options);
+
+      network.on("hoverNode", function (params) {
+        const nodeId = params.node;
+        const nodeData = egocentricData.nodes.find(node => node.id === nodeId);
+          console.log(nodeData); // Debugging line
+        tooltip.innerHTML = nodeData.tooltipContent;
+        tooltip.style.display = "block";
+        tooltip.style.left = params.event.pageX + "px";
+        tooltip.style.top = params.event.pageY + "px";
+      });
+
+      network.on("blurNode", function () {
+        tooltip.style.display = "none";
+      });
+
+      network.on('click', (params) => {
+        if (params.nodes.length === 1) {
+          const nodeId = params.nodes[0];
+          const node = data.nodes.find(node => node.id === nodeId);
+          if (node && node.url) {
+            setTimeout(() => {
+              window.location.href = node.url;
+            }, 300);
+          }
+        }
+      });
+        // Center the graph on the current node
+        network.once('stabilized', function () {
+          network.focus(currentNodeId, {
+          scale: 0.333, // Adjust the scale as needed
+          animation: {
+            duration: 1000,
+            easingFunction: 'easeInOutQuad'
+          }
+        });
+      });
+    })
+    .catch(error => {
+      console.error('There has been a problem with your fetch operation:', error);
+      // Handle the error, e.g., display an error message to the user
+      const container = document.getElementById('network');
+      container.innerHTML = 'Error loading the network graph. Please try again later.';
+    });
+  </script>
+</body>
+</div>
+
+      </div>
+
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">⧉</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Justin Pickard</li><li><a class="u-email" href="mailto:hello@justinpickard.net">hello@justinpickard.net</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Notes and log entries, for now.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
