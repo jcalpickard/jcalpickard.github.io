@@ -1,6 +1,6 @@
 ---  
 layout: garden
-title: "CSCW (Computer-supported cooperative work)"
+title: "Computer-supported cooperative work"
 stage: bruck
 ---
 

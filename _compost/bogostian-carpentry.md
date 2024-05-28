@@ -4,9 +4,7 @@ title: "Bogostian carpentry"
 stage: tinkering
 ---
 
-[[field-philosophy|Field philosophy]]/[[ontography]] through [[prototyping]]? Constructing artifacts as philosophical practice.
-
-Analogous to woodworking, but material-agnostic; 'to do carpentry is to make anything, but to make it in earnest, with one's own hands, like a cabinet-maker.' (Bogost 2012)
+Constructing artifacts as philosophical practice. Analogous to woodworking, but material-agnostic; 'to do carpentry is to make anything, but to make it in earnest, with one's own hands, like a cabinet-maker.' (Bogost 2012)
 
 The products of carpentry are sincere philosophical/investigative outputs; 'not mere accidents, waypoints on the way to something else.' (Bogost 2012) Not a means to an ends. Prototypes embodying and advancing philosophical inquiry, providing fuzzy, speculative glimpses insight into the worlds of objects. Exploring ontology by practicing it? Playful, earnest, and sincere.
 
@@ -32,4 +30,4 @@ Echoes of taxidermy?
 
 - [?] What counts as a "sincere philosophical output" in artifact form? What criteria distinguish it from artistic expression or design prototyping?
 - [?] How do you evaluate or validate the knowledge claims or insights embodied in an artifact? What modes of critique or peer review apply?
-- [&] See also: [[experimental-archaeology]], [[critical-making]]?
+- [&] See also: [[experimental-archaeology]], [[field-philosophy]], [[critical-making]]?
