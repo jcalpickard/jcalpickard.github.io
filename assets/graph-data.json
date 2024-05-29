@@ -127,6 +127,15 @@
       "url": "/compost/chronos-and-kairos/"
     },
     {
+      "id": "Cognitive diversity",
+      "label": "Cognitive diversity",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/cognitive-diversity/"
+    },
+    {
       "id": "Cognitive justice",
       "label": "Cognitive justice",
       "stage": "bruck",
@@ -641,6 +650,15 @@
       "url": "/compost/northeast-atlantic-archipelago/"
     },
     {
+      "id": "Obduracy",
+      "label": "Obduracy",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/obduracy/"
+    },
+    {
       "id": "Ontography",
       "label": "Ontography",
       "stage": "bruck",
@@ -837,6 +855,15 @@
 
       ],
       "url": "/compost/repair/"
+    },
+    {
+      "id": "Reparative reading",
+      "label": "Reparative reading",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/reparative-reading/"
     },
     {
       "id": "Retrieval-augmented generation",
@@ -1106,6 +1133,10 @@
       "target": "Vital conjunctures"
     },
     {
+      "source": "Cognitive diversity",
+      "target": "Jagged noetic substrates"
+    },
+    {
       "source": "Cognitive justice",
       "target": "Cosmotechnics"
     },
@@ -1196,6 +1227,10 @@
     {
       "source": "Distributed cognition",
       "target": "Computer-supported cooperative work"
+    },
+    {
+      "source": "Distributed cognition",
+      "target": "Jagged noetic substrates"
     },
     {
       "source": "Divination",
@@ -1298,6 +1333,10 @@
       "target": "Computer-supported cooperative work"
     },
     {
+      "source": "Latency",
+      "target": "Insularity"
+    },
+    {
       "source": "Lay expertise",
       "target": "Cognitive justice"
     },
@@ -1324,10 +1363,6 @@
     {
       "source": "Narrative aircover",
       "target": "Vital conjunctures"
-    },
-    {
-      "source": "Northeast Atlantic archipelago",
-      "target": "Hauntology"
     },
     {
       "source": "Ontography",
@@ -1418,6 +1453,10 @@
       "target": "Stewardship"
     },
     {
+      "source": "Reparative reading",
+      "target": "Jagged noetic substrates"
+    },
+    {
       "source": "Retrieval-augmented generation",
       "target": "Gopnikism"
     },
@@ -1486,8 +1525,16 @@
       "target": "Care"
     },
     {
+      "source": "Tinkering",
+      "target": "Insularity"
+    },
+    {
       "source": "Trace ethnography",
       "target": "Sociotechnical flânerie"
+    },
+    {
+      "source": "Translocality",
+      "target": "Insularity"
     },
     {
       "source": "Trickster",
