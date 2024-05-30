@@ -45,10 +45,54 @@
     <main>
 
       <p class="last-updated">
-    <small style="font-style: normal;">Last updated: Wednesday, 29 May 2024</small>
+    <small style="font-style: normal;">Last updated: Thursday, 30 May 2024</small>
   </p>
 
       <p>Inspired, more or less directly, by <a class="wiki-link" href="/compost/permaculture/">permaculture</a>.</p>
+
+<blockquote>
+  <p>In essence, permacomputing aims to promote and experiment with a more sustainable relationship with computer and network technology.
+<cite>— Aymeric Mansoux et al., “<a href="https://doi.org/10.21428/bf6fb269.6690fc2e" class="web-link">Permacomputing Aesthetics</a>” (2023)</cite></p>
+</blockquote>
+
+<ul>
+  <li>maximising the life of hardware</li>
+  <li>minimising energy consumption</li>
+  <li>design for disassembly (“design for descent”?)</li>
+  <li>encouraging the creative reuse of already available computing devices and components</li>
+</ul>
+
+<blockquote>
+  <p>In practice, permacomputing exists as two intertwined strands: first, an incentive to reuse and repurpose existing computer technology and materials to create new works; and second, a list of continuously evolving design principles, to guide that very reuse and repurposing, but also to inform the development of new software and hardware when reuse and repurposing are not possible or relevant.
+<cite>— Aymeric Mansoux et al., “<a href="https://doi.org/10.21428/bf6fb269.6690fc2e" class="web-link">Permacomputing Aesthetics</a>” (2023)</cite></p>
+</blockquote>
+
+<p>Key properties of permacomputing systems: accessible, sober, compatible, efficient, flexible, resilient.</p>
+
+<p>By keeping systems small, simple and adaptable to changing conditions, permacomputing braces for potential collapse scenarios while remaining open to more hopeful futures.</p>
+
+<p>Motivated by an ecological <a class="wiki-link" href="/compost/care/">ethic of care</a> for both the earth and community</p>
+
+<p>A prefigurative politics? A long-term utopian project?</p>
+
+<blockquote>
+  <p>How do we move from an aesthetics of <a class="wiki-link" href="/compost/repair/">repair</a> and reuse, which cannot be decoupled from questions of creative destruction and planned obsolescence, to an aesthetics of repair that can also admit that not everything should be repaired, and that perhaps sometimes things really do need to be left broken in order to escape the status quo of bargaining and negotiation that leads nowhere?
+<cite>— Aymeric Mansoux et al., “<a href="https://doi.org/10.21428/bf6fb269.6690fc2e" class="web-link">Permacomputing Aesthetics</a>” (2023)</cite></p>
+</blockquote>
+
+<p><strong>Examples:</strong></p>
+<ul>
+  <li><a href="https://smallfile.ca/" class="web-link">Small File Media Festival</a></li>
+  <li><a href="http://collapseos.org/" class="web-link">Collapse OS</a></li>
+  <li><a href="https://100r.co/site/uxn.html" class="web-link">Uxn</a></li>
+  <li>
+    <p><a href="http://screenl.es/" class="web-link">The Screenless Office</a></p>
+  </li>
+  <li>[?] Can permacomputing be scaled to larger systems and infrastructures, or is it inimical to scaling?</li>
+  <li>[?] What are the implications of permacomputing for, e.g., digital gardening, knowledge graphs, etc.?</li>
+  <li>[&amp;] Links with/origins in the demoscene?</li>
+  <li>[&amp;] See also: <a class="wiki-link" href="/compost/appropriate-technology/">appropriate technology</a>, <a class="wiki-link" href="/compost/degrowth/">degrowth</a>?</li>
+</ul>
 
 
       
@@ -154,7 +198,7 @@
           node.size = stage.size;
           node.borderWidth = stage.borderWidth;
           node.tooltipContent = `<div>
-                                <strong>${node.label}</strong>
+                                <a href="${node.url}" target="_blank"><strong>${node.label}</strong></a>
                                 <p>Tags: ${node.tags.join(', ')}</p>
                                 </div>`;
           console.log(node); // Debugging line
@@ -198,9 +242,10 @@
         },
         interaction: {
           hover: true,
+          selectable: false,
           navigationButtons: false,
           keyboard: false,
-          tooltipDelay: 300
+          tooltipDelay: 1000
         },
         physics: {
           enabled: true,

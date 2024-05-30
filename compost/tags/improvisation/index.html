@@ -407,7 +407,7 @@
           node.size = stage.size;
           node.borderWidth = stage.borderWidth;
           node.tooltipContent = `<div>
-                                <strong>${node.label}</strong>
+                                <a href="${node.url}" target="_blank"><strong>${node.label}</strong></a>
                                 <p>Tags: ${node.tags.join(', ')}</p>
                                 </div>`;
           console.log(node); // Debugging line
@@ -451,9 +451,10 @@
         },
         interaction: {
           hover: true,
+          selectable: false,
           navigationButtons: false,
           keyboard: false,
-          tooltipDelay: 300
+          tooltipDelay: 1000
         },
         physics: {
           enabled: true,

@@ -45,7 +45,7 @@
     <main>
 
       <p class="last-updated">
-    <small style="font-style: normal;">Last updated: Wednesday, 29 May 2024</small>
+    <small style="font-style: normal;">Last updated: Thursday, 30 May 2024</small>
   </p>
 
       <p>Designed for the needs and local contexts of particular <a class="wiki-link" href="/compost/communities-of-practice/">communities of practice</a>. May be a product of <a class="wiki-link" href="/compost/user-innovation/">user innovation</a>.</p>
@@ -154,7 +154,7 @@
           node.size = stage.size;
           node.borderWidth = stage.borderWidth;
           node.tooltipContent = `<div>
-                                <strong>${node.label}</strong>
+                                <a href="${node.url}" target="_blank"><strong>${node.label}</strong></a>
                                 <p>Tags: ${node.tags.join(', ')}</p>
                                 </div>`;
           console.log(node); // Debugging line
@@ -198,9 +198,10 @@
         },
         interaction: {
           hover: true,
+          selectable: false,
           navigationButtons: false,
           keyboard: false,
-          tooltipDelay: 300
+          tooltipDelay: 1000
         },
         physics: {
           enabled: true,

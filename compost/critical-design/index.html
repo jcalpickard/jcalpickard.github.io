@@ -45,10 +45,15 @@
     <main>
 
       <p class="last-updated">
-    <small style="font-style: normal;">Last updated: Wednesday, 29 May 2024</small>
+    <small style="font-style: normal;">Last updated: Thursday, 30 May 2024</small>
   </p>
 
       <p>Design approach that challenges prevailing assumptions of the field, exploring alternative possibilities.</p>
+
+<blockquote>
+  <p>So, critical practice (in any domain, art, technology, design, philosophy) is about taking a stance of questioning assumptions, biases, preconceptions and givens about society, culture and so on. A designerly approach to critical practice then allows us to explore the material experience of these questions; how biases and assumptions manifest in products, services, interactions, buildings, cities and so on.
+<cite>— Tobias Revell, “<a href="https://www.designdecode.org/tobias-revell/" class="web-link">Unveiling the Essence: The Interplay of Reality and Imagination in Speculative Design</a>”</cite></p>
+</blockquote>
 
 <p>Going beyond creating functional and aesthetically pleasing objects to provoke and prompt debate.</p>
 
@@ -168,7 +173,7 @@
           node.size = stage.size;
           node.borderWidth = stage.borderWidth;
           node.tooltipContent = `<div>
-                                <strong>${node.label}</strong>
+                                <a href="${node.url}" target="_blank"><strong>${node.label}</strong></a>
                                 <p>Tags: ${node.tags.join(', ')}</p>
                                 </div>`;
           console.log(node); // Debugging line
@@ -212,9 +217,10 @@
         },
         interaction: {
           hover: true,
+          selectable: false,
           navigationButtons: false,
           keyboard: false,
-          tooltipDelay: 300
+          tooltipDelay: 1000
         },
         physics: {
           enabled: true,

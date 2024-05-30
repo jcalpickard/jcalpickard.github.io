@@ -45,10 +45,19 @@
     <main>
 
       <p class="last-updated">
-    <small style="font-style: normal;">Last updated: Wednesday, 29 May 2024</small>
+    <small style="font-style: normal;">Last updated: Thursday, 30 May 2024</small>
   </p>
 
-      
+      <p>Repositories or databases that store and organise information, data, and knowledge related to a specific topic, product, service, or organisation.</p>
+
+<p>Relies on structured data.</p>
+
+<p>A self-service resource. Examples: FAQs, how-to guides or tutorials, product manuals, policies and procedures, video guides and interactive walkthroughs.</p>
+
+<ul>
+  <li>[?] How does a knowledge base relate to and/or differ from other information artifacts like databases or documents?</li>
+  <li>[?] Could oral storytelling traditions be conceptualised as a form of knowledge base?</li>
+</ul>
 
 
       
@@ -62,6 +71,9 @@
         
           
           : <a class="wiki-link" href="/compost/experimental-publishing/">Experimental publishing</a>
+        
+          
+          : <a class="wiki-link" href="/compost/knowledge-graphs/">Knowledge graphs</a>
         
         </ul>
       
@@ -165,7 +177,7 @@
           node.size = stage.size;
           node.borderWidth = stage.borderWidth;
           node.tooltipContent = `<div>
-                                <strong>${node.label}</strong>
+                                <a href="${node.url}" target="_blank"><strong>${node.label}</strong></a>
                                 <p>Tags: ${node.tags.join(', ')}</p>
                                 </div>`;
           console.log(node); // Debugging line
@@ -209,9 +221,10 @@
         },
         interaction: {
           hover: true,
+          selectable: false,
           navigationButtons: false,
           keyboard: false,
-          tooltipDelay: 300
+          tooltipDelay: 1000
         },
         physics: {
           enabled: true,

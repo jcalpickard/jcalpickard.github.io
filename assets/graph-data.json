@@ -1105,6 +1105,10 @@
       "target": "Minor technologies"
     },
     {
+      "source": "Appropriate technology",
+      "target": "Permacomputing"
+    },
+    {
       "source": "Baroque",
       "target": "Ferality"
     },
@@ -1123,6 +1127,10 @@
     {
       "source": "Bruck",
       "target": "Bricolage"
+    },
+    {
+      "source": "Care",
+      "target": "Permacomputing"
     },
     {
       "source": "Care",
@@ -1219,6 +1227,10 @@
     {
       "source": "Cultural transmission",
       "target": "Gopnikism"
+    },
+    {
+      "source": "Degrowth",
+      "target": "Permacomputing"
     },
     {
       "source": "Distributed cognition",
@@ -1319,6 +1331,10 @@
     {
       "source": "Knowledge bases",
       "target": "Experimental publishing"
+    },
+    {
+      "source": "Knowledge bases",
+      "target": "Knowledge graphs"
     },
     {
       "source": "Knowledge graphs",
@@ -1447,6 +1463,10 @@
     {
       "source": "Relational ontology",
       "target": "Care"
+    },
+    {
+      "source": "Repair",
+      "target": "Permacomputing"
     },
     {
       "source": "Repair",

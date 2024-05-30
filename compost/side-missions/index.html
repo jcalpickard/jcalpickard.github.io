@@ -45,7 +45,7 @@
     <main>
 
       <p class="last-updated">
-    <small style="font-style: normal;">Last updated: Wednesday, 29 May 2024</small>
+    <small style="font-style: normal;">Last updated: Thursday, 30 May 2024</small>
   </p>
 
       <p>An alternative to the <a class="wiki-link" href="/compost/project-ontology/">project ontology</a>.</p>
@@ -162,7 +162,7 @@
           node.size = stage.size;
           node.borderWidth = stage.borderWidth;
           node.tooltipContent = `<div>
-                                <strong>${node.label}</strong>
+                                <a href="${node.url}" target="_blank"><strong>${node.label}</strong></a>
                                 <p>Tags: ${node.tags.join(', ')}</p>
                                 </div>`;
           console.log(node); // Debugging line
@@ -206,9 +206,10 @@
         },
         interaction: {
           hover: true,
+          selectable: false,
           navigationButtons: false,
           keyboard: false,
-          tooltipDelay: 300
+          tooltipDelay: 1000
         },
         physics: {
           enabled: true,
