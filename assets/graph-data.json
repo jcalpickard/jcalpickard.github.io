@@ -73,6 +73,15 @@
       "url": "/compost/begumpura/"
     },
     {
+      "id": "Bioregionalism",
+      "label": "Bioregionalism",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/bioregionalism/"
+    },
+    {
       "id": "Bogostian carpentry",
       "label": "Bogostian carpentry",
       "stage": "tinkering",
@@ -86,7 +95,7 @@
       "label": "Bounded rationality",
       "stage": "bruck",
       "tags": [
-        "empirics"
+
       ],
       "url": "/compost/bounded-rationality/"
     },
@@ -632,15 +641,6 @@
       "url": "/compost/muddling-through/"
     },
     {
-      "id": "Mycorrhizal time",
-      "label": "Mycorrhizal time",
-      "stage": "bruck",
-      "tags": [
-        "time"
-      ],
-      "url": "/compost/mycorrhizal-time/"
-    },
-    {
       "id": "Narrative aircover",
       "label": "Narrative aircover",
       "stage": "bruck",
@@ -663,7 +663,7 @@
       "label": "Ontography",
       "stage": "bruck",
       "tags": [
-
+        "epistemics"
       ],
       "url": "/compost/ontography/"
     },
@@ -693,15 +693,6 @@
 
       ],
       "url": "/compost/panpneumatics/"
-    },
-    {
-      "id": "Paradigm shift",
-      "label": "Paradigm shift",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/paradigm-shift/"
     },
     {
       "id": "Participant observation",
@@ -747,6 +738,15 @@
 
       ],
       "url": "/compost/piracy/"
+    },
+    {
+      "id": "Pluriverse",
+      "label": "Pluriverse",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/pluriverse/"
     },
     {
       "id": "Postcolonial technoscience",
@@ -1122,6 +1122,10 @@
       "target": "Ferality"
     },
     {
+      "source": "Bioregionalism",
+      "target": "Northeast Atlantic archipelago"
+    },
+    {
       "source": "Bogostian carpentry",
       "target": "Critical making"
     },
@@ -1311,7 +1315,7 @@
     },
     {
       "source": "Forking",
-      "target": "Hauntology"
+      "target": "Open-source software"
     },
     {
       "source": "Genius loci",
@@ -1414,10 +1418,6 @@
       "target": "Landvættir"
     },
     {
-      "source": "Paradigm shift",
-      "target": "Ground-zero empiricism"
-    },
-    {
       "source": "Participant observation",
       "target": "Ethnography"
     },
@@ -1440,6 +1440,10 @@
     {
       "source": "Piracy",
       "target": "Forking"
+    },
+    {
+      "source": "Pluriverse",
+      "target": "Panpneumatics"
     },
     {
       "source": "Postcolonial technoscience",
@@ -1524,6 +1528,10 @@
     {
       "source": "Side-missions",
       "target": "Forking"
+    },
+    {
+      "source": "Side-missions",
+      "target": "Narrative aircover"
     },
     {
       "source": "Sociotechnical flânerie",
