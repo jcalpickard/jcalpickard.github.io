@@ -29,7 +29,6 @@ Repurposing existing systems and platforms as 'technologies of possibility'; cou
 Zines, DIY publishing, community radio, bicycles, the Fediverse. What else?
 
 - [⎈] How can we distinguish "minor" technologies from "major" ones? Consider how this distinction plays out in practical scenarios. Can you identify contemporary "minor technologies" in everyday life or specific fields (e.g., education, healthcare, communication)?
-- [⎈] Explore how contemporary digital platforms (like [[open-source-software]] communities, collaborative networks) embody the principles of minor technologies. What are the strengths and limitations of these spaces?
 - [?] How do minor technologies reveal or challenge power dynamics? Are there historical precedents of minor technologies effecting significant political change?
 - [&] Compare with: [[appropriate-technology]]?
 - [&] Consider minor technologies as an example of [[worlding]]? (how do they enact novel contexts, supply new ways of being and knowing?)

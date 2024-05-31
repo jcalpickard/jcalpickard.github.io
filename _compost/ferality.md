@@ -40,5 +40,4 @@ Feral monads are disposed to participate in provisional assemblages, demonstrati
 
 - [&] Compare with: [[ruderality]]? (linked by ecological resilience/resourcefulness)
 - [&] See also: the [[baroque]]? (feral things reflect a world into themselves, carrying their own narrative and context)
-- [&] See also: [[piracy]]? (a piratical approach to resources and ideas)
 - [&] See also: the [[trickster]] archetype?

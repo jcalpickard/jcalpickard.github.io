@@ -10,4 +10,4 @@ After André Leroi-Gourhan and André-Georges Haudricourt. Big deal in lithics.
 
 From the sourcing and acquisition of materials to the abandonment or disposal of the artifact.
 
-- [&] See also [[ethnography]], [[experimental-archaeology]]?
+- [&] See also: [[experimental-archaeology]]?

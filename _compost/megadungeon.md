@@ -35,6 +35,6 @@ A literal and metaphorical descent?
 > 9. It’s a (the?) central feature of the campaign. 
 <cite>— Jason Cone, _[Philotomy's Musings](https://www.grey-elf.com/philotomy.pdf)_ (2007)</cite>
 
-- [&] See also: [[volumetrics]]?
+- [&] See also: [[volumetrics]], [[procedural-generation]]?
 
 [^1]: `'YOU ARE IN A MAZE OF TWISTY LITTLE PASSAGES, ALL ALIKE.'`

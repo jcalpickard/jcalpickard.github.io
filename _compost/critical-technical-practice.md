@@ -18,4 +18,4 @@ Aim is to develop a "split identity", with one foot in the craft of technical cr
 
 Initially, CTP was a response to the limitations of 20th-century AI research. Agre's work at the MIT AI Lab, particularly his collaboration with David Chapman, laid much of the groundwork for his approach. His critical stance was influenced by his dissatisfaction with the intellectual conservatism of AI and its limited sense of historical context.
 
-- [&] See also: [[appropriate-technology]], [[critical-making]]?
+- [&] See also: [[critical-making]]?

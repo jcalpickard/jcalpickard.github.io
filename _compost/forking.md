@@ -16,5 +16,4 @@ In other contexts, might be about protocols/architectures of the [[side-missions
 
 - [?] What's the difference between a "hard fork" and a "soft fork"?
 - [?] Do I need a seperate note on "version control"?
-- [&] Unauthorised forking would be [[piracy]], presumably?
 - [⎈] Look into how companies use spin-offs to explore new markets or technologies.

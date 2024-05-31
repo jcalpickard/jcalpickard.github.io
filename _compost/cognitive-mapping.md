@@ -13,4 +13,3 @@ Grapping with an unrepresentable totality? A response to disorientation? Represe
 <cite>— Frederic Jameson, "Cognitive mapping" (1988)</cite>
 
 - [?] What are the limitations of cognitive mapping as a theoretical and practical tool?
-- [&] See also: [[worlding]]?
