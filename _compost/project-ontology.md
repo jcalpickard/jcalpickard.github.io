@@ -18,4 +18,3 @@ Choosing to "de-projectify" some undertakings? (as [[side-missions]], or otherwi
 
 - [?] What does it mean to look at the project as a _genre_?
 - [?] How do we define the boundaries of a project? Is it limited to formal, structured endeavors, or can it include informal, ad-hoc initiatives?
-- [?] 
