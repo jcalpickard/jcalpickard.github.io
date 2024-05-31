@@ -605,6 +605,15 @@
       "url": "/compost/lay-expertise/"
     },
     {
+      "id": "Media archaeology",
+      "label": "Media archaeology",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/media-archaeology/"
+    },
+    {
       "id": "Megadungeon",
       "label": "Megadungeon",
       "stage": "tinkering",
@@ -612,6 +621,15 @@
 
       ],
       "url": "/compost/megadungeon/"
+    },
+    {
+      "id": "Microhistory",
+      "label": "Microhistory",
+      "stage": "tinkering",
+      "tags": [
+
+      ],
+      "url": "/compost/microhistory/"
     },
     {
       "id": "Minor technologies",
@@ -731,15 +749,6 @@
       "url": "/compost/phronesis/"
     },
     {
-      "id": "Piracy",
-      "label": "Piracy",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/piracy/"
-    },
-    {
       "id": "Pluriverse",
       "label": "Pluriverse",
       "stage": "bruck",
@@ -758,6 +767,15 @@
       "url": "/compost/postcolonial-technoscience/"
     },
     {
+      "id": "Postcolonial theory",
+      "label": "Postcolonial theory",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/postcolonial-theory/"
+    },
+    {
       "id": "Postnormal science",
       "label": "Postnormal science",
       "stage": "bruck",
@@ -765,6 +783,15 @@
 
       ],
       "url": "/compost/postnormal-science/"
+    },
+    {
+      "id": "Practical ontology",
+      "label": "Practical ontology",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/practical-ontology/"
     },
     {
       "id": "Project ontology",
@@ -882,15 +909,6 @@
 
       ],
       "url": "/compost/reverse-salients/"
-    },
-    {
-      "id": "Rhizome",
-      "label": "Rhizome",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/rhizome/"
     },
     {
       "id": "Right to the city",
@@ -1106,8 +1124,8 @@
       "target": "Ground-zero empiricism"
     },
     {
-      "source": "Appropriate technology",
-      "target": "Critical technical practice"
+      "source": "Agnotology",
+      "target": "Postnormal science"
     },
     {
       "source": "Appropriate technology",
@@ -1226,6 +1244,10 @@
       "target": "Hauntology"
     },
     {
+      "source": "Counterfactual reasoning",
+      "target": "Media archaeology"
+    },
+    {
       "source": "Critical design",
       "target": "Critical making"
     },
@@ -1272,10 +1294,6 @@
     {
       "source": "Ethnography",
       "target": "Actor-network theory"
-    },
-    {
-      "source": "Ethnography",
-      "target": "Chaîne opératoires"
     },
     {
       "source": "Ethnography",
@@ -1342,6 +1360,14 @@
       "target": "Megadungeon"
     },
     {
+      "source": "Heterotopias",
+      "target": "Psychogeography"
+    },
+    {
+      "source": "Infrastructure",
+      "target": "Practical ontology"
+    },
+    {
       "source": "Insularity",
       "target": "Northeast Atlantic archipelago"
     },
@@ -1382,6 +1408,10 @@
       "target": "User innovation"
     },
     {
+      "source": "Microhistory",
+      "target": "Prosopography"
+    },
+    {
       "source": "Minor technologies",
       "target": "Appropriate technology"
     },
@@ -1404,10 +1434,6 @@
     {
       "source": "Open-source software",
       "target": "Forking"
-    },
-    {
-      "source": "Open-source software",
-      "target": "Minor technologies"
     },
     {
       "source": "Pace layers",
@@ -1434,14 +1460,6 @@
       "target": "Permacomputing"
     },
     {
-      "source": "Piracy",
-      "target": "Ferality"
-    },
-    {
-      "source": "Piracy",
-      "target": "Forking"
-    },
-    {
       "source": "Pluriverse",
       "target": "Panpneumatics"
     },
@@ -1450,12 +1468,20 @@
       "target": "Cognitive justice"
     },
     {
+      "source": "Postcolonial theory",
+      "target": "Postcolonial technoscience"
+    },
+    {
       "source": "Postnormal science",
       "target": "Ground-zero empiricism"
     },
     {
       "source": "Postnormal science",
       "target": "Lay expertise"
+    },
+    {
+      "source": "Practical ontology",
+      "target": "Pluriverse"
     },
     {
       "source": "Project ontology",
@@ -1510,10 +1536,6 @@
       "target": "Pace layers"
     },
     {
-      "source": "Rhizome",
-      "target": "About"
-    },
-    {
       "source": "Right to the city",
       "target": "Begumpura"
     },
@@ -1532,6 +1554,10 @@
     {
       "source": "Side-missions",
       "target": "Narrative aircover"
+    },
+    {
+      "source": "Side-missions",
+      "target": "Project ontology"
     },
     {
       "source": "Sociotechnical flânerie",
@@ -1619,11 +1645,15 @@
     },
     {
       "source": "Worlding",
-      "target": "Cognitive mapping"
+      "target": "Minor technologies"
     },
     {
       "source": "Worlding",
-      "target": "Minor technologies"
+      "target": "Pluriverse"
+    },
+    {
+      "source": "Worlding",
+      "target": "Practical ontology"
     }
   ]
 }
