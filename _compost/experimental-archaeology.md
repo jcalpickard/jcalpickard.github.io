@@ -4,7 +4,7 @@ title: "Experimental archaeology"
 stage: bruck
 ---
 
-Replicating or approximating past technologies, behaviours, and [[material-culture|material cultures]], as a way of gaining first-hand insights into historical societies.
+Replicating or approximating past technologies, behaviours, and material culture, as a way of gaining first-hand insights into historical societies.
 
 Using historically-accurate materials, methods, techniques.
 

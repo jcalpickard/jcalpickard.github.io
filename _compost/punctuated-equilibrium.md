@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Obduracy"
+title: "Punctuated equilibrium"
 stage: bruck
 ---

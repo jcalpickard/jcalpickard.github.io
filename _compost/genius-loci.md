@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Material culture"
+title: "Genius loci"
 stage: bruck
 ---
