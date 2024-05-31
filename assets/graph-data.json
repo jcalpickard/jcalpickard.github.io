@@ -82,6 +82,15 @@
       "url": "/compost/bogostian-carpentry/"
     },
     {
+      "id": "Bounded rationality",
+      "label": "Bounded rationality",
+      "stage": "bruck",
+      "tags": [
+        "empirics"
+      ],
+      "url": "/compost/bounded-rationality/"
+    },
+    {
       "id": "Bricolage",
       "label": "Bricolage",
       "stage": "tinkering",
@@ -425,6 +434,15 @@
       "url": "/compost/forking/"
     },
     {
+      "id": "Genius loci",
+      "label": "Genius loci",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/genius-loci/"
+    },
+    {
       "id": "Gopnikism",
       "label": "Gopnikism",
       "stage": "bruck",
@@ -578,15 +596,6 @@
       "url": "/compost/lay-expertise/"
     },
     {
-      "id": "Material culture",
-      "label": "Material culture",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/material-culture/"
-    },
-    {
       "id": "Megadungeon",
       "label": "Megadungeon",
       "stage": "tinkering",
@@ -598,7 +607,7 @@
     {
       "id": "Minor technologies",
       "label": "Minor technologies",
-      "stage": "bruck",
+      "stage": "tinkering",
       "tags": [
 
       ],
@@ -648,15 +657,6 @@
 
       ],
       "url": "/compost/northeast-atlantic-archipelago/"
-    },
-    {
-      "id": "Obduracy",
-      "label": "Obduracy",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/obduracy/"
     },
     {
       "id": "Ontography",
@@ -767,15 +767,6 @@
       "url": "/compost/postnormal-science/"
     },
     {
-      "id": "Project-based learning",
-      "label": "Project-based learning",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/project-based-learning/"
-    },
-    {
       "id": "Project ontology",
       "label": "Project ontology",
       "stage": "bruck",
@@ -819,6 +810,15 @@
 
       ],
       "url": "/compost/psychogeography/"
+    },
+    {
+      "id": "Punctuated equilibrium",
+      "label": "Punctuated equilibrium",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/punctuated-equilibrium/"
     },
     {
       "id": "Queer time",
@@ -1074,6 +1074,15 @@
       "url": "/compost/vital-conjunctures/"
     },
     {
+      "id": "Volumetrics",
+      "label": "Volumetrics",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/volumetrics/"
+    },
+    {
       "id": "Worlding",
       "label": "Worlding",
       "stage": "bruck",
@@ -1117,6 +1126,10 @@
       "target": "Critical making"
     },
     {
+      "source": "Bounded rationality",
+      "target": "Muddling through"
+    },
+    {
       "source": "Bricolage",
       "target": "Jugaad"
     },
@@ -1131,10 +1144,6 @@
     {
       "source": "Care",
       "target": "Permacomputing"
-    },
-    {
-      "source": "Care",
-      "target": "Stewardship"
     },
     {
       "source": "Chronos and kairos",
@@ -1195,6 +1204,10 @@
     {
       "source": "Conceptual emergency",
       "target": "Ground-zero empiricism"
+    },
+    {
+      "source": "Conceptual emergency",
+      "target": "Lay expertise"
     },
     {
       "source": "Convivial tools",
@@ -1301,6 +1314,10 @@
       "target": "Hauntology"
     },
     {
+      "source": "Genius loci",
+      "target": "Landvættir"
+    },
+    {
       "source": "Graphical user interface",
       "target": "Human-computer interaction"
     },
@@ -1317,6 +1334,10 @@
       "target": "Gopnikism"
     },
     {
+      "source": "Heterotopias",
+      "target": "Megadungeon"
+    },
+    {
       "source": "Insularity",
       "target": "Northeast Atlantic archipelago"
     },
@@ -1331,10 +1352,6 @@
     {
       "source": "Knowledge bases",
       "target": "Experimental publishing"
-    },
-    {
-      "source": "Knowledge bases",
-      "target": "Knowledge graphs"
     },
     {
       "source": "Knowledge graphs",
@@ -1361,14 +1378,6 @@
       "target": "User innovation"
     },
     {
-      "source": "Material culture",
-      "target": "Chaîne opératoires"
-    },
-    {
-      "source": "Material culture",
-      "target": "Experimental archaeology"
-    },
-    {
       "source": "Minor technologies",
       "target": "Appropriate technology"
     },
@@ -1393,8 +1402,16 @@
       "target": "Forking"
     },
     {
+      "source": "Open-source software",
+      "target": "Minor technologies"
+    },
+    {
       "source": "Pace layers",
       "target": "Reverse salients"
+    },
+    {
+      "source": "Panpneumatics",
+      "target": "Landvættir"
     },
     {
       "source": "Paradigm shift",
@@ -1433,12 +1450,8 @@
       "target": "Ground-zero empiricism"
     },
     {
-      "source": "Project-based learning",
-      "target": "Critical making"
-    },
-    {
-      "source": "Project ontology",
-      "target": "Project-based learning"
+      "source": "Postnormal science",
+      "target": "Lay expertise"
     },
     {
       "source": "Project ontology",
@@ -1457,8 +1470,16 @@
       "target": "Hauntology"
     },
     {
+      "source": "Punctuated equilibrium",
+      "target": "Muddling through"
+    },
+    {
       "source": "Queer time",
       "target": "Chronos and kairos"
+    },
+    {
+      "source": "Rearguard yin tactics",
+      "target": "Minor technologies"
     },
     {
       "source": "Relational ontology",
@@ -1469,16 +1490,16 @@
       "target": "Permacomputing"
     },
     {
-      "source": "Repair",
-      "target": "Stewardship"
-    },
-    {
       "source": "Reparative reading",
       "target": "Jagged noetic substrates"
     },
     {
       "source": "Retrieval-augmented generation",
       "target": "Gopnikism"
+    },
+    {
+      "source": "Reverse salients",
+      "target": "Latency"
     },
     {
       "source": "Reverse salients",
@@ -1518,6 +1539,10 @@
     },
     {
       "source": "Stewardship",
+      "target": "Landvættir"
+    },
+    {
+      "source": "Stewardship",
       "target": "Permaculture"
     },
     {
@@ -1527,6 +1552,10 @@
     {
       "source": "Tarot",
       "target": "Divination"
+    },
+    {
+      "source": "Technological momentum",
+      "target": "Latency"
     },
     {
       "source": "Thick description",
@@ -1577,8 +1606,16 @@
       "target": "Conjunctural analysis"
     },
     {
+      "source": "Volumetrics",
+      "target": "Megadungeon"
+    },
+    {
       "source": "Worlding",
       "target": "Cognitive mapping"
+    },
+    {
+      "source": "Worlding",
+      "target": "Minor technologies"
     }
   ]
 }
