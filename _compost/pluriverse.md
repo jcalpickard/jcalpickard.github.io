@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Paradigm shift"
+title: "Pluriverse"
 stage: bruck
 ---

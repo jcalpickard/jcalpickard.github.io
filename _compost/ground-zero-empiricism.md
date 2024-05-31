@@ -26,4 +26,4 @@ Originally coined in the context of the COVID-19 pandemic, but could apply in ot
 - [?] Feminist philosophers of science like Sandra Harding and Donna Haraway have long argued a "view from nowhere" is impossible, and that all knowledge is partial and situated; how might their insights inform an understanding of "ground-zero empiricism" as an opportunity to recognise the contingency and provisionality of scientific knowledge?
 - [⎈] In the arts, avant-garde movements often sought to break with established traditions and institutions; examining how these breaks have been theorised and enacted could provide useful points of comparison.
 - [?] Is ground-zero empiricism a regression, or a necessary stage that recurs whenever radically new phenomena are encountered? Is it an aberration or simply part of the scientific process?
-- [&] See also: [[abductive-reasoning]], [[conceptual-emergency]], [[agnotology]], [[postnormal-science]], [[paradigm-shift]]?
+- [&] See also: [[abductive-reasoning]], [[conceptual-emergency]], [[agnotology]], [[postnormal-science]]?

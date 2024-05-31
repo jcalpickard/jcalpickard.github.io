@@ -65,7 +65,7 @@ Institute of Development Studies, University of Sussex, UK
 - Goldsmiths, University of London, UK
 
 **B.A. (Hons.) in International Relations and Anthropology** (2008)
-- First Class Honours, University of Sussex, Falmer, UK
+- First Class Honours, University of Sussex, UK
 
 ---
 

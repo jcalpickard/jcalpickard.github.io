@@ -17,4 +17,4 @@ Mark Fisher, Simon Reynolds, and others applied it to music in the 2000s. [Ghost
 - [?] Are hauntological aesthetics and "nostalgia for lost futures" a response to political and cultural impasses of the present?
 - [?] Can hauntology be deployed for emancipatory or utopian ends, or does it ultimately reflect a pessimistic, melancholic orientation to culture and history?
 - [📚] Jacques Derrida's _Specters of Marx_; Mark Fisher's _Ghosts of My Life_; William Gibson's short story "The Gernsback Continuum"
-- [&] See also: [[forking]], [[counterfactual-reasoning]], [[psychogeography]]?
+- [&] See also: [[counterfactual-reasoning]], [[psychogeography]]?

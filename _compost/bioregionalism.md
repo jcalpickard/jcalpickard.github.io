@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Bounded rationality"
+title: "Bioregionalism"
 stage: bruck
 ---
