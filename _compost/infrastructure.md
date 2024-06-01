@@ -4,7 +4,7 @@ title: "Infrastructure"
 stage: bruck
 ---
 
-A subcategory of [[sociotechnical-systems|sociotechnical system]]. An interweaving of technical objects/material hardware, social organisation, and knowledge practices?
+An interweaving of technical objects/material hardware, social organisation, and knowledge practices?
 
 Any in the panoply of 'built networks that facilitate the flow of goods, people, or ideas and allow for their exchange over space.' (Larkin 2013)
 

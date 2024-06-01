@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Reparative reading"
+title: "Coevalness"
 stage: bruck
 ---

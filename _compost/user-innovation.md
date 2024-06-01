@@ -4,4 +4,4 @@ title: "User innovation"
 stage: bruck
 ---
 
-Potentially a form of [[lay-expertise]]? Often relies on [[prototyping]].
+Potentially a form of [[lay-expertise]]? Link to ideas of proximal design?

@@ -14,7 +14,13 @@ Core definition of the project: 'a recognizable style of purposive action that t
 
 Combining two core aspects: '_logistical_ practical reasoning and _visionary_ aspirational ends.' (ibid.)
 
+Here, a project is not just a task but a narrative arc with a defined beginning, middle (execution), and end (completion). Eeach project has its own plot, characters (contributors), and themes (goals or outcomes).
+
 Choosing to "de-projectify" some undertakings? (as [[side-missions]], or otherwise)
+
+Overemphasising "projects" might reduce diverse practices and activities to structured processes and measurable outcomes. A homogenising force?
+
+Projects imply a beginning and an end, which can constrain or marginalise activities that are recurring or cyclical in nature. This could devalue, e.g., maintenance efforts that are crucial but less visible.
 
 - [?] What does it mean to look at the project as a _genre_?
 - [?] How do we define the boundaries of a project? Is it limited to formal, structured endeavors, or can it include informal, ad-hoc initiatives?

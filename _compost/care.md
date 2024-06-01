@@ -15,4 +15,4 @@ Attending to the affective, embodied, and contextual dimensions of moral life. R
 Focuses on the question of 'how to respond?' Resists hard and fast, fixed principles. Demands [[tinkering]] and adjustment.
 
 - [?] How do technological interventions affect the dynamics of care relationships?
-- [&] Compare with: [[virtue-ethics]], [[relational-ontology]]?
+- [&] Compare with: [[virtue-ethics]]?

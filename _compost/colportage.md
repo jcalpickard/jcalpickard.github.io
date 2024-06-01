@@ -26,4 +26,4 @@ The so-called "colportage phenomenon of space", in the work of Walter Benjamin, 
 - [?] Are there other examples of itinerant, ephemeral print cultures?
 - [?] Moving into the twentieth-century, did pulp magazines, comic books and other "lowbrow" genres take up the mantle of colportage? What are today's analogues?
 
-- [&] See also: [[sociotechnical-flânerie]], [[psychogeography]], [[hauntology]]?
+- [&] See also: [[psychogeography]], [[hauntology]]?

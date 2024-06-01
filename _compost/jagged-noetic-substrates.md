@@ -5,7 +5,7 @@ stage: bruck
 ---
 After [Kyle Booten](https://www.kylebooten.me/).
 
-Cultivating or leveraging cognitive diversity by introducing irregularities, disruptions or deviations into intellectual/cognitive processes normally seen as smooth and linear. This connects to research on the role of [[cognitive-diversity]] in problem-solving and innovation.
+Cultivating or leveraging cognitive diversity by introducing irregularities, disruptions or deviations into intellectual/cognitive processes normally seen as smooth and linear.
 
 Making sense of uneven, unstructured inputs?
 
@@ -23,5 +23,4 @@ Exploring the boundaries, limitations or blind spots of conventional reason by i
 - [⎈] Reflect on how introducing "jagged", defamiliarising elements into familiar contexts can spur creative thinking by disrupting habitual patterns of perception and cognition; link with work on the role of novelty and surprise in creativity.
 - [⎈] Examine how the interplay of multiple languages in the mind of a multilingual individual can enrich thought and communication.
 
-- [&] See also: [[reparative-reading]]?
 - [&] See also: [[distributed-cognition]]?
