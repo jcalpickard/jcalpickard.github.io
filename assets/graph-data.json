@@ -19,15 +19,6 @@
       "url": "/compost/about/"
     },
     {
-      "id": "Actor-network theory",
-      "label": "Actor-network theory",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/actor-network-theory/"
-    },
-    {
       "id": "Adaptive roadmapping",
       "label": "Adaptive roadmapping",
       "stage": "bruck",
@@ -145,13 +136,13 @@
       "url": "/compost/chronos-and-kairos/"
     },
     {
-      "id": "Cognitive diversity",
-      "label": "Cognitive diversity",
+      "id": "Coevalness",
+      "label": "Coevalness",
       "stage": "bruck",
       "tags": [
 
       ],
-      "url": "/compost/cognitive-diversity/"
+      "url": "/compost/coevalness/"
     },
     {
       "id": "Cognitive justice",
@@ -625,7 +616,7 @@
     {
       "id": "Microhistory",
       "label": "Microhistory",
-      "stage": "tinkering",
+      "stage": "bruck",
       "tags": [
 
       ],
@@ -720,6 +711,15 @@
 
       ],
       "url": "/compost/participant-observation/"
+    },
+    {
+      "id": "Performance writing",
+      "label": "Performance writing",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/performance-writing/"
     },
     {
       "id": "Permacomputing",
@@ -821,15 +821,6 @@
       "url": "/compost/prosopography/"
     },
     {
-      "id": "Prototyping",
-      "label": "Prototyping",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/prototyping/"
-    },
-    {
       "id": "Psychogeography",
       "label": "Psychogeography",
       "stage": "bruck",
@@ -866,15 +857,6 @@
       "url": "/compost/rearguard-yin-tactics/"
     },
     {
-      "id": "Relational ontology",
-      "label": "Relational ontology",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/relational-ontology/"
-    },
-    {
       "id": "Repair",
       "label": "Repair",
       "stage": "bruck",
@@ -884,17 +866,8 @@
       "url": "/compost/repair/"
     },
     {
-      "id": "Reparative reading",
-      "label": "Reparative reading",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/reparative-reading/"
-    },
-    {
-      "id": "Retrieval-augmented generation",
-      "label": "Retrieval-augmented generation",
+      "id": "Retrieval-augmented generation (RAG)",
+      "label": "Retrieval-augmented generation (RAG)",
       "stage": "bruck",
       "tags": [
 
@@ -963,15 +936,6 @@
 
       ],
       "url": "/compost/sociotechnical-fl%C3%A2nerie/"
-    },
-    {
-      "id": "Sociotechnical systems",
-      "label": "Sociotechnical systems",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/sociotechnical-systems/"
     },
     {
       "id": "Stewardship",
@@ -1101,6 +1065,15 @@
       "url": "/compost/volumetrics/"
     },
     {
+      "id": "The Wheel of the Year",
+      "label": "The Wheel of the Year",
+      "stage": "bruck",
+      "tags": [
+        "time"
+      ],
+      "url": "/compost/wheel-of-the-year/"
+    },
+    {
       "id": "Worlding",
       "label": "Worlding",
       "stage": "bruck",
@@ -1172,8 +1145,8 @@
       "target": "Vital conjunctures"
     },
     {
-      "source": "Cognitive diversity",
-      "target": "Jagged noetic substrates"
+      "source": "Coevalness",
+      "target": "Queer time"
     },
     {
       "source": "Cognitive justice",
@@ -1213,10 +1186,6 @@
     },
     {
       "source": "Communities of practice",
-      "target": "Bricolage"
-    },
-    {
-      "source": "Communities of practice",
       "target": "Situated software"
     },
     {
@@ -1234,6 +1203,10 @@
     {
       "source": "Convivial tools",
       "target": "Counterfoil research"
+    },
+    {
+      "source": "Convivial tools",
+      "target": "Situated software"
     },
     {
       "source": "Counterfactual reasoning",
@@ -1284,16 +1257,20 @@
       "target": "Jagged noetic substrates"
     },
     {
+      "source": "Distributed cognition",
+      "target": "Stigmergy"
+    },
+    {
       "source": "Divination",
       "target": "Combinatorics"
     },
     {
-      "source": "Enclosure",
-      "target": "Ferality"
+      "source": "Divination",
+      "target": "Tarot"
     },
     {
-      "source": "Ethnography",
-      "target": "Actor-network theory"
+      "source": "Enclosure",
+      "target": "Ferality"
     },
     {
       "source": "Ethnography",
@@ -1416,16 +1393,20 @@
       "target": "Appropriate technology"
     },
     {
+      "source": "Minor technologies",
+      "target": "Situated software"
+    },
+    {
       "source": "Muddling through",
       "target": "Adaptive roadmapping"
     },
     {
-      "source": "Narrative aircover",
-      "target": "Vital conjunctures"
+      "source": "Muddling through",
+      "target": "Punctuated equilibrium"
     },
     {
-      "source": "Ontography",
-      "target": "Actor-network theory"
+      "source": "Narrative aircover",
+      "target": "Vital conjunctures"
     },
     {
       "source": "Ontography",
@@ -1450,6 +1431,10 @@
     {
       "source": "Participant observation",
       "target": "Field philosophy"
+    },
+    {
+      "source": "Performance writing",
+      "target": "Sociotechnical flânerie"
     },
     {
       "source": "Permaculture",
@@ -1488,10 +1473,6 @@
       "target": "Side-missions"
     },
     {
-      "source": "Prototyping",
-      "target": "User innovation"
-    },
-    {
       "source": "Psychogeography",
       "target": "Colportage"
     },
@@ -1512,19 +1493,11 @@
       "target": "Minor technologies"
     },
     {
-      "source": "Relational ontology",
-      "target": "Care"
-    },
-    {
       "source": "Repair",
       "target": "Permacomputing"
     },
     {
-      "source": "Reparative reading",
-      "target": "Jagged noetic substrates"
-    },
-    {
-      "source": "Retrieval-augmented generation",
+      "source": "Retrieval-augmented generation (RAG)",
       "target": "Gopnikism"
     },
     {
@@ -1561,15 +1534,7 @@
     },
     {
       "source": "Sociotechnical flânerie",
-      "target": "Colportage"
-    },
-    {
-      "source": "Sociotechnical systems",
-      "target": "Infrastructure"
-    },
-    {
-      "source": "Sociotechnical systems",
-      "target": "Sociotechnical flânerie"
+      "target": "Psychogeography"
     },
     {
       "source": "Stewardship",
@@ -1596,6 +1561,10 @@
       "target": "Ethnography"
     },
     {
+      "source": "Thick description",
+      "target": "Microhistory"
+    },
+    {
       "source": "Time-sharing",
       "target": "Human-computer interaction"
     },
@@ -1614,6 +1583,10 @@
     {
       "source": "Trace ethnography",
       "target": "Sociotechnical flânerie"
+    },
+    {
+      "source": "Trace ethnography",
+      "target": "Stigmergy"
     },
     {
       "source": "Translocality",
@@ -1640,8 +1613,16 @@
       "target": "Conjunctural analysis"
     },
     {
+      "source": "Vital conjunctures",
+      "target": "Queer time"
+    },
+    {
       "source": "Volumetrics",
       "target": "Megadungeon"
+    },
+    {
+      "source": "The Wheel of the Year",
+      "target": "Seasonality"
     },
     {
       "source": "Worlding",
