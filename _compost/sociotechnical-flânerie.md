@@ -4,7 +4,7 @@ title: "Sociotechnical flânerie"
 stage: bruck
 ---
 
-An alternative to conventional [[ethnography]], inspired by Walter Benjamin's _The Arcades Project_. Advocating for a slowed and sensitised attention to, e.g., technoscientific subjects, and the infrastructures and material reconfigurations of contemporary urban spaces.
+An alternative to ethnography, inspired by Walter Benjamin's _The Arcades Project_. Advocating for a slowed and sensitised attention to, e.g., technoscientific subjects, and the infrastructures and material reconfigurations of contemporary urban spaces.
 
 **Component practices:**
 - Walking/pedestrian mobility: Physical movement through urban spaces to capture the nuances of sociotechnical interactions.
@@ -20,5 +20,4 @@ The figure of the flâneur unites a geo-historical phenomenon (the urban moderni
 
 - [⎈] Consider how sociotechnical systems and infrastructures condition what is observable and knowable about the city.
 - [&] See also: Perec's _An Attempt at Exhausting a Place in Paris_ (1975)
-- [&] See also: [[trace-ethnography]]? (traces in the city vs. through technology?)
 - [&] See also: [[performance-writing]]?

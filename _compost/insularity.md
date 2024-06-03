@@ -23,5 +23,3 @@ But also: focused collaboration within bounded systems. The isolation of insular
 - [⎈] Compare the insular dynamics of remote islands with those of geographically contiguous but culturally distinct regions like mountain valleys or enclaves.
 
 - [&] See also: island studies?
-- [&] See also: [[latency]]?
-- [&] Contrast with: [[translocality]]?

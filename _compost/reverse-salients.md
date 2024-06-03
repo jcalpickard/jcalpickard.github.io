@@ -12,9 +12,11 @@ Example: The low resistance of incandescent light filaments was a reverse salien
 
 Example: The cost and capacity of batteries has been a persistent reverse salient in the development and popularisation of EVs, slowing their adoption.
 
-Systemic bottlenecks! Unevenness, jaggedness.
+Example: Lack of interoperability or standardisation in smart home and IoT products; integrating the ecosystem becomes more important than product innovation.
 
-Act as focusing devices, attracting resources and efforts to resolve the bottlenecks (relocated from elsewhere?).
+Systemic chokepoints or bottlenecks! Unevenness, jaggedness.
+
+Reverse salients act as focusing devices, attracting resources and efforts to resolve the bottlenecks (relocated from elsewhere?).
 
 Can be about the technical or the social-organisational dimensions of the system.
 

@@ -23,4 +23,4 @@ Exploring the boundaries, limitations or blind spots of conventional reason by i
 - [⎈] Reflect on how introducing "jagged", defamiliarising elements into familiar contexts can spur creative thinking by disrupting habitual patterns of perception and cognition; link with work on the role of novelty and surprise in creativity.
 - [⎈] Examine how the interplay of multiple languages in the mind of a multilingual individual can enrich thought and communication.
 
-- [&] See also: [[distributed-cognition]]?
+- [&] See also: [[distributed-cognition]], [[surfaces]]?

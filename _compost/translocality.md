@@ -16,5 +16,3 @@ Networks and relationships that span distance and/or national borders. Local-loc
 - [?] How do identities form and evolve across multiple locations? How does translocality contribute to or challenge ideas of place-based identity?
 - [?] What role do mobilities and migration play in translocal processes?
 - [?] How does technology facilitate or hinder translocal connections?
-
-- [&] See also: [[mobilities]]?

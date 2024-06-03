@@ -1,7 +1,7 @@
 ---  
 layout: garden
 title: "Bruck"
-stage: tinkering
+stage: bruck
 ---
 
 > ***Bruck***, Orcadian dialect word: (verb) to _bruck aboot_, to rummage in old kirks and cupboards for useful, forgotten things; (noun) _bruck_, rubbish that never reaches the end of its useful life, all things may yet have a future purpose.

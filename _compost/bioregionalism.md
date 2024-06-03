@@ -14,4 +14,4 @@ Promotes the use of local resources?
 
 Taking the time to learn the limitatons and possibilities of a given place.
 
-- [&] See also: [[degrowth]], [[translocality]], [[stewardship]]?
+- [&] See also: [[degrowth]], [[stewardship]]?

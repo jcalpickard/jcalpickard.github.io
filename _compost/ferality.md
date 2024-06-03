@@ -10,21 +10,21 @@ stage: tinkering
 > Outside of fiction’s fancies, feral animals tend to be hunted and despised. They kill stock and ruin crops, menace children and pets, spread disease between the domesticated world and the wild. And yet by wit and appetite, spirit and invention, the feral creature survives in an environment that is neither of its own making nor entirely familiar to its habits of perception.
 <cite>— Matthew Battles, "[The Call of the Feral](https://www.hilobrow.com/2011/09/16/the-call-of-the-feral/)" (2011)</cite>
 
-Wild and untamed. Suggests a departure from the constraints of human influence, in favour of a more spontaneous existence.
+Wild and untamed. A departure from the constraints of human influence, in favour of a more spontaneous existence.
 
-Often refers to beings that were once domesticated or cultivated but have since escaped or been released into the wild. This results in a reversion to more instinct-driven behaviors, shedding the constraints imposed by human control.
+Beings that were once domesticated or cultivated but have since escaped or been released into the wild. This results in a reversion to more instinct-driven behaviors, shedding the constraints imposed by human control.
 
-May suggest resourceful, cunning behaviour. Feral creatures, whether animals or individuals, may develop unique survival strategies, keenly aware of their environment. This includes the ability to assess situations, anticipate changes, and make decisions that enhance their chances of survival. Adaptable and resilient, they are able to successfully navigating turbulance and flux.
+Resourceful, cunning behaviour. Feral creatures, whether animals or individuals, may develop unique survival strategies, keenly aware of their environment. This includes the ability to assess situations, anticipate changes, and make decisions that enhance their chances of survival. Adaptable and resilient, they are able to successfully navigating turbulance and flux.
 
 A dynamic condition rather than a static state? An ongoing process of adaptation to the wild. Not just a response to immediate threats but also a proactive ability to adjust and thrive in dynamic environments.
 
 Can also be applied, metaphorically, to the elements of a culture that resist conformity and societal expectations. A symbol of a more authentic expression that challenges established norms. Might also be used, pejoratively, to describe those whose behaviour is seen as unruly, uncontrollable, or socially undesirable.
 
-Often implies a quest for freedom and [[exile]] from mainstream society. Those adopting a feral identity seek liberation from constraints, choosing alternative paths. May imply a nomadic lifestyle, moving between spaces and rejecting the permanence of domestication.
+Freedom/exile from mainstream society? Those adopting a feral identity seek liberation from constraints, choosing alternative paths. A nomadic lifestyle, moving between spaces and rejecting the permanence of domestication.
 
 Fostering opacity to avoid easy categorisation and control? The feral’s cunning adaptability also equip it to navigate ambiguity and uncertainty. A feral mindset embraces the unpredictable, finding strength in its ability to improvise, responding creatively to unforeseen challenges.
 
-The feral exists between the wild and the domesticated. This condition is not a mere transitional phase; instead, it is the essence of the feral, a continual negotiation of identity and existence. The feral, in its flickering, manifold condition, challenges binary paradigms. This rejection of binary thinking aligns with the broader theme of the feral as a condition that problematises, rather than conforms to, established norms and categories.
+The feral exists between the wild and the domesticated. This condition is not a mere transitional phase; instead, it is the essence of the feral, a continual negotiation of identity and existence. The feral, in its flickering, manifold condition, challenges binary paradigms. A rejection of binary thinking. A condition that problematises, rather than conforms to, established norms and categories.
 
 The feral creature is a traveller and messenger, implying a sense of movement and communication. This adds a dimension of purpose to the feral state, suggesting an active engagement with its surroundings.
 

@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Exile"
+title: "Abstraction"
 stage: bruck
 ---

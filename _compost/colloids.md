@@ -21,3 +21,5 @@ Amorphous continua? Greater emphasis on _internal_ differences and relations?
 
 > approaching the world as continua — as “stuff’ — requires concepts that emphasize the _immanent_ (involving relations internal to an entity), the _inclusive_ (permitting the coexistence of contrasting or contradictory properties), the _gradual_ (allowing properties to manifest differentially at different points), and the _generative_ (involving the constant production of form).
 <cite>— Bronislaw Szerszynski, "Toward a Continuous-Matter Philosophy" (2021)</cite>
+
+- [&] See also: [[surfaces]]?

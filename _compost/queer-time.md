@@ -23,5 +23,5 @@ The AIDS crisis spurred a focus on the urgency of the present moment rather than
 - [?]  What are the limits of the metaphor of queerness as inherently "out of sync"? Are there risks of over-romanticising or fetishising non-normativity?
 - [⎈] Examine queer time in relation to accelerated feedback loops of social media and digital culture.
 
-- [&] Compare with: [[coevalness]], [[revese-salients]]?
+- [&] Compare with: [[revese-salients]]?
 - [&] See also: [[vital-conjunctures]]?
