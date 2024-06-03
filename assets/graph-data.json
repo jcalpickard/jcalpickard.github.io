@@ -19,6 +19,15 @@
       "url": "/compost/about/"
     },
     {
+      "id": "Abstraction",
+      "label": "Abstraction",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/abstraction/"
+    },
+    {
       "id": "Adaptive roadmapping",
       "label": "Adaptive roadmapping",
       "stage": "bruck",
@@ -64,6 +73,15 @@
       "url": "/compost/bioregionalism/"
     },
     {
+      "id": "Biography of artifacts and practices",
+      "label": "Biography of artifacts and practices",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/boap/"
+    },
+    {
       "id": "Bogostian carpentry",
       "label": "Bogostian carpentry",
       "stage": "tinkering",
@@ -94,7 +112,7 @@
     {
       "id": "Bruck",
       "label": "Bruck",
-      "stage": "tinkering",
+      "stage": "bruck",
       "tags": [
 
       ],
@@ -132,7 +150,7 @@
       "label": "Coevalness",
       "stage": "bruck",
       "tags": [
-
+        "time"
       ],
       "url": "/compost/coevalness/"
     },
@@ -153,15 +171,6 @@
         "epistemics"
       ],
       "url": "/compost/cognitive-mapping/"
-    },
-    {
-      "id": "Collaboration",
-      "label": "Collaboration",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/collaboration/"
     },
     {
       "id": "Colloids",
@@ -379,15 +388,6 @@
 
       ],
       "url": "/compost/ethnography/"
-    },
-    {
-      "id": "Exile",
-      "label": "Exile",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/exile/"
     },
     {
       "id": "Experimental archaeology",
@@ -649,15 +649,6 @@
 
       ],
       "url": "/compost/minor-technologies/"
-    },
-    {
-      "id": "Mobilities",
-      "label": "Mobilities",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/mobilities/"
     },
     {
       "id": "Morphological analysis",
@@ -957,6 +948,15 @@
       "url": "/compost/situated-software/"
     },
     {
+      "id": "Situated knowledges",
+      "label": "Situated knowledges",
+      "stage": "bruck",
+      "tags": [
+        "epistemics"
+      ],
+      "url": "/compost/situted-knowledges/"
+    },
+    {
       "id": "Sociotechnical flânerie",
       "label": "Sociotechnical flânerie",
       "stage": "bruck",
@@ -982,6 +982,15 @@
 
       ],
       "url": "/compost/stigmergy/"
+    },
+    {
+      "id": "Surfaces",
+      "label": "Surfaces",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/surfaces/"
     },
     {
       "id": "Tarot",
@@ -1103,6 +1112,10 @@
       "target": "Ground-zero empiricism"
     },
     {
+      "source": "Abstraction",
+      "target": "Computational thinking"
+    },
+    {
       "source": "Agnotology",
       "target": "Ground-zero empiricism"
     },
@@ -1155,10 +1168,6 @@
       "target": "Vital conjunctures"
     },
     {
-      "source": "Coevalness",
-      "target": "Queer time"
-    },
-    {
       "source": "Cognitive justice",
       "target": "Cosmotechnics"
     },
@@ -1169,10 +1178,6 @@
     {
       "source": "Cognitive mapping",
       "target": "Conjunctural analysis"
-    },
-    {
-      "source": "Collaboration",
-      "target": "Computer-supported cooperative work"
     },
     {
       "source": "Colportage",
@@ -1213,6 +1218,10 @@
     {
       "source": "Convivial tools",
       "target": "Situated software"
+    },
+    {
+      "source": "Cosmotechnics",
+      "target": "Coevalness"
     },
     {
       "source": "Counterfactual reasoning",
@@ -1292,15 +1301,7 @@
     },
     {
       "source": "Ethnography",
-      "target": "Sociotechnical flânerie"
-    },
-    {
-      "source": "Ethnography",
       "target": "Trace ethnography"
-    },
-    {
-      "source": "Exile",
-      "target": "Ferality"
     },
     {
       "source": "Experimental archaeology",
@@ -1372,6 +1373,10 @@
     },
     {
       "source": "Insularity",
+      "target": "Enclosure"
+    },
+    {
+      "source": "Insularity",
       "target": "Northeast Atlantic archipelago"
     },
     {
@@ -1400,15 +1405,15 @@
     },
     {
       "source": "Latency",
-      "target": "Insularity"
-    },
-    {
-      "source": "Latency",
       "target": "Time-sharing"
     },
     {
       "source": "Lay expertise",
       "target": "Cognitive justice"
+    },
+    {
+      "source": "Lay expertise",
+      "target": "Situated knowledges"
     },
     {
       "source": "Lay expertise",
@@ -1425,10 +1430,6 @@
     {
       "source": "Minor technologies",
       "target": "Situated software"
-    },
-    {
-      "source": "Mobilities",
-      "target": "Translocality"
     },
     {
       "source": "Muddling through",
@@ -1496,6 +1497,10 @@
     },
     {
       "source": "Pluriverse",
+      "target": "Coevalness"
+    },
+    {
+      "source": "Pluriverse",
       "target": "Panpneumatics"
     },
     {
@@ -1529,6 +1534,10 @@
     {
       "source": "Project ontology",
       "target": "Side-missions"
+    },
+    {
+      "source": "Prosopography",
+      "target": "Biography of artifacts and practices"
     },
     {
       "source": "Psychogeography",
@@ -1615,6 +1624,14 @@
       "target": "Trace ethnography"
     },
     {
+      "source": "Surfaces",
+      "target": "Colloids"
+    },
+    {
+      "source": "Surfaces",
+      "target": "Jagged noetic substrates"
+    },
+    {
       "source": "Tarot",
       "target": "Combinatorics"
     },
@@ -1652,19 +1669,11 @@
     },
     {
       "source": "Trace ethnography",
-      "target": "Sociotechnical flânerie"
-    },
-    {
-      "source": "Trace ethnography",
       "target": "Stigmergy"
     },
     {
       "source": "Translocality",
-      "target": "Bioregionalism"
-    },
-    {
-      "source": "Translocality",
-      "target": "Insularity"
+      "target": "Genius loci"
     },
     {
       "source": "User innovation",
