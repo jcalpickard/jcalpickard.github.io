@@ -13,4 +13,3 @@ Finding a middle path between extremes of deficiency and excess. Recognition tha
 "Phronetic deliberation"? Carefully weighing competing values, goals, and likely long-term consequences.
 
 Phronesis as integrative, contextual thinking?
-

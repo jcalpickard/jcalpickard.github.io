@@ -22,7 +22,6 @@ But also: focused collaboration within bounded systems. The isolation of insular
 - [⎈] Consider the metaphorical extension of insularity to other bounded systems: gated communities, company towns, private members' clubs, closed online groups, etc.
 - [⎈] Compare the insular dynamics of remote islands with those of geographically contiguous but culturally distinct regions like mountain valleys or enclaves.
 
-- [&] Insularity can create environments where [[tinkering]] is not simply a pastime but a necessity, fostering a culture of continuous, small-scale innovation and adaptation.
 - [&] See also: island studies?
 - [&] See also: [[latency]]?
 - [&] Contrast with: [[translocality]]?

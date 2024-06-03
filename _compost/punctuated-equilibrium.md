@@ -2,6 +2,7 @@
 layout: garden
 title: "Punctuated equilibrium"
 stage: bruck
+tags: [time]
 ---
 
 Proposed in 1972 by paleontologists Niles Eldredge and Stephen Jay Gould, as an alternative to Darwin's view of gradual evolution, which claimed new species arise through the gradual accumulation of small changes over long periods.

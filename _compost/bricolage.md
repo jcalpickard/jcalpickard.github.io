@@ -2,7 +2,7 @@
 layout: garden
 title: "Bricolage"
 stage: tinkering
-tags: [improvisation]
+tags: [improvisation, materiality]
 ---
 
 Using whatever materials are ready to hand to solve a problem or create something new. A flexible, adaptive form of creativity?

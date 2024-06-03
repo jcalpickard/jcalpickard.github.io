@@ -31,4 +31,3 @@ Zines, DIY publishing, community radio, bicycles, the Fediverse. What else?
 - [⎈] How can we distinguish "minor" technologies from "major" ones? Consider how this distinction plays out in practical scenarios. Can you identify contemporary "minor technologies" in everyday life or specific fields (e.g., education, healthcare, communication)?
 - [?] How do minor technologies reveal or challenge power dynamics? Are there historical precedents of minor technologies effecting significant political change?
 - [&] Compare with: [[appropriate-technology]]?
-- [&] Consider minor technologies as an example of [[worlding]]? (how do they enact novel contexts, supply new ways of being and knowing?)

@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Volumetrics"
+title: "Heuristic reasoning"
 stage: bruck
 ---

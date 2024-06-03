@@ -2,6 +2,7 @@
 layout: garden
 title: "Latency"
 stage: bruck
+tags: [time]
 ---
 
 The delay or lapse between the initiation of an action and its outcome; between a stimulus and its effects.

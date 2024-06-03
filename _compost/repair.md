@@ -2,6 +2,7 @@
 layout: garden
 title: "Repair"
 stage: bruck
+tags: [materiality]
 ---
 
 The restoration and revitalisation of objects, systems, or structures that have suffered deterioration, malfunction, or damage.

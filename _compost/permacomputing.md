@@ -2,6 +2,7 @@
 layout: garden
 title: "Permacomputing"
 stage: bruck
+tags: [materiality]
 ---
 
 Inspired, more or less directly, by [[permaculture]].

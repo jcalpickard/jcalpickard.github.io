@@ -1,6 +1,5 @@
 ---  
 layout: garden
-title: "Trickster"
+title: "Edge computing"
 stage: bruck
 ---
-
