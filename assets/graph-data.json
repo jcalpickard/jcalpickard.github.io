@@ -543,6 +543,15 @@
       "url": "/compost/insularity/"
     },
     {
+      "id": "Interfaces",
+      "label": "Interfaces",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/interfaces/"
+    },
+    {
       "id": "Jagged noetic substrates",
       "label": "Jagged noetic substrates",
       "stage": "bruck",
@@ -759,6 +768,15 @@
       "url": "/compost/permaculture/"
     },
     {
+      "id": "Photogrammetry",
+      "label": "Photogrammetry",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/photogrammetry/"
+    },
+    {
       "id": "Phronesis",
       "label": "Phronesis",
       "stage": "bruck",
@@ -838,6 +856,15 @@
 
       ],
       "url": "/compost/prosopography/"
+    },
+    {
+      "id": "Protocol",
+      "label": "Protocol",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/protocol/"
     },
     {
       "id": "Psychogeography",
@@ -1380,6 +1407,10 @@
       "target": "Northeast Atlantic archipelago"
     },
     {
+      "source": "Interfaces",
+      "target": "Surfaces"
+    },
+    {
       "source": "Jugaad",
       "target": "Bricolage"
     },
@@ -1402,6 +1433,10 @@
     {
       "source": "Knowledge management",
       "target": "Computer-supported cooperative work"
+    },
+    {
+      "source": "Latency",
+      "target": "Edge computing"
     },
     {
       "source": "Latency",
@@ -1492,6 +1527,10 @@
       "target": "Permacomputing"
     },
     {
+      "source": "Photogrammetry",
+      "target": "Surfaces"
+    },
+    {
       "source": "Phronesis",
       "target": "Virtue ethics"
     },
@@ -1538,6 +1577,10 @@
     {
       "source": "Prosopography",
       "target": "Biography of artifacts and practices"
+    },
+    {
+      "source": "Protocol",
+      "target": "Interfaces"
     },
     {
       "source": "Psychogeography",
