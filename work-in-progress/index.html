@@ -31,38 +31,11 @@
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Work</title>
-    <script src="https://cdn.jsdelivr.net/npm/json-canvas@1.0.0/dist/json-canvas.min.js"></script>
-    <style>
-      body {
-        margin: 0;
-        padding: 0;
-      }
-      #myCanvas {
-        width: 100%;
-        height: 100vh;
-      }
-    </style>
-  <body>
-    <div id="myCanvas"></div>
-    <script>
-        fetch('/assets/work.canvas')
-          .then(response => response.json()) 
-          .then(data => {
-            const canvas = new JSONCanvas(data);
-            canvas.render(document.getElementById('myCanvas'));
-          })
-          .catch(error => {
-            console.error('Error loading or rendering canvas:', error);
-          });
-      </script>
-  </body>
-</html>
+        <div class="iframe-container" style="height: 100%; border: 0; border-radius: 6px;">&gt;
+  <iframe src="https://kinopio.club/embed/?spaceId=Axx4dplwwhHoHWM5MmO5A&amp;zoom=70">
+  </iframe>
+</div>
+
 
       </div>
 
