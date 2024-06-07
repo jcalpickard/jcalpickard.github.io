@@ -1,0 +1,36 @@
+---
+layout: base
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work</title>
+    <script src="https://cdn.jsdelivr.net/npm/json-canvas@1.0.0/dist/json-canvas.min.js"></script>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      #myCanvas {
+        width: 100%;
+        height: 100vh;
+      }
+    </style>
+  <body>
+    <div id="myCanvas"></div>
+    <script>
+        fetch('/assets/work.canvas')
+          .then(response => response.json()) 
+          .then(data => {
+            const canvas = new JSONCanvas(data);
+            canvas.render(document.getElementById('myCanvas'));
+          })
+          .catch(error => {
+            console.error('Error loading or rendering canvas:', error);
+          });
+      </script>
+  </body>
+</html>

@@ -28,5 +28,7 @@ An evidentiary genre?
 - [⎈] Explore how screenshots are used in fields such as digital forensics, digital folklore, and user interface design.
 - [?] How do screenshots compare to written descriptions of screen content?
 - [&] See also: [[trace-ethnography]] (a tool in trace ethnography, as a record of particular interactions?)
+- [&] See also: Mark Hurrell on [screenshot archives as part of a design practice](https://mhurrell.co.uk/prospects/screenshotta/)[^2]
 
 [^1]: Worth noting that metadata can support complex querying, filtering, and comparison of screenshots based on their properties, relationships, and context. In what situations might this prove useful?
+[^2]: 'Every so often now I laugh about the idea of training a generative AI on my screenshots folder.' (Hurrell 2024)

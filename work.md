@@ -1,0 +1,4 @@
+---
+layout: canvas
+title: "Work"
+---

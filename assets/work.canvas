@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"82f25c38271bab61","x":-160,"y":-60,"width":200,"height":100,"type":"text","text":"# Work"},
+		{"id":"4910858da160bcd5","x":-20,"y":160,"width":250,"height":60,"type":"text","text":"Screenshot Zine Machine"},
+		{"id":"f93469b6f9a59a60","x":-580,"y":120,"width":250,"height":60,"type":"text","text":"Querent.py"}
+	],
+	"edges":[]
+}

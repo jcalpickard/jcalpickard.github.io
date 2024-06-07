@@ -20,7 +20,7 @@ Rather than treating history as a linear progression, conjunctural analysis sees
 
 Conjunctural analysis pays close attention to the uneven, complex, and overdetermined character of conjunctures, recognising that different groups may be affected in different ways. At the same time, it seeks to identify the underlying "problem-space", the core issues and antagonisms that define a conjuncture, and how they are articulated and fought out. 
 
-- [?] How are these problem-spaces identified and articulated? What criteria are used to determine the core issues and antagonisms? How are these mapped and analyzed?
+- [?] How are these problem-spaces identified and articulated? What criteria are used to determine the core issues and antagonisms? How are these mapped and analysed?
 
 Crucially, conjunctural analysis is not just descriptive, but intended as a strategic intervention, discerning the "points of least resistance" in a given social formation and informing transformative political action.
 
@@ -32,6 +32,8 @@ project or tendency, for the analysis to have validity; but its potential utilit
 
 > To think across cases and contexts, sites and situations, is to theorize conjuncturally, to stress-test competing explanations and to probe alternative sources of conditioning and causation.
 <cite>— Jamie Peck, "[Articulating conjunctural analysis](https://doi.org/10.1177/20438206241242471)" (2024)</cite>
+
+- [?] How might computer support change the praxis of conjunctural analysis? Could it enable new forms of collaborative, participatory or public-facing conjunctural analysis?
 
 - [?] What specific steps, techniques, frameworks might conjunctural analysis require?
 - [?] What determines where one conjuncture ends and another begins, both temporally and spatially?
