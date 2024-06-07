@@ -4,12 +4,13 @@
 .iframe-container {
     position: relative;
     overflow: hidden;
-    width: 95vw;
+    max-width: 95vw;
     padding-top: 75%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
     left: 50%;
     right: 50%;
     margin-left: -47.5vw;
     margin-right: -47.5vw;
+    flex: 1 1 auto;
   }
   
   .iframe-container iframe {
@@ -20,4 +21,5 @@
     right: 0;
     width: 100%;
     height: 100%;
+    flex: 1 1 auto;
   }
