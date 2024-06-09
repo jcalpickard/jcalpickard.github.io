@@ -399,6 +399,15 @@
       "url": "/compost/experimental-archaeology/"
     },
     {
+      "id": "Experimental media archaeology",
+      "label": "Experimental media archaeology",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/experimental-media-archaeology/"
+    },
+    {
       "id": "Experimental publishing",
       "label": "Experimental publishing",
       "stage": "bruck",
@@ -1339,6 +1348,10 @@
       "target": "Chaîne opératoires"
     },
     {
+      "source": "Experimental archaeology",
+      "target": "Experimental media archaeology"
+    },
+    {
       "source": "Experimental publishing",
       "target": "Independent research"
     },
@@ -1453,6 +1466,10 @@
     {
       "source": "Lay expertise",
       "target": "User innovation"
+    },
+    {
+      "source": "Media archaeology",
+      "target": "Experimental media archaeology"
     },
     {
       "source": "Microhistory",
