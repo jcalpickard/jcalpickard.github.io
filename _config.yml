@@ -8,10 +8,11 @@ baseurl: "" # Ensure this is set to an empty string if not using a subdirectory
 permalink: /log/:year/:month/:day/:title/
 
 header_pages:
-  - hello.md
   - index.md
-  - compost.md
+  - hello.md
+  - now.md
   - log.md
+  - compost.md
   - phd.md
   - cv.md
 

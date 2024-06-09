@@ -1,7 +1,7 @@
 ---  
 layout: post
 title: "Choices about what is salient"
-categories:
+categories: [context]
 ---
 
 #### A couple of paragraphs from the [PhD thesis](../../../../../phd), unravelling context, having drawn too close to the [large language model](http://ai.stanford.edu/blog/understanding-incontext/) and been [spaghettified](https://science.nasa.gov/universe/what-happens-when-something-gets-too-close-to-a-black-hole/).
