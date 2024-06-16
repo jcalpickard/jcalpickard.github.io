@@ -318,6 +318,15 @@
       "url": "/compost/cultural-transmission/"
     },
     {
+      "id": "Databases",
+      "label": "Databases",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/databases/"
+    },
+    {
       "id": "Degrowth",
       "label": "Degrowth",
       "stage": "bruck",
@@ -723,6 +732,15 @@
       "url": "/compost/open-source-software/"
     },
     {
+      "id": "Oulipics",
+      "label": "Oulipics",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/oulipics/"
+    },
+    {
       "id": "Pace layers",
       "label": "Pace layers",
       "stage": "bruck",
@@ -838,6 +856,15 @@
 
       ],
       "url": "/compost/practical-ontology/"
+    },
+    {
+      "id": "Procedural rhetoric",
+      "label": "Procedural rhetoric",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/procedural-rhetoric/"
     },
     {
       "id": "Project ontology",
@@ -1102,6 +1129,15 @@
       "url": "/compost/user-innovation/"
     },
     {
+      "id": "Valuation",
+      "label": "Valuation",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/valuation/"
+    },
+    {
       "id": "Virtue ethics",
       "label": "Virtue ethics",
       "stage": "bruck",
@@ -1166,6 +1202,10 @@
     {
       "source": "Appropriate technology",
       "target": "Permacomputing"
+    },
+    {
+      "source": "Appropriate technology",
+      "target": "Valuation"
     },
     {
       "source": "Baroque",
@@ -1297,7 +1337,15 @@
     },
     {
       "source": "Degrowth",
+      "target": "Oulipics"
+    },
+    {
+      "source": "Degrowth",
       "target": "Permacomputing"
+    },
+    {
+      "source": "Degrowth",
+      "target": "Valuation"
     },
     {
       "source": "Dialogue systems",
@@ -1437,6 +1485,10 @@
     },
     {
       "source": "Knowledge graphs",
+      "target": "Databases"
+    },
+    {
+      "source": "Knowledge graphs",
       "target": "Digital gardening"
     },
     {
@@ -1534,6 +1586,10 @@
     {
       "source": "Performance writing",
       "target": "Sociotechnical flânerie"
+    },
+    {
+      "source": "Permacomputing",
+      "target": "Oulipics"
     },
     {
       "source": "Permaculture",
