@@ -6,6 +6,7 @@
   padding: 1.5rem; // Increased padding for a more relaxed layout
   max-width: 800px; // Limit the content width for better readability
   margin: 0 auto; // Center the content within the page
+  border-radius: 20px; /* Adjust the value to your desired roundness */
 
   .footnotes, .footnotes ol, .footnotes p {
     color: inherit;
