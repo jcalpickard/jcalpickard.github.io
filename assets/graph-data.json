@@ -1232,6 +1232,10 @@
       "target": "Muddling through"
     },
     {
+      "source": "Bricolage",
+      "target": "Oulipics"
+    },
+    {
       "source": "Bruck",
       "target": "Bricolage"
     },
@@ -1274,6 +1278,10 @@
     {
       "source": "Communities of practice",
       "target": "Situated software"
+    },
+    {
+      "source": "Computational thinking",
+      "target": "Procedural rhetoric"
     },
     {
       "source": "Computational thinking",
@@ -1334,10 +1342,6 @@
     {
       "source": "Degrowth",
       "target": "Bioregionalism"
-    },
-    {
-      "source": "Degrowth",
-      "target": "Oulipics"
     },
     {
       "source": "Degrowth",
@@ -1646,6 +1650,10 @@
     {
       "source": "Project ontology",
       "target": "Side-missions"
+    },
+    {
+      "source": "Prompt engineering",
+      "target": "Oulipics"
     },
     {
       "source": "Prosopography",
