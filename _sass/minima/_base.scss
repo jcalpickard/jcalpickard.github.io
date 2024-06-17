@@ -157,6 +157,12 @@ blockquote cite {
   margin-top: $spacing-unit;
 }
 
+blockquote {
+  margin: 30px 0; /* Adjust the value as needed */
+  box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.1); /* Adjust values as needed */
+  padding: 20px;
+}
+
 // Define a map of background classes to border colors
 $note-backgrounds: (
   'bruck': var(--border-color-bruck),
