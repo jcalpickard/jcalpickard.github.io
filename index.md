@@ -14,7 +14,7 @@ Operating from a home base in the haunted, <a href="https://www.theguardian.com/
 - **Taught observational methods**: Developed and delivered courses and training on ethnographic fieldwork, observational research, and qualitative methods for studying sociotechnical systems and online communities.
 - **Facilitated workshops**: Designed and led participatory workshops with diverse stakeholders, using creative, experimental, and collaborative techniques to explore complex issues.
 - **Participated in a collaborative prototyping residency**: Joined an interdisciplinary team at MediaLab Matadero to conduct exploratory research and prototyping on artificial intelligence and human-machine intimacy. 
-- **Conducted fieldwork**: Carried out multi-sited ethnographic research on the [cultural politics of infrastructure in Gujarat](phd.md), with implications for policymaking and urban planning.
+- **Conducted fieldwork in Gujarat**: Carried out ethnographic research on the [cultural politics of infrastructure](phd.md), with implications for policymaking and urban planning.
 
 These experiences (and others) instilled a deep appreciation for creative, cross-disciplinary inquiry. Today, I am at my happiest working with others to decipher complex or uncertain situations, with a particular focus on:
 
