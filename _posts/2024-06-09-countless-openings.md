@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: "Countless openings"
-categories: [genai, combinatorics, quotes]
+categories: [quotes, combinatorics, genai]
 ---
 
 > '[Literary culture] is a machine of great complexity, containing people, books and institutions, fed by the voices of the dead, but also by bread and cheese, and venting language into the world through countless openings. Such a machine has always been combinatorial and always producing great work as much by accident as intent.'

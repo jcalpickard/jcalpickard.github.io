@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: "Barefoot and malleable"
-categories: [genai, computational thinking, quotes]
+categories: [quotes, computational thinking, genai]
 ---
 
 > 'Barefoot developers are going to be people who live in this middle bit. At the moment, these are people like the teachers who make elaborate Notion spreadsheets for managing classes. Or students who make over-the-top personal dashboards. Or financial planning wonks producing extensive spreadsheets. They are people who are technically savvy and interested in solving problems for themselves and people around them, but don't want to become fully-fledged programmers. They still live within the world of end-user-facing applications. At the moment, they rely on low and no-code tools. And they do wildly complex things within them, pushing these apps to their limits. They are the kinds of people who would be thrilled to have more agency and power over computers.'
