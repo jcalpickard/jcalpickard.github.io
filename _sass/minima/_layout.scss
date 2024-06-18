@@ -208,6 +208,8 @@
   flex: 1 0 auto;
 }
 
+// I've ended up displaying log posts as a table, so probably need to grapple with the implications of that a bit
+
 .post-list-heading {
   @include relative-font-size(1.75);
 }
@@ -228,7 +230,7 @@
 
 .post-link {
   display: block;
-  @include relative-font-size(1.5);
+  @include relative-font-size(1.25);
 }
 
 

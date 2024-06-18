@@ -26,14 +26,20 @@ layout: base
           {% for post in site.posts %}
           <tr>
             <td>{{ post.date | date: "%-d %b %Y" -% }}</td>
-            <td><a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}</a></td>
-            <td><em>{{ post.categories | join: ', ' }}</em></td>
+            <td><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></td></td>
+            <td>
+              {% if post.categories.size > 0 %}
+                <em>{{ post.categories | join: ', ' }}</em>
+              {% else %}
+                <em>Uncategorised</em>
+              {% endif %}
+              </td>
           </tr>
           {% endfor %}
         </tbody>
       </table>
 
+    <!-- Has to be a better way of handling the RSS here -->
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
