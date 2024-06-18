@@ -2,24 +2,37 @@
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
 .iframe-container {
-    position: relative;
-    overflow: hidden;
-    max-width: 95vw;
-    padding-top: 75%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
-    left: 50%;
-    right: 50%;
-    margin-left: -47.5vw;
-    margin-right: -47.5vw;
-    flex: 1 1 auto;
-  }
+  position: relative;
+  overflow: hidden;
+  max-width: 95vw;
+  padding-top: 75%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+  left: 50%;
+  right: 50%;
+  margin-left: -47.5vw;
+  margin-right: -47.5vw;
+  flex: 1 1 auto;
+}
   
-  .iframe-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    width: 100%;
-    height: 100%;
-    flex: 1 1 auto;
-  }
+.iframe-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  flex: 1 1 auto;
+}
+
+*, *::before, *::after {
+  font-family: 'Inter', sans-serif;
+  font-feature-settings:
+    "cv01" 1, // alternate "1"
+    "cv09" 1, // flat-top "3"
+    "cv03" 1, "cv04" 1, // open "6" and "9", respectively
+    "cv11" 0, // single-storey "a"; worth playing with this
+    "cv05" 1, // lower-case "l" with tail; worth playing this
+    "ss03" 0, // round quotes and commas (either need to use this or the next one)
+    "ss07" 1, "ss08" 1, // square quotes and punctuation (either need to use this or the previous one)
+    "calt" 1;
+}

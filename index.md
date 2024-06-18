@@ -4,7 +4,7 @@ title: "Home"
 list_title: "Log"
 ---  
 
-### [Hello](hello.md), I'm Justin. I'm an editor and independent researcher, readily <a href="https://en.wiktionary.org/wiki/nerd-snipe">nerd-sniped</a> by edge cases and emerging phenomena.
+#### [Hello](hello.md), I'm Justin. I'm an editor and independent researcher, readily <a href="https://en.wiktionary.org/wiki/nerd-snipe">nerd-sniped</a> by edge cases and emerging phenomena.
 
 ![Justin Pickard, dithered](http://files.justinpickard.net/images/pages/pickard-dithered.png)
 
