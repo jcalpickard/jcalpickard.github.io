@@ -5,6 +5,7 @@
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
 @import "minima/initialize";
 @import "minima/custom-variables"; // Your custom variables
+@import "fonts"; // Custom font definitions
 @import "minima/base";
 @import "minima/layout";
 @import "custom"; // Import your custom styles after Minima
