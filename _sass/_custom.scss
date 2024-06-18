@@ -1,7 +1,7 @@
 // Set the font family for h1 headings
 h1,
 h2 {
-  font-family: "Freeman", sans-serif;
+  font-family: "Freeman", sans-serif; // Might need a fall-back?
   font-style: normal;
 }
 
@@ -12,13 +12,21 @@ h1 {
     // Add other styles as needed
 }
 
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #333333; // Add other h2 styles as needed
+  margin-top: 1rem; /* Added top margin to create space between heading and previous content */
+  margin-bottom: 1rem;
+}
+
 // Override other heading levels
 h2 {
-    font-size: 1.75rem;
-    color: #333333; // Add other h2 styles as needed
-    letter-spacing: 0.25px;
-    margin-top: 1em; /* Added top margin to create space between heading and previous content */
-  }
+  font-size: 1.75rem;
+  letter-spacing: 0.25px;
+}
 
 h3 {
   font-size: 1.5rem;
@@ -27,14 +35,12 @@ h3 {
 
 h4 {
   font-size: 1.25rem;
-// Add other h4 styles as needed
+  line-height: 1.5;
 }
 
-.content h4,
-.main h4 {
-  line-height: 1.5;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+h5,
+h6 {
+  font-size: 1.10rem;
 }
 
 // Override .post-title and .page-heading styles (used in page.html, home.html for page title))
@@ -61,6 +67,10 @@ h4 {
 
 body {
   line-height: 1.5;
+  
+  strong, b {
+    font-weight: $bold-font-weight;
+  }  
 }
 
 // Match home and post content widths
