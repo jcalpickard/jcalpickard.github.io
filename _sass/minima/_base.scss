@@ -335,8 +335,21 @@ table {
 }
 
 a.footnote {
-  font-size: 0.7em;
-  vertical-align: baseline;
-  position: relative;
-  top: -0.5em;
+  font-size: 0.8em;
+  text-decoration: none;
+  background-color: #f0f0f0;
+  padding: 0 3px;
+  border-radius: 3px;
+}
+
+@media (max-width: 600px) {
+  a.footnote {
+    font-size: 0.9em;
+    padding: 1px 4px;
+  }
+}
+
+a.footnote:hover {
+  background-color: #e0e0e0;
+  transition: background-color 0.3s ease;
 }
