@@ -340,13 +340,11 @@ a.footnote {
   border-radius: 3px;
   vertical-align: baseline;
   position: relative;
-  top: -0.1em;
+  top: -0.5em;
   line-height: 1;
   display: inline-flex;
   align-items: center;
 }
-
-
 
 @media (max-width: 600px) {
   a.footnote {
@@ -358,4 +356,12 @@ a.footnote {
 a.footnote:hover {
   background-color: #e0e0e0;
   transition: background-color 0.3s ease;
+}
+
+/**
+ * Superscript-wrangling
+ */
+
+sup[role="doc-noteref"] {
+  vertical-align: baseline;
 }
