@@ -34,8 +34,6 @@ body {
   overflow-wrap: break-word;
 }
 
-
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -340,6 +338,12 @@ a.footnote {
   background-color: #f0f0f0;
   padding: 0 3px;
   border-radius: 3px;
+  display: inline-flex;
+  align-items: center;
+  vertical-align: baseline;
+  position: relative;
+  top: -0.1em;
+  line-height: 1;
 }
 
 @media (max-width: 600px) {
