@@ -338,13 +338,15 @@ a.footnote {
   background-color: #f0f0f0;
   padding: 0 3px;
   border-radius: 3px;
-  display: inline-flex;
-  align-items: center;
   vertical-align: baseline;
   position: relative;
   top: -0.1em;
   line-height: 1;
+  display: inline-flex;
+  align-items: center;
 }
+
+
 
 @media (max-width: 600px) {
   a.footnote {
