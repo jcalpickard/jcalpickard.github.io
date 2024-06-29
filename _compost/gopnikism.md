@@ -8,9 +8,9 @@ stage: bruck
 
 After cognitive scientist and developmental psychologist Alison Gopnik, whose research shows how children learn about the world by exploring it, using a hypothesis-testing approach similar to scientific inquiry. Children are adept at understanding cause-and-effect relationships, forming and testing theories about how the world works.
 
-(Not just putting cameras on babies.)
+(Not just [putting cameras on babies](https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/).)
 
-### Implications for Generative AI
+## Implications for Generative AI
 
 Gopnikism argues that generative AI models should be viewed not as intelligent agents but rather as "cultural technologies" – tools that enhance [[cultural-transmission]], serving as efficient "imitation engines".
 

@@ -4,8 +4,9 @@ title: "Oulipics"
 stage: bruck
 ---
 
-> Towards the end of his life, in a broadcast for Belgian radio, [Raymond Queneau] would describe himself and his colleagues in the Oulipo … as ‘rats who construct the labyrinth from which they plan to escape’.
+> Towards the end of his life, in a broadcast for Belgian radio, [Queneau] would describe himself and his colleagues in the Oulipo … as ‘rats who construct the labyrinth from which they plan to escape’.
 <cite>— Denis Duncan, "[How to Speak Zazie](https://www.lrb.co.uk/the-paper/v46/n12/dennis-duncan/how-to-speak-zazie)" (2024, 20 June)</cite>
+
 
 A speculative term, gesturing to a field or practice focused on finding productive ways to use limitations and constraints. Reflective exploration on how working within defined limits/restrictions can drive innovation and creativity.
 
