@@ -1020,6 +1020,15 @@
       "url": "/compost/situted-knowledges/"
     },
     {
+      "id": "Social practice theory",
+      "label": "Social practice theory",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/social-practice-theory/"
+    },
+    {
       "id": "Sociotechnical flânerie",
       "label": "Sociotechnical flânerie",
       "stage": "bruck",
@@ -1298,6 +1307,10 @@
     {
       "source": "Convivial tools",
       "target": "Counterfoil research"
+    },
+    {
+      "source": "Convivial tools",
+      "target": "Critical technical practice"
     },
     {
       "source": "Convivial tools",
@@ -1730,6 +1743,10 @@
     {
       "source": "Side-missions",
       "target": "Project ontology"
+    },
+    {
+      "source": "Social practice theory",
+      "target": "Critical technical practice"
     },
     {
       "source": "Sociotechnical flânerie",
