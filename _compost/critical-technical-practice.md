@@ -36,12 +36,12 @@ Initially, CTP was a response to the limitations of 20th-century AI research. Ag
 
 ### Critical technical practice through _toolmaking_?
 
+("My father was a toolmaker.")
+
 Authorial function of the tool-maker, and how this relates to critical technical practice. _Tool authorship_, particularly as applieed to research tools?
 
 Looking at '_tools_ that address an audience beyond an immediate group of collaborators and acquire a certain stability and unity.' (Rieder et al. 2022)
 
 Not a sovereign, unfettered toolmaker, but someone bound to (reponsible to?) others, to people and materials. Working within a space 'bounded and ‘populated’ by other actors'; a 'process of negotiation that assembles various kinds of relationships that result in a functioning artifact.' (Rieder et al. 2022)
-
-
 
 - [&] See also: [[critical-making]], [[social-practice-theory]], [[convivial-tools]]?
