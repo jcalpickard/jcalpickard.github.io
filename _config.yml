@@ -1,7 +1,7 @@
 # Site settings
 title: ⧉
 author: "Justin Pickard"
-email: hello@justinpickard.net
+email: jcalpickard@proton.me
 description: Notes and log entries, for now.
 url: "https://jcalpickard.github.io" # Update with your GitHub Pages URL
 baseurl: "" # Ensure this is set to an empty string if not using a subdirectory
