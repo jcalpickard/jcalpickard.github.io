@@ -1065,6 +1065,15 @@
       "url": "/compost/surfaces/"
     },
     {
+      "id": "Tacit knowledge",
+      "label": "Tacit knowledge",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/tacit-knowledge/"
+    },
+    {
       "id": "Tarot",
       "label": "Tarot",
       "stage": "bruck",
@@ -1517,6 +1526,10 @@
       "target": "Computer-supported cooperative work"
     },
     {
+      "source": "Knowledge management",
+      "target": "Tacit knowledge"
+    },
+    {
       "source": "Latency",
       "target": "Edge computing"
     },
@@ -1531,6 +1544,10 @@
     {
       "source": "Lay expertise",
       "target": "Situated knowledges"
+    },
+    {
+      "source": "Lay expertise",
+      "target": "Tacit knowledge"
     },
     {
       "source": "Lay expertise",
