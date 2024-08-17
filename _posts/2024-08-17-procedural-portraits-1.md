@@ -4,7 +4,7 @@ title: "Procedural portraits (1): Decoding 'Eno's' generative structure"
 categories: [authorship, creativity, archiving, databases, documentary, film]
 ---
 
-###### [_This is the first of a two-part exegesis on ‘[Eno](https://www.imdb.com/title/tt19854690/)’ (2024), a generative documentary about musician and producer [Brian Eno](https://www.brian-eno.net/). This first post focuses on the film's unique structure and how it reimagines the relationship between archive, database, and film. In the second part, I'll show how this structure fosters a ‘procedural empathy’ for its subject, and consider the implications of this approach to documentary filmmaking._]
+###### [_This is the first of a two-part exegesis on ‘[Eno](https://www.imdb.com/title/tt19854690/)’ (2024), a generative documentary about musician and producer [Brian Eno](https://www.brian-eno.net/). This first post focuses on the documentary's structure and how it reimagines the relationship between archive, database, and film. In the second part, I'll show how this structure fosters a ‘procedural empathy’ for its subject, and consider the implications of this approach to documentary filmmaking._]
 
 <a href="https://www.youtube.com/watch?v=TzORw1dZww8"><img class="img-padded" src="https://files.justinpickard.net/images/log/2024/08/eno-crosshairs.jpg" alt="Screenshot of Brian Eno's home computer setup, from the trailer for ‘Eno’ (2024)"></a>
 
