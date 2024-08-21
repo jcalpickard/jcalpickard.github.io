@@ -1,10 +1,10 @@
 ---
 layout: post  
-title: "Procedural portraits (2): Empathy and innovation in documentary film"
+title: "Procedural portraits (2): Empathy and innovation in ‘Eno’"
 categories: [authorship, creativity, empathy, prototypes, documentary, film]
 ---
 
-###### [_In [the previous post](https://justinpickard.net/log/2024/08/17/procedural-portraits-1/), I explored the distinctive structure of ‘Eno’ (2024), a generative documentary about [Brian Eno](https://www.brian-eno.net/). In the second part of this discussion, I examine how this generative structure fosters a sense of ‘procedural empathy’, and consider its implications for documentary filmmaking and our understanding of creative processes._]
+###### [_In [the previous post](https://justinpickard.net/log/2024/08/17/procedural-portraits-1/), I explored the distinctive structure of ‘Eno’ (2024), a generative documentary about [Brian Eno](https://www.brian-eno.net/). In this second part, I examine how this generative structure fosters a sense of ‘procedural empathy’, and consider its implications for documentary filmmaking and our understanding of creative processes._]
 
 > ‘Characters or social actors may come and go, offering information, giving testimony, providing evidence. Places and things may appear and disappear as they are brought forward in support of the film’s point of view. A logic of implication bridges these leaps from one person or place to another.’
 <cite>— Bill Nicols, _Introduction to Documentary_, Third Edition (2017)</cite>
@@ -71,13 +71,19 @@ Documentary film offers a unique perspective on its subjects, providing a commen
 
 ‘Eno’s’ generative approach redefines the roles of filmmaker, subject, and audience. The filmmaker becomes a system designer, curating a dynamic possibility space. The subject is transformed into a dataset, yielding new insights with each viewing. Audiences, in turn, become active interpreters. By transforming Eno’s personal archive into a dynamic database and using generative software to arrange the film, ‘Eno’ demonstrates how structure and chance can coexist in documentary storytelling.
 
-But the potential implications of 'Eno' extend far beyond a single documentary. For filmmakers, the film represents a proof of concept for new narrative structures. For technologists, it demonstrates the possibilities of generative media systems. For audiences, it presents a new kind of viewing experience. And for the industry, it suggests a new product category that could reshape how we consume and engage with documentary content.
+But the potential implications of 'Eno' extend beyond a single documentary. For filmmakers, the film represents a proof of concept for new narrative structures. For technologists, it demonstrates the possibilities of generative media systems. For audiences, it presents a new kind of viewing experience. And for the industry, it suggests a new product category that could reshape how we consume and engage with documentary content.
 
 As both a portrait and a prototype for further media innovations, ‘Eno’ points to a future where documentaries are not static artifacts but dynamic, evolving systems. By allowing audiences to experience, and not simply observe, their subjects’ processes and prevailing contexts, such documentaries could offer more nuanced, multifaceted depictions of complex topics and individuals. Moreover, ‘Eno’ holds a mirror to the database logics of our own, increasingly algorithm-mediated lives. By making its generative processes explicit, the film encourages us to reflect on the systems that shape our daily experiences and understanding. It reminds us that our perception of reality is always partial and contingent, shaped by the mechanisms through which we encounter information. 
 
-Against a charged backdrop of generative media and algorithmic curation, 'Eno' suggests that the future of understanding may lie not in fixed narratives, but in systems that allow us to explore and experience different perspectives. Such tools for fostering procedural empathy may become not just valuable, but necessary. More than simply a (procedural) portrait of Brian Eno, ‘Eno’ challenges us to rethink not just how we make and consume media, but how we relate to the world and those around us.
+Against a charged backdrop of generative media and algorithmic curation, ‘Eno’ suggests that the future of understanding may lie not in fixed narratives, but in systems that allow us to explore and experience different perspectives. Such tools for fostering procedural empathy may become not just valuable, but necessary. More than simply a (procedural) portrait of Brian Eno, the film challenges us to rethink not just how we make and consume media, but how we relate to the world around us.
 
 <a href="https://files.justinpickard.net/images/log/2024/08/eno-interactive.png"><img class="img-padded" src="https://files.justinpickard.net/images/log/2024/08/eno-interactive.png" alt="From Eno’s diary, ‘A Year with Swollen Appendices’ (1996)"></a>
+
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 20px;"><small>
+- << Previous: <a href="https://justinpickard.net/log/2024/08/17/procedural-portraits-1/">Decoding 'Eno's' generative structure</a>
+- Current: Empathy and innovation in 'Eno' >>
+</small></div>
+
 
 [^1]: My go-to example is ‘[John Company](https://boardgamegeek.com/boardgame/332686/john-company-second-edition)’, a boardgame about the East India Company. The game's systems and structures make a clear argument about exploitation and corporate power. By focusing on the incentives and internal dynamics that undergirded colonial rule, the game’s rules force players into the role of ambitious dynasts engaged in colonial trade, directly incentivising the exploitation of resources and people. By implicating players, but with the distance afforded by playing as a family rather than specific individuals, the game fosters historical and systemic understanding through personal complicity. As [Dan Thurot explains](https://spacebiff.com/2022/11/23/john-company-3/), ‘When we pillage this safer version of India, this cardboard India that will not become host to fifty million dead because of our actions, we are treated to a razz of the nerves, the thrill of embarking on a grand adventure that will transform the world beneath our grasping fingertips, and to the horror of seeing that adventure for the filigree that it is.’ This vividly illustrates how the game's procedural rhetoric implicates players in the historical dynamics of colonialism, fostering a deeper understanding of its causes and systemic implications.
 

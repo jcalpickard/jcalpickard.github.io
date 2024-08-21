@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: "Procedural portraits (1): Decoding 'Eno's' generative structure"
+title: "Procedural portraits (1): Decoding ‘Eno’s’ generative structure"
 categories: [authorship, creativity, archiving, databases, documentary, film]
 ---
 
@@ -68,7 +68,7 @@ While the interaction between filmmaker Hustwit and Eno is still present, the fi
 
 The film’s non-linear structure requires active engagement from viewers, who must piece together the story by drawing connections between disparate elements of Eno’s life and work. By inviting viewers to immerse themselves in Eno’s world without the constraints of a rigid storyline, the film opens up alternative forms of knowledge, stressing mood and atmosphere. This approach to memory as a constructive, interpretive process allows viewers to experience Eno’s life as he himself might recall it, offering a nuanced, cumulative representation that a fixed cut could not provide.
 
-‘Eno’ creates a viewing experience that diverges from established documentary formats. By using a generative system to mediate between archival material and new interview footage, the film embodies Eno’s approach to creativity, inviting viewers to engage in a process of meaning-making that mirrors his creative methods. This approach leads us to consider a new concept in documentary filmmaking: _procedural empathy_, where the very structure of the film fosters a deeper understanding of its subject.
+‘Eno’ creates a viewing experience that diverges from established documentary formats. By using a generative system to mediate between archival material and new interview footage, the film embodies Eno’s approach to creativity, inviting viewers to engage in a process of meaning-making that mirrors his creative methods. This approach leads us to consider a new concept in documentary filmmaking: _procedural empathy_, where [the very structure of the film fosters a deeper understanding of its subject](https://justinpickard.net/log/2024/08/21/procedural-portraits-2/).
 
 [^1]: Now familiar as a comedian, writer, and host of, among other things, _The Great British Bake Off_, Danish-British Sandi Toksvig began her TV career in the early 1980s, presenting children’s shows. This appearance interviewing Eno highlights the interconnections between UK media and music during this period, while revealing a lesser-known aspect of her early career.
 
