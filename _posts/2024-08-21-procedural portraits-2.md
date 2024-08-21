@@ -11,9 +11,9 @@ categories: [authorship, creativity, empathy, prototypes, documentary, film]
 
 ## Procedural empathy
 
-The interplay of elements in ‘Eno’ not only shapes the documentary’s structure, but also fosters a singular viewing experience that connects deeply its subject’s life and worldview. The film’s generative structure allows viewers to experience Eno’s creative process as if from the inside, providing a deeper understanding than documentaries typically offer.
+The interplay of elements in ‘Eno’ not only shapes the documentary’s structure, but also fosters a singular viewing experience. The film’s generative structure allows viewers to experience Eno’s creative process as if from the inside, providing a deeper understanding than documentaries typically offer.
 
-Philosopher and game scholar [Ian Bogost](https://bogost.com/) introduced the idea of ‘procedural rhetoric’ to describe how systems, particularly video games, make arguments. He argues that games and other procedural systems can make strong claims about how the world works through the processes they embody and the models they construct.[^1] The art of ‘persuading through processes’ (computational or otherwise), procedural rhetoric encompasses processes as arguments, simulation as persuasion, and creators’ ideological expression through system design.
+Writer and game designer [Ian Bogost](https://bogost.com/) introduced the idea of ‘procedural rhetoric’ to describe how systems, particularly video games, make arguments. He argues that games and other procedural systems can make strong claims about how the world works through the processes they embody and the models they construct.[^1] The art of ‘persuading through processes’ (computational or otherwise), procedural rhetoric encompasses processes as arguments, simulation as persuasion, and creators’ ideological expression through system design.
 
 Where Bogost’s focus was on argumentation, ‘Eno’ extends procedural rhetoric into emotional engagement, fostering what we might call a ‘procedural empathy’ for its subject. Shifting focus from the system’s argument to its emotional and cognitive _effects_, the transition from rhetoric to empathy is not a leap, but a natural extension of Bogost's ideas. Just as procedural rhetoric uses systems to make arguments, procedural empathy leverages these same systems to foster emotional understanding.
 
@@ -78,12 +78,6 @@ As both a portrait and a prototype for further media innovations, ‘Eno’ poin
 Against a charged backdrop of generative media and algorithmic curation, ‘Eno’ suggests that the future of understanding may lie not in fixed narratives, but in systems that allow us to explore and experience different perspectives. Such tools for fostering procedural empathy may become not just valuable, but necessary. More than simply a (procedural) portrait of Brian Eno, the film challenges us to rethink not just how we make and consume media, but how we relate to the world around us.
 
 <a href="https://files.justinpickard.net/images/log/2024/08/eno-interactive.png"><img class="img-padded" src="https://files.justinpickard.net/images/log/2024/08/eno-interactive.png" alt="From Eno’s diary, ‘A Year with Swollen Appendices’ (1996)"></a>
-
-<div style="border: 1px solid #ccc; padding: 10px; margin-top: 20px;"><small>
-- << Previous: <a href="https://justinpickard.net/log/2024/08/17/procedural-portraits-1/">Decoding 'Eno's' generative structure</a>
-- Current: Empathy and innovation in 'Eno' >>
-</small></div>
-
 
 [^1]: My go-to example is ‘[John Company](https://boardgamegeek.com/boardgame/332686/john-company-second-edition)’, a boardgame about the East India Company. The game's systems and structures make a clear argument about exploitation and corporate power. By focusing on the incentives and internal dynamics that undergirded colonial rule, the game’s rules force players into the role of ambitious dynasts engaged in colonial trade, directly incentivising the exploitation of resources and people. By implicating players, but with the distance afforded by playing as a family rather than specific individuals, the game fosters historical and systemic understanding through personal complicity. As [Dan Thurot explains](https://spacebiff.com/2022/11/23/john-company-3/), ‘When we pillage this safer version of India, this cardboard India that will not become host to fifty million dead because of our actions, we are treated to a razz of the nerves, the thrill of embarking on a grand adventure that will transform the world beneath our grasping fingertips, and to the horror of seeing that adventure for the filigree that it is.’ This vividly illustrates how the game's procedural rhetoric implicates players in the historical dynamics of colonialism, fostering a deeper understanding of its causes and systemic implications.
 
