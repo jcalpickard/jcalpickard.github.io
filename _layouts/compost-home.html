@@ -14,8 +14,8 @@ layout: base
 
     <main>
 
-      {% if page.last_updated %}
-        <p class="last-updated">Last updated: {{ page.last_updated | date: "%B %d, %Y" }}</p>
+      {% if page.last_modified_at %}
+        <p class="last-updated">Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}</p>
       {% endif %}
 
       {{ content }}
