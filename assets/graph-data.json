@@ -14,7 +14,7 @@
       "label": "About",
       "stage": "tinkering",
       "tags": [
-
+        "meta"
       ],
       "url": "/compost/about/"
     },
@@ -44,6 +44,15 @@
 
       ],
       "url": "/compost/agnotology/"
+    },
+    {
+      "id": "Anarchive",
+      "label": "Anarchive",
+      "stage": "bruck",
+      "tags": [
+        "activity"
+      ],
+      "url": "/compost/anarchive/"
     },
     {
       "id": "Appropriate technology",
@@ -318,6 +327,15 @@
       "url": "/compost/cultural-transmission/"
     },
     {
+      "id": "Current activities",
+      "label": "Current activities",
+      "stage": "roughingOut",
+      "tags": [
+        "meta"
+      ],
+      "url": "/compost/current-activities/"
+    },
+    {
       "id": "Databases",
       "label": "Databases",
       "stage": "bruck",
@@ -372,6 +390,15 @@
       "url": "/compost/divination/"
     },
     {
+      "id": "duckyPad",
+      "label": "duckyPad",
+      "stage": "bruck",
+      "tags": [
+        "activity"
+      ],
+      "url": "/compost/duckypad/"
+    },
+    {
       "id": "Edge computing",
       "label": "Edge computing",
       "stage": "bruck",
@@ -388,6 +415,15 @@
 
       ],
       "url": "/compost/enclosure/"
+    },
+    {
+      "id": "Enxaneta",
+      "label": "Enxaneta",
+      "stage": "bruck",
+      "tags": [
+        "activity"
+      ],
+      "url": "/compost/enxaneta/"
     },
     {
       "id": "Ethnography",
@@ -469,6 +505,15 @@
 
       ],
       "url": "/compost/genius-loci/"
+    },
+    {
+      "id": "Gnomon",
+      "label": "Gnomon",
+      "stage": "bruck",
+      "tags": [
+        "activity"
+      ],
+      "url": "/compost/gnomon/"
     },
     {
       "id": "Gopnikism",
@@ -633,6 +678,15 @@
       "url": "/compost/latency/"
     },
     {
+      "id": "Latent Intimacies",
+      "label": "Latent Intimacies",
+      "stage": "bruck",
+      "tags": [
+        "activity"
+      ],
+      "url": "/compost/latent-intimacies/"
+    },
+    {
       "id": "Lay expertise",
       "label": "Lay expertise",
       "stage": "bruck",
@@ -640,6 +694,15 @@
 
       ],
       "url": "/compost/lay-expertise/"
+    },
+    {
+      "id": "Local language models",
+      "label": "Local language models",
+      "stage": "bruck",
+      "tags": [
+        "activity"
+      ],
+      "url": "/compost/local-language-models/"
     },
     {
       "id": "Media archaeology",
@@ -757,6 +820,15 @@
 
       ],
       "url": "/compost/panpneumatics/"
+    },
+    {
+      "id": "Panpneumaton",
+      "label": "Panpneumaton",
+      "stage": "bruck",
+      "tags": [
+        "activity"
+      ],
+      "url": "/compost/panpneumaton/"
     },
     {
       "id": "Participant observation",
@@ -928,6 +1000,15 @@
         "time"
       ],
       "url": "/compost/queer-time/"
+    },
+    {
+      "id": "Querent.py",
+      "label": "Querent.py",
+      "stage": "bruck",
+      "tags": [
+        "activity"
+      ],
+      "url": "/compost/querent-py/"
     },
     {
       "id": "Rearguard yin tactics",
@@ -1214,6 +1295,14 @@
       "target": "Postnormal science"
     },
     {
+      "source": "Anarchive",
+      "target": "Current activities"
+    },
+    {
+      "source": "Appropriate technology",
+      "target": "Current activities"
+    },
+    {
       "source": "Appropriate technology",
       "target": "Minor technologies"
     },
@@ -1236,6 +1325,10 @@
     {
       "source": "Bogostian carpentry",
       "target": "Critical making"
+    },
+    {
+      "source": "Bogostian carpentry",
+      "target": "Current activities"
     },
     {
       "source": "Bounded rationality",
@@ -1292,6 +1385,10 @@
     {
       "source": "Combinatorics",
       "target": "Tarot"
+    },
+    {
+      "source": "Communities of practice",
+      "target": "Current activities"
     },
     {
       "source": "Communities of practice",
@@ -1402,12 +1499,20 @@
       "target": "Tarot"
     },
     {
+      "source": "duckyPad",
+      "target": "Current activities"
+    },
+    {
       "source": "Edge computing",
       "target": "Time-sharing"
     },
     {
       "source": "Enclosure",
       "target": "Ferality"
+    },
+    {
+      "source": "Enxaneta",
+      "target": "Current activities"
     },
     {
       "source": "Ethnography",
@@ -1448,6 +1553,10 @@
     {
       "source": "Genius loci",
       "target": "Landvættir"
+    },
+    {
+      "source": "Gnomon",
+      "target": "Current activities"
     },
     {
       "source": "Graphical user interface",
@@ -1538,6 +1647,10 @@
       "target": "Time-sharing"
     },
     {
+      "source": "Latent Intimacies",
+      "target": "Current activities"
+    },
+    {
       "source": "Lay expertise",
       "target": "Cognitive justice"
     },
@@ -1552,6 +1665,10 @@
     {
       "source": "Lay expertise",
       "target": "User innovation"
+    },
+    {
+      "source": "Local language models",
+      "target": "Current activities"
     },
     {
       "source": "Media archaeology",
@@ -1612,6 +1729,10 @@
     {
       "source": "Panpneumatics",
       "target": "Worlding"
+    },
+    {
+      "source": "Panpneumaton",
+      "target": "Current activities"
     },
     {
       "source": "Participant observation",
@@ -1708,6 +1829,10 @@
     {
       "source": "Queer time",
       "target": "Chronos and kairos"
+    },
+    {
+      "source": "Querent.py",
+      "target": "Current activities"
     },
     {
       "source": "Rearguard yin tactics",

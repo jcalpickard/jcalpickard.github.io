@@ -170,6 +170,12 @@
           node.color = stage.color;
           node.size = stage.size;
           node.borderWidth = stage.borderWidth;
+
+          // Check if the node has the "activity" tag
+          if (node.tags.includes('activity')) {
+            node.borderWidth = 1; // Set a different border width for "activity" nodes
+          }
+
           node.tooltipContent = `<div>
                                 <a href="${node.url}" target="_blank"><strong>${node.label}</strong></a>
                                 <p>Tags: ${node.tags.join(', ')}</p>
