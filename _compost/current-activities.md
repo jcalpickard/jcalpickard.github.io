@@ -3,7 +3,7 @@ layout: garden
 title: "Current activities"
 stage: roughingOut
 tags: [meta]
-last_updated: 2022-01-01T00:00:00Z
+last_updated:
 ---
 
 > This page serves as an index for my current activities and interests. Click on activity names or linked concepts to explore related notes.

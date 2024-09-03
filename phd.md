@@ -1,7 +1,7 @@
 ---  
 layout: page
 title: "PhD"
-last_updated: 2022-01-01T00:00:00Z
+last_updated:
 ---  
 
 #### My PhD thesis, ‘Appropriate infrastructure and urban sociotechnical change in Ahmedabad, Gujarat’ (2022), offers fresh insights into how infrastructure, urban development, and sociocultural contexts intersect.
