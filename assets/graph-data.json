@@ -1287,6 +1287,10 @@
       "target": "Computational thinking"
     },
     {
+      "source": "Adaptive roadmapping",
+      "target": "Gnomon"
+    },
+    {
       "source": "Agnotology",
       "target": "Ground-zero empiricism"
     },
@@ -1296,10 +1300,6 @@
     },
     {
       "source": "Anarchive",
-      "target": "Current activities"
-    },
-    {
-      "source": "Appropriate technology",
       "target": "Current activities"
     },
     {
@@ -1388,10 +1388,6 @@
     },
     {
       "source": "Communities of practice",
-      "target": "Current activities"
-    },
-    {
-      "source": "Communities of practice",
       "target": "Situated software"
     },
     {
@@ -1459,6 +1455,10 @@
       "target": "Gopnikism"
     },
     {
+      "source": "Current activities",
+      "target": "About"
+    },
+    {
       "source": "Degrowth",
       "target": "Bioregionalism"
     },
@@ -1473,6 +1473,10 @@
     {
       "source": "Dialogue systems",
       "target": "Prompt engineering"
+    },
+    {
+      "source": "Digital gardening",
+      "target": "About"
     },
     {
       "source": "Distributed cognition",
