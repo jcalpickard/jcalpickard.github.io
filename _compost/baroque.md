@@ -17,4 +17,4 @@ Exuberant and ornate styles. An embrace of complexity, ambiguity, hybridity, pas
 
 Theatricality? Boundlessness and folding? (eliding/troubling the division of inside and outside) 
 
-- [⎈] Consider how a "Baroque sensibility" might invite us to embrace ambiguity, to question assumptions, and to seek out the hidden meanings and power dynamics encoded in our technical systems and cultural artifacts.
+- [⎈] Consider how a "Baroque sensibility" invites us to embrace ambiguity, to question assumptions, and to seek out the hidden meanings and power dynamics encoded in our technical systems and cultural artifacts.

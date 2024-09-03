@@ -6,7 +6,7 @@ tags: [meta]
 last_modified: Tue Sep 3 16:55:50 2024 +0100
 ---
 
-> This page serves as an index for my current activities and interests. Click on activity names or linked concepts to explore related notes.
+> This note serves as an (irregularly-updated) index of my current activities and interests. Click on activity names or linked concepts to explore related notes.
 
 * TOC
 {:toc}
@@ -82,23 +82,14 @@ last_modified: Tue Sep 3 16:55:50 2024 +0100
 
 <!-- -->
 
-**[[gnomon|Gnomon]]:**[^5] Conceptualising and (eventually) dogfooding feral, "non-fungible" approaches to time management and planning.
+**[[gnomon|Gnomon]]:**[^5] Conceptualising and (later) dogfooding feral, "non-fungible" approaches to time management and planning.
 : • _Context:_ Solo, slow burn
 : • _Methods:_ Self-experimentation
 : • _Current focus:_ Research and planning
 
 
-#### Cross-cutting interests
-
-|----------|-------------|
-| <big>**[[appropriate-technology|Appropriate technology]]**</big> | Low-tech, decentralised technologies, tailored to specific contexts and user needs |
-| <big>**[[communities-of-practice|Communities of practice]]**</big> | The dynamics of practical knowledge acquisition and dissemination within groups |
-| <big>**Translocal processes**</big> | The interplay of local practices and global forces, and how this shapes technologies, policy, and the built environment |
-| <big>**Knowledge bases and information retrieval**</big> | How people navigate and use information in everyday contexts |
-| <big>**Improvisation and contingency**</big> | How people adapt and innovate in real-time, responding to changing conditions through technology design and use |
-
-[^1]: Named for the individual, typically a helmeted pre-teen, who tops out a Catalan _castell_.
-[^2]: Named for Swiss astronomer Fritz Zwicky.
+[^1]: Named for the helmeted pre-teen who tops out a Catalan _castell_.
+[^2]: Named for Swiss astronomer [Fritz Zwicky](https://en.wikipedia.org/wiki/Fritz_Zwicky).
 [^3]: Sullivan's coinage; a neologism blending "pantheon" and "pneumatics".
 [^4]: "Studies in rawness," broadly speaking.
-[^5]: Named for the shadow-casting part of a sundial.
+[^5]: The shadow-casting part of a sundial.
