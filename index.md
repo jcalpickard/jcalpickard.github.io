@@ -2,7 +2,7 @@
 layout: home
 title: "Home"
 list_title: "Log"
-last_modified: Tue Sep 3 16:31:52 2024 +0100
+last_modified: Tue Sep 3 16:38:42 2024 +0100
 ---  
 
 #### [Hello](hello.md), I'm Justin. I'm an editor and independent researcher, readily <a href="https://en.wiktionary.org/wiki/nerd-snipe">nerd-sniped</a> by edge cases and emerging phenomena.

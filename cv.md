@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CV"
-last_modified: Tue Sep 3 16:31:52 2024 +0100
+last_modified: Tue Sep 3 16:38:42 2024 +0100
 ---
 
 ### Independent Researcher and Editor
