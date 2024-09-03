@@ -31,7 +31,7 @@ last_modified: Tue Sep 3 16:39:24 2024 +0100
 {: .theme}
 
 **[[enxaneta|Exnaneta]]:**[^1] Collaborative Python-for-ethnography skill exchange, exploring the intersection(s) of computing and ethnographic research.
-: • _Context:_ Collaboration (with [Tim](https://www.timcowlishaw.co.uk/)), active development
+: • _Context:_ Collaboration with [Tim](https://www.timcowlishaw.co.uk/), active development
 : • _Methods:_ Programming, ethnography, [[bogostian-carpentry|Bogostian carpentry]], software development
 : • _Current focus:_ Prototyping "tiny tools" for thick description and ethnographic analysis  
 
@@ -54,14 +54,14 @@ last_modified: Tue Sep 3 16:39:24 2024 +0100
 {: .theme}
 
 **[[panpneumaton|Panpneumaton]]:**[^3] Post-hoc comparative study of LLM use and shamanic journeying.
-: • _Context:_ Collaboration (with [T.M. Sullivan](https://tmsullivan.co.uk/)), slow burn
+: • _Context:_ Collaboration with [T.M. Sullivan](https://tmsullivan.co.uk/), slow burn
 : • _Methods:_ Ethnography, comparative analysis, lateral theory
 : • _Current focus:_ Editing preliminary draft paper
 
 <!-- -->
 
 **[[latent-intimacies|Latent Intimacies]]:** Using open-source speech synthesis and language models to explore new forms of human-machine intimacy.
-: • _Context:_ Team-based collaboration (initiated by [Vytas](https://vjnks.com/bio)), dormant
+: • _Context:_ Team-based collaboration initiated by [Vytas](https://vjnks.com/bio), dormant
 : • _Methods:_ "Études Brut"[^4], ethnographic observation, interviews, interaction design
 : • _Current focus:_ Seeking opportunities for further development
 
