@@ -1,6 +1,7 @@
 ---
 layout: base
 title: "Now"
+last_updated:
 ---
 
 <div class="iframe-container" style="height: 100%; border: 0; border-radius: 6px;">
