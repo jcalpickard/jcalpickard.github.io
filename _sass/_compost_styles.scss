@@ -22,7 +22,7 @@
     color: #7e7e6e;
   }
 
-  &.roughing-out {
+  &.roughingOut {
     background-color: #e6e2d2;
     color: #6d6d5e;
   }
@@ -40,8 +40,12 @@
       margin-left: 1.5rem;
     }
 
+    li {
+      margin-bottom: 0.5rem;
+    }
+
     p {
-      margin-bottom: 2rem;
+      margin-bottom: 0.5rem;
     }
   }
 }

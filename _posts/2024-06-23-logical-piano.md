@@ -37,7 +37,7 @@ categories: [weeknotes]
 - Preparing the ground to pivot to phase two of this Python-ethnography collaboration with Tim, having just nerd-sniped him into bootstrapping [Humus](https://github.com/timcowlishaw/humus), a permacomputing-aligned "composting database."[^6]
 - Then to London Monday afternoon, where I'm catsitting while D's sister and her fiancé brave predicted rain (?) at Glastonbury. I'll be volunteering at the [RAI Anthropology & Education conference](https://therai.org.uk/conferences/anthropology-and-education), lured in by a run of sessions on how generative AI is starting to sluice into anthropology education and ethnographic methods.
 - Catching up with friends and colleagues while in London.
-- Likely capping the week with a day at the [Digital Folklore conference](https://folklore-society.com/event/digital-folklore-conference/), before heading back up to York.
+- ~~Likely capping the week with a day at the [Digital Folklore conference](https://folklore-society.com/event/digital-folklore-conference/), before heading back up to York.~~
 
 [^1]: In short: hewing closely to [Jodorowsky's approach to the tarot](https://purple.fr/magazine/fw-2009-issue-12/psychomagic-alejandro-jodorowsky/), while treating the exercise as a work of [Bogostian carpentry](https://justinpickard.net/compost/bogostian-carpentry/).
 [^2]: Often seen as a last resort due to their complexity, and potential performance issues, EAV structures persist in domains like medical databases where the need to accommodate evolving, heterogeneous data beats any concerns about efficiency; engaging with this tension has helped me start to bend my head around the trade-offs inherent to data modelling.
