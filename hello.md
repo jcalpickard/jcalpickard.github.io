@@ -1,7 +1,7 @@
 ---  
 layout: page
 title: "Hello"
-last_updated:
+last_updated: 2022-01-01T00:00:00Z
 ---  
 
 #### Whether connecting with new people or catching up with old friends, these are some of the ways I prefer to keep in touch.

@@ -3,16 +3,13 @@ layout: garden
 title: "Current activities"
 stage: roughingOut
 tags: [meta]
-last_updated:
+last_updated: 2022-01-01T00:00:00Z
 ---
-
-{% include last-updated.html %}
 
 > This page serves as an index for my current activities and interests. Click on activity names or linked concepts to explore related notes.
 
 * TOC
 {:toc}
-
 
 #### Experimental publishing
 {: .theme}
