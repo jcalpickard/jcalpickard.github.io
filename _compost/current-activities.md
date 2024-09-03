@@ -75,7 +75,7 @@ last_modified: Tue Sep 3 16:55:50 2024 +0100
 
 #### Personal tools and practices
 
-**[[duckypad|duckyPad interactions]]:** Prototyping novel interactions with an open-source programmable macropad.
+**[[duckypad|duckyPad interactions]]:** Prototyping novel interactions with an open-source mechanical macropad.
 : • _Context:_ Solo, exploratory
 : • _Methods:_ Scripting, interaction design
 : • _Current focus:_ Temporarily dormant
