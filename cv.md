@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CV"
-last_updated:
+last_modified:
 ---
 
 ### Independent Researcher and Editor
