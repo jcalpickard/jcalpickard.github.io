@@ -1,5 +1,5 @@
 ---
-last_modified: 2024-09-03 16:14:54.282184
+last_modified: Tue Sep 3 16:16:36 2024 +0100
 layout: compost-home
 permalink: /compost/
 stage: detailing

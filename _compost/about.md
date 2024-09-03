@@ -3,7 +3,7 @@ layout: garden
 title: "About"
 stage: tinkering
 tags: [meta]
-last_modified:
+last_modified: Tue Sep 3 15:49:54 2024 +0100
 ---
 
 A collection of evolving notes and half-baked ideas, tended to over time; from bruck and scrap to works in-progress. Inspired by [[permaculture]], an experiment in working and learning in public, outside of project ontologies and gridded organisational time.
