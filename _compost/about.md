@@ -3,7 +3,7 @@ layout: garden
 title: "About"
 stage: tinkering
 tags: [meta]
-last_modified: Wed Sep 4 15:48:03 2024 +0100
+last_modified: Wed Sep 4 15:48:18 2024 +0100
 ---
 
 This "compost" heap is a collection of evolving notes and half-baked ideas, tended to over time. Here, thoughts and concepts grow organically, through iterative honing and cross-pollination; from bruck and scrap to works in-progress. Inspired by [[permaculture]] and [[digital-gardening]], this is an experiment in working and learning in public, but outside of [[project-ontology|project ontologies]] (as much as possible) and gridded organisational time.
