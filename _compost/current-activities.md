@@ -3,7 +3,7 @@ layout: garden
 title: "Current activities"
 stage: roughingOut
 tags: [meta]
-last_modified: Tue Sep 3 21:51:31 2024 +0100
+last_modified: Tue Sep 3 21:51:40 2024 +0100
 ---
 
 > This note serves as an (irregularly-updated) index of my current activities and interests. Click on activity names or linked concepts to explore related notes.
@@ -21,7 +21,7 @@ last_modified: Tue Sep 3 21:51:31 2024 +0100
 
 <!-- -->
 
-**Counterfactual computers:** Short fiction exploring contingency and path dependence in the history of technology.
+**[[counterfactual-computers|Counterfactual computers]]:** Short fiction exploring contingency and path dependence in the history of technology.
 : • _Context:_ Solo, slow burn
 : • _Methods:_ Writing, speculative fiction, STS, counterfactual history, design
 : • _Current focus:_ Scoping and research
@@ -30,21 +30,28 @@ last_modified: Tue Sep 3 21:51:31 2024 +0100
 #### Ethnography & computational methods
 {: .theme}
 
-**[[enxaneta|Exnaneta]]:**[^1] Collaborative Python-for-ethnography skill exchange, exploring the intersection(s) of computing and ethnographic research.
+**[[enxaneta|Enxaneta]]:**[^1] Collaborative Python-for-ethnography skill exchange, exploring the intersection(s) of computing and ethnographic research.
 : • _Context:_ Collaboration with [Tim](https://www.timcowlishaw.co.uk/), active development
-: • _Methods:_ Programming, ethnography, [[bogostian-carpentry|Bogostian carpentry]], software development
+: • _Methods:_ Programming, ethnography, software development
 : • _Current focus:_ Prototyping "tiny tools" for thick description and ethnographic analysis  
 
 <!-- -->
 
+**↳ [[xamota|Xamota]]:** Research exploring the interplay of structured data and intuitive "knowing" through reflexive software development
+: • _Context:_ Collaboration with [Tim](https://www.timcowlishaw.co.uk/) (part of Enxaneta), slow burn
+: • _Methods:_ Reflexive software development, Bogostian carpentry
+: • _Current focus:_ Scoping and definition
+
+<!-- -->
+
 **↳ [[querent-py|Querent.py]]:** Situated software for personal tarot practice; part of a larger piece of research on inuitive knowledge and computational data structures.
-: • _Context:_ Solo (part of Exnaneta), exploratory
+: • _Context:_ Solo (part of Xamota), exploratory
 : • _Methods:_ Computational design, Python programming, reflective practice
 : • _Current focus:_ Research and planning
 
 <!-- -->
 
-**Zwicky:**[^2] Experiments in computer-supported morphological analysis.
+**[[zwicky|Zwicky]]:**[^2] Experiments in computer-supported morphological analysis.
 : • _Context:_ Solo, exploratory, slow burn
 : • _Methods:_ TBC
 : • _Current focus:_ Preliminary research and scoping
