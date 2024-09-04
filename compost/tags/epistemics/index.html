@@ -133,6 +133,8 @@
   
 
   
+
+  
     <li>
       <a href="/compost/counterfactual-reasoning/">Counterfactual reasoning</a>
     </li>
@@ -388,6 +390,10 @@
 
   
 
+  
+
+  
+
 </ul>
 
       
@@ -494,7 +500,8 @@
 
           // Check if the node has the "activity" tag
           if (node.tags.includes('activity')) {
-            node.borderWidth = 1; // Set a different border width for "activity" nodes
+            node.size = 25; // Set a larger size for "activity" nodes
+            node.borderWidth = 1.25; // Set a different border width for "activity" nodes
           }
 
           node.tooltipContent = `<div>

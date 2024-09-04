@@ -47,7 +47,7 @@
     <header>
       <h1>Current activities</h1>
       <p class="last-updated">
-    <small style="font-style: normal;">Last updated: Tuesday, 3 September 2024</small>
+    <small style="font-style: normal;">Last updated: Wednesday, 4 September 2024</small>
   </p>
     </header>
 
@@ -77,7 +77,7 @@
 
 <dl>
   <dt>
-<strong>Counterfactual computers:</strong> Short fiction exploring contingency and path dependence in the history of technology.</dt>
+<strong><a class="wiki-link" href="/compost/counterfactual-computers/">Counterfactual computers</a>:</strong> Short fiction exploring contingency and path dependence in the history of technology.</dt>
   <dd>• <em>Context:</em> Solo, slow burn</dd>
   <dd>• <em>Methods:</em> Writing, speculative fiction, STS, counterfactual history, design</dd>
   <dd>• <em>Current focus:</em> Scoping and research</dd>
@@ -87,9 +87,9 @@
 
 <dl>
   <dt>
-<strong><a class="wiki-link" href="/compost/enxaneta/">Exnaneta</a>:</strong><sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote web-link" rel="footnote">1</a></sup> Collaborative Python-for-ethnography skill exchange, exploring the intersection(s) of computing and ethnographic research.</dt>
+<strong><a class="wiki-link" href="/compost/enxaneta/">Enxaneta</a>:</strong><sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote web-link" rel="footnote">1</a></sup> Collaborative Python-for-ethnography skill exchange, exploring the intersection(s) of computing and ethnographic research.</dt>
   <dd>• <em>Context:</em> Collaboration with <a href="https://www.timcowlishaw.co.uk/" class="web-link">Tim</a>, active development</dd>
-  <dd>• <em>Methods:</em> Programming, ethnography, <a class="wiki-link" href="/compost/bogostian-carpentry/">Bogostian carpentry</a>, software development</dd>
+  <dd>• <em>Methods:</em> Programming, ethnography, software development</dd>
   <dd>• <em>Current focus:</em> Prototyping “tiny tools” for thick description and ethnographic analysis</dd>
 </dl>
 
@@ -97,8 +97,18 @@
 
 <dl>
   <dt>
+<strong>↳ <a class="wiki-link" href="/compost/xamota/">Xamota</a>:</strong> Research exploring the interplay of structured data and intuitive “knowing” through reflexive software development</dt>
+  <dd>• <em>Context:</em> Collaboration with <a href="https://www.timcowlishaw.co.uk/" class="web-link">Tim</a> (part of Enxaneta), slow burn</dd>
+  <dd>• <em>Methods:</em> Reflexive software development, Bogostian carpentry</dd>
+  <dd>• <em>Current focus:</em> Scoping and definition</dd>
+</dl>
+
+<!-- -->
+
+<dl>
+  <dt>
 <strong>↳ <a class="wiki-link" href="/compost/querent-py/">Querent.py</a>:</strong> Situated software for personal tarot practice; part of a larger piece of research on inuitive knowledge and computational data structures.</dt>
-  <dd>• <em>Context:</em> Solo (part of Exnaneta), exploratory</dd>
+  <dd>• <em>Context:</em> Solo (part of Xamota), exploratory</dd>
   <dd>• <em>Methods:</em> Computational design, Python programming, reflective practice</dd>
   <dd>• <em>Current focus:</em> Research and planning</dd>
 </dl>
@@ -107,7 +117,7 @@
 
 <dl>
   <dt>
-<strong>Zwicky:</strong><sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote web-link" rel="footnote">2</a></sup> Experiments in computer-supported morphological analysis.</dt>
+<strong><a class="wiki-link" href="/compost/zwicky/">Zwicky</a>:</strong><sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote web-link" rel="footnote">2</a></sup> Experiments in computer-supported morphological analysis.</dt>
   <dd>• <em>Context:</em> Solo, exploratory, slow burn</dd>
   <dd>• <em>Methods:</em> TBC</dd>
   <dd>• <em>Current focus:</em> Preliminary research and scoping</dd>
@@ -302,7 +312,8 @@
 
           // Check if the node has the "activity" tag
           if (node.tags.includes('activity')) {
-            node.borderWidth = 1; // Set a different border width for "activity" nodes
+            node.size = 25; // Set a larger size for "activity" nodes
+            node.borderWidth = 1.25; // Set a different border width for "activity" nodes
           }
 
           node.tooltipContent = `<div>

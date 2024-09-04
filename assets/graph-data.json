@@ -264,6 +264,15 @@
       "url": "/compost/cosmotechnics/"
     },
     {
+      "id": "Counterfactual computers",
+      "label": "Counterfactual computers",
+      "stage": "bruck",
+      "tags": [
+        "activity"
+      ],
+      "url": "/compost/counterfactual-computers/"
+    },
+    {
       "id": "Counterfactual reasoning",
       "label": "Counterfactual reasoning",
       "stage": "bruck",
@@ -1271,6 +1280,24 @@
 
       ],
       "url": "/compost/worlding/"
+    },
+    {
+      "id": "Xamota",
+      "label": "Xamota",
+      "stage": "bruck",
+      "tags": [
+        "activity"
+      ],
+      "url": "/compost/xamota/"
+    },
+    {
+      "id": "Zwicky",
+      "label": "Zwicky",
+      "stage": "bruck",
+      "tags": [
+        "activity"
+      ],
+      "url": "/compost/zwicky/"
     }
   ],
   "links": [
@@ -1325,10 +1352,6 @@
     {
       "source": "Bogostian carpentry",
       "target": "Critical making"
-    },
-    {
-      "source": "Bogostian carpentry",
-      "target": "Current activities"
     },
     {
       "source": "Bounded rationality",
@@ -1421,6 +1444,10 @@
     {
       "source": "Cosmotechnics",
       "target": "Coevalness"
+    },
+    {
+      "source": "Counterfactual computers",
+      "target": "Current activities"
     },
     {
       "source": "Counterfactual reasoning",
@@ -2005,6 +2032,14 @@
     {
       "source": "Worlding",
       "target": "Practical ontology"
+    },
+    {
+      "source": "Xamota",
+      "target": "Current activities"
+    },
+    {
+      "source": "Zwicky",
+      "target": "Current activities"
     }
   ]
 }
