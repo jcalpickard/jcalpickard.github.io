@@ -3,7 +3,7 @@ layout: garden
 title: "Current activities"
 stage: roughingOut
 tags: [meta]
-last_modified: Wed Sep 4 15:48:18 2024 +0100
+last_modified: Wed Sep 4 22:22:17 2024 +0100
 ---
 
 > This note serves as an (irregularly-updated) index of my current activities and interests. Click on activity names or linked concepts to explore related notes.
