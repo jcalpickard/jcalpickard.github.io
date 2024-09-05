@@ -3,7 +3,7 @@ layout: garden
 title: "Current activities"
 stage: roughingOut
 tags: [meta]
-last_modified: Wed Sep 4 22:22:17 2024 +0100
+last_modified: Wed Sep 4 22:22:37 2024 +0100
 ---
 
 > This note serves as an (irregularly-updated) index of my current activities and interests. Click on activity names or linked concepts to explore related notes.
@@ -74,7 +74,7 @@ last_modified: Wed Sep 4 22:22:17 2024 +0100
 
 <!-- -->
 
-**↳ [[local-language-models|Local language model experiments]]:** Hosting open-source generative language models on my own laptop.
+**↻ [[local-language-models|Local language model experiments]]:** Hosting open-source generative language models on my own laptop.
 : • _Context:_ Solo, exploratory
 : • _Methods:_ Staring blankly at the command line
 : • _Current focus:_ Temporarily dormant
