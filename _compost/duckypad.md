@@ -5,6 +5,8 @@ stage: bruck
 tags: [activity]
 ---
 
+<a href="https://files.justinpickard.net/images/compost/activities/duckypad.jpg"><img class="img-padded" src="https://files.justinpickard.net/images/compost/activities/duckypad.jpg" alt="duckyPad programmable macropad" width="350" height="350"></a>
+
 Looking to use the duckyPad as a platform for exploring novel [[hci|human-computer interactions]], rather than solely for productivity.
 
 A way to create space for self-reflection and metacognition, introducing (generative) friction into my workflows?
