@@ -3,7 +3,7 @@ layout: garden
 title: "Current activities"
 stage: roughingOut
 tags: [meta]
-last_modified: Wed Sep 4 22:22:37 2024 +0100
+last_modified: 
 ---
 
 > This note serves as an (irregularly-updated) index of my current activities and interests. Click on activity names or linked concepts to explore related notes.
@@ -21,10 +21,10 @@ last_modified: Wed Sep 4 22:22:37 2024 +0100
 
 <!-- -->
 
-**[[counterfactual-computers|Counterfactual computers]]:** Case narratives exploring contingency and path dependence in the history of technology.
+**[[counterfactual-computers|Counterfactual computers]]:** Exploring alternative trajectories for computing history through speculative case narratives.
 : • _Context:_ Solo, slow burn
-: • _Methods:_ Writing, speculative fiction, STS, counterfactual history, design
-: • _Current focus:_ Scoping and research
+: • _Methods:_ Writing, historical research, counterfactual reasoning, STS, speculative fiction, design
+: • _Current focus:_ Refining methodology, research, initial scenario development
 
 
 #### Ethnography & computational methods

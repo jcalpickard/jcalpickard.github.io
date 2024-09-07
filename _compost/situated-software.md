@@ -4,11 +4,9 @@ title: "Situated software"
 stage: bruck
 ---
 
-Software applications intentionally designed for the needs, practices, and local social or cultural contexts of particular [[communities-of-practice]], rather than a broader, more generic set of "users". Personalised, localised, often created by the community who's using it. After Clay Shirky.
+Software applications intentionally designed for the needs, practices, and local contexts of particular [[communities-of-practice]], rather than a broader, more generic set of "users". Personalised, localised, often created by the community who's using it. "Design for dozens." After Clay Shirky.
 
 Not just customisation or configuration; instead, this is about deeply embedding the applications within the lived experiences, workflows, and social dynamics of the target community from the outset
-
-"Design for dozens."
 
 > Situated software isn't a technological strategy so much as an attitude about closeness of fit between software and its group of users, and a refusal to embrace scale, generality or completeness as unqualified virtues.
 <cite>— Clay Shirky, "[Situated Software](https://gwern.net/doc/technology/2004-03-30-shirky-situatedsoftware.html)" (2004)</cite>
