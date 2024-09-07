@@ -266,7 +266,7 @@
     {
       "id": "Counterfactual computers",
       "label": "Counterfactual computers",
-      "stage": "bruck",
+      "stage": "tinkering",
       "tags": [
         "activity"
       ],
@@ -1307,6 +1307,10 @@
     },
     {
       "source": "Abductive reasoning",
+      "target": "Counterfactual computers"
+    },
+    {
+      "source": "Abductive reasoning",
       "target": "Ground-zero empiricism"
     },
     {
@@ -1448,6 +1452,10 @@
     {
       "source": "Counterfactual computers",
       "target": "Current activities"
+    },
+    {
+      "source": "Counterfactual reasoning",
+      "target": "Counterfactual computers"
     },
     {
       "source": "Counterfactual reasoning",
@@ -1723,6 +1731,10 @@
     },
     {
       "source": "Morphological analysis",
+      "target": "Counterfactual computers"
+    },
+    {
+      "source": "Morphological analysis",
       "target": "Oulipics"
     },
     {
@@ -1774,6 +1786,10 @@
       "target": "Current activities"
     },
     {
+      "source": "Panpneumaton",
+      "target": "Local language models"
+    },
+    {
       "source": "Participant observation",
       "target": "Ethnography"
     },
@@ -1820,6 +1836,10 @@
     {
       "source": "Postcolonial technoscience",
       "target": "Cognitive justice"
+    },
+    {
+      "source": "Postcolonial technoscience",
+      "target": "Counterfactual computers"
     },
     {
       "source": "Postcolonial theory",
