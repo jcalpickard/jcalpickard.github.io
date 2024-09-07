@@ -21,7 +21,7 @@ last_modified: Wed Sep 4 22:22:37 2024 +0100
 
 <!-- -->
 
-**[[counterfactual-computers|Counterfactual computers]]:** Short fiction exploring contingency and path dependence in the history of technology.
+**[[counterfactual-computers|Counterfactual computers]]:** Case narratives exploring contingency and path dependence in the history of technology.
 : • _Context:_ Solo, slow burn
 : • _Methods:_ Writing, speculative fiction, STS, counterfactual history, design
 : • _Current focus:_ Scoping and research
