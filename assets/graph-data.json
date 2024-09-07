@@ -1414,6 +1414,10 @@
       "target": "Tarot"
     },
     {
+      "source": "Combinatorics",
+      "target": "Zwicky"
+    },
+    {
       "source": "Communities of practice",
       "target": "Situated software"
     },
@@ -1538,6 +1542,10 @@
       "target": "Tarot"
     },
     {
+      "source": "Divination",
+      "target": "Zwicky"
+    },
+    {
       "source": "duckyPad",
       "target": "Current activities"
     },
@@ -1552,6 +1560,14 @@
     {
       "source": "Enxaneta",
       "target": "Current activities"
+    },
+    {
+      "source": "Enxaneta",
+      "target": "Querent.py"
+    },
+    {
+      "source": "Enxaneta",
+      "target": "Xamota"
     },
     {
       "source": "Ethnography",
@@ -1738,6 +1754,10 @@
       "target": "Oulipics"
     },
     {
+      "source": "Morphological analysis",
+      "target": "Zwicky"
+    },
+    {
       "source": "Muddling through",
       "target": "Adaptive roadmapping"
     },
@@ -1762,8 +1782,16 @@
       "target": "Morphological analysis"
     },
     {
+      "source": "Ontography",
+      "target": "Zwicky"
+    },
+    {
       "source": "Open-source software",
       "target": "Forking"
+    },
+    {
+      "source": "Oulipics",
+      "target": "Zwicky"
     },
     {
       "source": "Pace layers",
@@ -1950,6 +1978,10 @@
       "target": "Project ontology"
     },
     {
+      "source": "Situated software",
+      "target": "Querent.py"
+    },
+    {
       "source": "Social practice theory",
       "target": "Critical technical practice"
     },
@@ -1988,6 +2020,10 @@
     {
       "source": "Tarot",
       "target": "Divination"
+    },
+    {
+      "source": "Tarot",
+      "target": "Querent.py"
     },
     {
       "source": "Technological momentum",
@@ -2060,6 +2096,10 @@
     {
       "source": "Xamota",
       "target": "Current activities"
+    },
+    {
+      "source": "Xamota",
+      "target": "Querent.py"
     },
     {
       "source": "Zwicky",
