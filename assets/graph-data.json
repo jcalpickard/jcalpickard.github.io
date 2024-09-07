@@ -37,15 +37,6 @@
       "url": "/compost/adaptive-roadmapping/"
     },
     {
-      "id": "Agnotology",
-      "label": "Agnotology",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/agnotology/"
-    },
-    {
       "id": "Anarchive",
       "label": "Anarchive",
       "stage": "bruck",
@@ -1322,14 +1313,6 @@
       "target": "Gnomon"
     },
     {
-      "source": "Agnotology",
-      "target": "Ground-zero empiricism"
-    },
-    {
-      "source": "Agnotology",
-      "target": "Postnormal science"
-    },
-    {
       "source": "Anarchive",
       "target": "Current activities"
     },
@@ -1414,10 +1397,6 @@
       "target": "Tarot"
     },
     {
-      "source": "Combinatorics",
-      "target": "Zwicky"
-    },
-    {
       "source": "Communities of practice",
       "target": "Situated software"
     },
@@ -1454,6 +1433,14 @@
       "target": "Coevalness"
     },
     {
+      "source": "Cosmotechnics",
+      "target": "Pluriverse"
+    },
+    {
+      "source": "Cosmotechnics",
+      "target": "Worlding"
+    },
+    {
       "source": "Counterfactual computers",
       "target": "Current activities"
     },
@@ -1472,10 +1459,6 @@
     {
       "source": "Counterfactual reasoning",
       "target": "Media archaeology"
-    },
-    {
-      "source": "Critical design",
-      "target": "Critical making"
     },
     {
       "source": "Critical making",
@@ -1563,10 +1546,6 @@
     },
     {
       "source": "Enxaneta",
-      "target": "Querent.py"
-    },
-    {
-      "source": "Enxaneta",
       "target": "Xamota"
     },
     {
@@ -1632,10 +1611,6 @@
     {
       "source": "Human-computer interaction",
       "target": "duckyPad"
-    },
-    {
-      "source": "Human-computer interaction",
-      "target": "Gopnikism"
     },
     {
       "source": "Heterotopias",
@@ -1747,10 +1722,6 @@
     },
     {
       "source": "Morphological analysis",
-      "target": "Counterfactual computers"
-    },
-    {
-      "source": "Morphological analysis",
       "target": "Oulipics"
     },
     {
@@ -1782,16 +1753,8 @@
       "target": "Morphological analysis"
     },
     {
-      "source": "Ontography",
-      "target": "Zwicky"
-    },
-    {
       "source": "Open-source software",
       "target": "Forking"
-    },
-    {
-      "source": "Oulipics",
-      "target": "Zwicky"
     },
     {
       "source": "Pace layers",
@@ -1804,6 +1767,10 @@
     {
       "source": "Panpneumatics",
       "target": "Local language models"
+    },
+    {
+      "source": "Panpneumatics",
+      "target": "Panpneumaton"
     },
     {
       "source": "Panpneumatics",
@@ -1855,11 +1822,11 @@
     },
     {
       "source": "Pluriverse",
-      "target": "Panpneumatics"
+      "target": "Cosmotechnics"
     },
     {
       "source": "Pluriverse",
-      "target": "Worlding"
+      "target": "Panpneumatics"
     },
     {
       "source": "Postcolonial technoscience",
@@ -2015,14 +1982,6 @@
     },
     {
       "source": "Tarot",
-      "target": "Combinatorics"
-    },
-    {
-      "source": "Tarot",
-      "target": "Divination"
-    },
-    {
-      "source": "Tarot",
       "target": "Querent.py"
     },
     {
@@ -2084,10 +2043,6 @@
     {
       "source": "The Wheel of the Year",
       "target": "Seasonality"
-    },
-    {
-      "source": "Worlding",
-      "target": "Pluriverse"
     },
     {
       "source": "Worlding",
