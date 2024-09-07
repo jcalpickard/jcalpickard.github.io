@@ -28,6 +28,5 @@ Ininitial steps: Conduct a literature review on computational approaches to morp
 - [?] What role can machine learning play in enhancing morphological analysis?
 - [?] What are the implications of focusing on problem exploration rather than solution generation? How might this affect the tool's utility in different contexts?
 - [?] What kind of user interface would be best placed to support both free-form brainstorming and structured analysis within the same tool?
-- [&] See also: [[combinatorics]], [[oulipics]], [[ontography]]
 
 [^1]: I'm envisaging a two-stage approach for dimension input, with free-form, unrestricted brainstorming, followed by guided refinement (potentially through multi-turn dialogic interaction).

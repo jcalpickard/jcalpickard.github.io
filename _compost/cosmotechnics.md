@@ -10,4 +10,4 @@ Recognising the existence of non-Western origins and conceptions of technology b
 
 Opens and holds space for different cosmotechnical possibilities and trajectories in the modern world, as an alternative to the homogenising forces of globalised technoscience.
 
-- [&] See also: [[cognitive-justice]]?
+- [&] See also: [[cognitive-justice]], the [[pluriverse]]?

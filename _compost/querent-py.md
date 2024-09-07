@@ -5,4 +5,4 @@ stage: bruck
 tags: [activity]
 ---
 
-Part of [[xamota]], and [[enxaneta]]. Python-based [[situated-software]] for personal [[tarot]] practice.
+Part of [[xamota]]. Python-based [[situated-software]] for personal [[tarot]] practice.

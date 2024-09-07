@@ -21,4 +21,4 @@ Ordered selections with repetition? Ordered selections without repetition (permu
 
 - [?] What are the limitations of combinatorial methods for solving real-world problems?
 - [&] See also: combinatorial models of innovation?
-- [&] See also: combinatorics in [[divination]] (e.g. [[tarot]])?
+- [&] See also: combinatorics in [[divination]]?

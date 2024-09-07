@@ -25,5 +25,4 @@ The goal should not be to replicate human cognition, but to build systems that c
 
 - [?] How can we combine the transmission capabilities of LLMs with more flexible, exploratory learning?
 - [?] How might AI-lubricated cultural transmission impact diversity of thought and innovation?
-- [?] What are the implications of Gopnikism for [[hci]]?
 - [?] What do Gopnikist models of cultural transmission imply for [[retrieval-augmented-generation]]?

@@ -40,6 +40,7 @@ Motivated by an ecological [[care|ethic of care]] for both the earth and communi
 <cite>— Aymeric Mansoux et al., "[Permacomputing Aesthetics](https://doi.org/10.21428/bf6fb269.6690fc2e)" (2023)</cite>
 
 **Examples:**
+
 - [Small File Media Festival](https://smallfile.ca/)
 - [Collapse OS](http://collapseos.org/)
 - [Uxn](https://100r.co/site/uxn.html)

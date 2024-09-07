@@ -10,4 +10,4 @@ The recognition and coexistence of multiple, diverse (incommensurable?) worlds o
 
 - [?] What are the political implications of embracing pluriversality? How can social movements and political struggles navigate a pluriverse while still building solidarity?
 - [?] How can pluriversal thinking be translated into concrete practices, institutions and ways of living? What does it look like "in practice"?
-- [&] See also: [[worlding]], [[practical-ontology]]?
+- [&] See also: [[cosmotechnics]], [[practical-ontology]]?

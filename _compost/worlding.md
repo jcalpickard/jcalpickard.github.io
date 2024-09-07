@@ -12,4 +12,4 @@ Against a 'one-world' metaphysics (Law 2015).
 
 Processes by which the near and far ‘intermingle’, such that ‘apparently diverse scenes may become part of the same picture, or narrative.’ (Hastrup 2013) How different actors ‘locate the contours and parameters of the contexts in which they act.’ (Stead 2016)
 
-- [&] See also: [[practical-ontology]], [[panpneumatics]], the [[pluriverse]]?
+- [&] See also: [[practical-ontology]], [[cosmotechnics]], [[panpneumatics]]?
