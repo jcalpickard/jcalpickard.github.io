@@ -18,7 +18,7 @@ Blending historical research and speculative fiction, "Counterfactual computers"
 - Highlight the role of contingency in technological development
 - Explore how different cultural, social, and economic factors might have shaped alternative computing paradigms
 - Support critical reflection on the relationship between technology, society, and culture
-- Prototype and refine approaches to [[counterfactual-reasoning|counterfactual thinking]] and computer-supported [[abductive-reasoning]]
+- Prototype and refine approaches to computer-supported [[counterfactual-reasoning|counterfactual thinking]]
 - Uncover possible solutions to contemporary challenges by revisiting paths not taken
 
 By challenging narratives about technological progress and fostering reflection on the cultural assumptions embedded in current computing paradigms, "Counterfactual computers" aims to contribute to more nuanced, inclusive discussions about technology and society.

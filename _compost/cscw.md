@@ -8,5 +8,4 @@ The study of how groups of people use technology to collaborate, coordinating th
 
 Focus on the design, development, and evaluation of collaborative software tools and "groupware" facilitating different kinds of cooperative work.
 
-- [&] Often draws on theories of [[distributed-cognition]]?
-- [&] See also: [[knowledge-management]]?
+- [&] Often draws on theories of [[distributed-cognition]]

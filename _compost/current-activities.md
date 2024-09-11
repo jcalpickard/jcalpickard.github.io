@@ -51,10 +51,10 @@ last_modified:
 
 <!-- -->
 
-**[[zwicky|Zwicky]]:**[^2] Experiments in computer-supported morphological analysis.
-: • _Context:_ Solo, exploratory, slow burn
-: • _Methods:_ TBC
-: • _Current focus:_ Preliminary research and scoping
+**[[zwicky|Zwicky]]:**[^2] Exploratory tool for computer-supported morphological analysis.
+: • _Context:_ Solo, slow burn
+: • _Methods:_ Computational design, NLP experimentation, exploratory data representation
+: • _Current focus:_ Literature review
 
 
 #### Generative models & information-seeking

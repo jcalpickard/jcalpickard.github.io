@@ -7,7 +7,7 @@ tags: [activity]
 
 Computer-supported morphological analysis, whatever that looks like. (Let's find out.)
 
-Zwicky is an exploratory tool for [[morphological-analysis]], aimed at mapping and understanding complex problem spaces. Named after Bulgarian-born Swiss astronomer Fritz Zwicky, this project seeks to extend and reimagine morphological analysis through modern computational approaches.
+> Zwicky is an exploratory tool for [[morphological-analysis]], aimed at mapping and understanding complex problem spaces. Named for Bulgarian-born Swiss astronomer [Fritz Zwicky](https://en.wikipedia.org/wiki/Fritz_Zwicky), Zwicky seeks to extend and reimagine morphological analysis through modern computational approaches.
 
 Zwicky seeks to:
 

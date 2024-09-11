@@ -7,6 +7,8 @@ tags: [activity]
 
 > **July 2024:** Upgraded my Framework 13 laptop's RAM and SSD in anticipation of experimenting with locally-hosted generative language models; looking to (practically) apply some concepts emerging from mine and Tom's [[panpneumaton]]/[[panpneumatics]] research.
 
+Inspired, more or less directly, by [[latent-intimacies]].
+
 Interested in pushing the boundaries of what's possible with limited resources, through techniques like [LoRA](https://arxiv.org/abs/2106.09685).
 
 Thinking about "loose couplings" in software ecosystems.
