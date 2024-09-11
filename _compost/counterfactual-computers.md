@@ -7,7 +7,7 @@ tags: [activity]
 
 > "Counterfactual computers" is an open-ended, experimental writing project exploring alternative trajectories of computing through an extensible series of "case" narratives. By reimagining the configuration and development of computational devices across varied contexts, this work challenges dominant technological narratives, highlighting hinge points and latent potentials in the history of computing.
 
-This project takes a multi-pronged approach, combining historical research, LLM-supported morphological analysis ([[※|gnomon]]), expert engagement, and counterfactual reasoning techniques. This combination of methods allows for the relatively rapid construction of plausible alternative histories that are both imaginative and grounded in historical possibility.
+This project takes a multi-pronged approach, combining historical research, LLM-supported morphological analysis ([[gnomon|※]]), expert engagement, and counterfactual reasoning techniques. This combination of methods allows for the relatively rapid construction of plausible alternative histories that are both imaginative and grounded in historical possibility.
 
 Drawing on insights from [[postcolonial-technoscience]], this work aims to detach our understanding of computing from exclusively Euro-American contexts. By imagining computers that could have emerged from different cultural, social, and economic niches, "Counterfactual computers" sets out to unsettle our conception of what computing is, has been, and could yet be.
 
