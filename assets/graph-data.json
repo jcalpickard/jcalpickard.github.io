@@ -1603,10 +1603,6 @@
     },
     {
       "source": "Gnomon",
-      "target": "Counterfactual computers"
-    },
-    {
-      "source": "Gnomon",
       "target": "Current activities"
     },
     {
@@ -2068,6 +2064,10 @@
     {
       "source": "Xamota",
       "target": "Querent.py"
+    },
+    {
+      "source": "Zwicky",
+      "target": "Counterfactual computers"
     },
     {
       "source": "Zwicky",
