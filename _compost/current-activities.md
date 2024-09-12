@@ -81,6 +81,7 @@ last_modified:
 
 
 #### Personal tools and practices
+{: .theme}
 
 **[[duckypad|duckyPad interactions]]:** Prototyping novel interactions with an open-source mechanical macropad.
 : • _Context:_ Solo, exploratory
