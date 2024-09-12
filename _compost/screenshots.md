@@ -21,8 +21,6 @@ Captures and represents a particular state or configuration of visual informatio
 
 While a screenshot itself is static, it depicts the dynamic visual output of an interactive computing system. Freezes and reifies a transient state within an ongoing computational process?
 
-Often a depiction of the [[gui]]?
-
 An evidentiary genre?
 
 - [⎈] Explore how screenshots are used in fields such as digital forensics, digital folklore, and user interface design.
