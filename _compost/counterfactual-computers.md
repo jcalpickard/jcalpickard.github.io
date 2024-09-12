@@ -5,6 +5,8 @@ stage: roughingOut
 tags: [activity]
 ---
 
+<a href="https://files.justinpickard.net/images/compost/activities/counterfactualcurta.jpg"><img class="img-padded" src="https://files.justinpickard.net/images/compost/activities/counterfactualcurta.jpg" alt="Curta calculator exhibit at the Whipple, with a superimposed Autohotkey prompt window" width="350" height="350"></a>
+
 > "Counterfactual computers" is an experimental writing project exploring alternative trajectories of computing through a series of "case" narratives, highlighting hinge points and latent potentials in computing history.
 
 This work aims to broaden our understanding of technological development and inspire new approaches to computing by exploring "what if" scenarios in computing history. Taking a multi-pronged approach, "Counterfactual computers" uses a combination of historical research, LLM-supported morphological analysis ([[zwicky|※]]), expert engagement, and counterfactual reasoning techniques. This combination of methods allows for the relatively rapid construction of plausible alternative histories that are imaginative but grounded in historical possibility.
