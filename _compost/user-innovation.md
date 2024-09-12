@@ -4,7 +4,7 @@ title: "User innovation"
 stage: bruck
 ---
 
-Potentially a form of [[lay-expertise]]? Link to ideas of "proximal design"?
+Potentially contingent on a form of [[situated-knowledge]]? Link to ideas of "proximal design"?
 
 Users innovate to satisfy their own unique, idiosyncratic needs; those neglected by existing market offerings. 
 They have unique information about their needs and are motivated to find solutions to those needs.
