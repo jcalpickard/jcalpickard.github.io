@@ -5,7 +5,7 @@ stage: tinkering
 tags: [activity]
 ---
 
-> Part of [[xamota]], Querent.py is an experimental [[situated-software]] tool for personal tarot [[practice]], supporting introspection and exploration through card-based reflection. This Python-based system incorporates both pre-populated traditional card meanings and user-generated interpretations, allowing for the evolution of card meanings over time. It requires a physical tarot deck, using card draws as triggers for retrieving and generating information.
+> Part of [[xamota]], Querent.py is an experimental [[situated-software]] tool for personal [[tarot]] practice, supporting introspection and exploration through card-based reflection. This Python-based system incorporates both pre-populated traditional card meanings and user-generated interpretations, allowing for evolution over time. It requires a physical tarot deck, using card draws as triggers for retrieving and generating information.
 
 Querent.py seeks to:
 
