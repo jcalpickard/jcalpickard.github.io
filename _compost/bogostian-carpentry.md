@@ -27,4 +27,4 @@ Bogostian carpentry emphasises the importance of engaging directly with material
 - [?] What counts as a "sincere philosophical output" in artifact form? What criteria distinguish it from artistic expression or design prototyping?
 - [?] How do you evaluate or validate the knowledge claims or insights embodied in an artifact? What modes of critique or peer review apply?
 - [?] How does the practice of taxidermy relate to Bogostian carpentry? Both involve a hands-on, material engagement with the subject matter; what insights can be drawn from this comparison?
-- [&] See also: [[experimental-archaeology]], [[field-philosophy]], [[critical-making]], [[ontography]]?
+- [&] See also: [[experimental-archaeology]], [[field-philosophy]], [[critical-making]]?
