@@ -1998,6 +1998,10 @@
       "target": "Jagged noetic substrates"
     },
     {
+      "source": "Tarot",
+      "target": "Querent.py"
+    },
+    {
       "source": "Technological momentum",
       "target": "Latency"
     },
