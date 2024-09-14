@@ -327,15 +327,6 @@
       "url": "/compost/cscw/"
     },
     {
-      "id": "Cultural transmission",
-      "label": "Cultural transmission",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/cultural-transmission/"
-    },
-    {
       "id": "Current activities",
       "label": "Current activities",
       "stage": "roughingOut",
@@ -1228,6 +1219,15 @@
       "url": "/compost/translocality/"
     },
     {
+      "id": "Transmission",
+      "label": "Transmission",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/transmission/"
+    },
+    {
       "id": "User innovation",
       "label": "User innovation",
       "stage": "bruck",
@@ -1482,10 +1482,6 @@
       "target": "Human-computer interaction"
     },
     {
-      "source": "Cultural transmission",
-      "target": "Gopnikism"
-    },
-    {
       "source": "Current activities",
       "target": "About"
     },
@@ -1532,6 +1528,10 @@
     {
       "source": "Divination",
       "target": "Combinatorics"
+    },
+    {
+      "source": "Divination",
+      "target": "Panpneumaton"
     },
     {
       "source": "Divination",
@@ -2032,6 +2032,14 @@
     {
       "source": "Translocality",
       "target": "Genius loci"
+    },
+    {
+      "source": "Transmission",
+      "target": "Gopnikism"
+    },
+    {
+      "source": "Transmission",
+      "target": "Panpneumaton"
     },
     {
       "source": "User innovation",
