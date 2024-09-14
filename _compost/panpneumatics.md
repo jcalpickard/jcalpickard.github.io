@@ -4,7 +4,7 @@ title: "Panpneumatics"
 stage: bruck
 ---
 
-Theoretical noodling in-progress, with [T.M. Sullivan](https://tmsullivan.co.uk/about).
+(Theoretical noodling in-progress, with [T.M. Sullivan](https://tmsullivan.co.uk/about), as part of our work on the "[[Panpneumaton]]".)
 
 The gathering or assemblage of diverse spirits, breaths, or forces, as a lens to grapple with the pragmatic multiplicity that permeates our lived realities. Worlds animated by many vital forces and agencies, human and nonhuman, enacted through concrete practices, interactions and entanglements.
 
@@ -14,4 +14,4 @@ A mode of engaging with the world that attends to its irreducible plurality, whi
 
 Efforts to engage multiple agencies on their own terms, while also finding ways to translate and coordinate between them. This may involve boundary-crossing and code-switching, as well as the creation of hybrid entities and "partial connections." Panpneumatics is not about collapsing multiplicity into unity, but cultivating an art of living and thinking in a [[pluriverse]]. It means being attentive to the many voices, forces, and flows that animate a situation, while experimenting with techniques for channeling and composing them towards novel ends.
 
-A panpneumatic sensibility pushes us to grapple with multiple stakeholders, knowledges, and value systems, while seeking creative ways to "gather the spirits" around shared matters of concern.
+In short, a panpneumatic sensibility pushes us to grapple with multiple stakeholders, knowledges, and value systems, while seeking creative ways to "gather the spirits" around shared matters of concern.

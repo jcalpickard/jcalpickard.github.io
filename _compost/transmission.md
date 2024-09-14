@@ -1,5 +1,5 @@
 ---  
 layout: garden
-title: "Cultural transmission"
+title: "Transmission"
 stage: bruck
 ---
