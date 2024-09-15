@@ -14,6 +14,8 @@ categories: [context]
 
 #### Readings
 
+<div class="custom-bibliography" markdown="1">
+
 Asdal, K., & Moser, I. (2012). Experiments in context and contexting. _Science, Technology, & Human Values_, 37(4), 291–306. 🔒[https://doi.org/10.1177/0162243912449749](https://doi.org/10.1007/s00779-003-0253-8)
 
 Dourish, P. (2004). What we talk about when we talk about context. _Personal and Ubiquitous Computing_, 8(1), 19–30. 🔒[https://doi.org/10.1007/s00779-003-0253-8](https://doi.org/10.1007/s00779-003-0253-8)
@@ -25,3 +27,5 @@ Law, J., & Moser, I. (2012). Contexts and culling. _Science, Technology, & Human
 Morita, A. (2014). The ethnographic machine: Experimenting with context and comparison in Strathernian ethnography. _Science, Technology, & Human Values_, 39(2), 214–235. 🔒[https://doi.org/10.1177/0162243913503189](https://doi.org/10.1177/0162243913503189)
 
 Seaver, N. (2015). The nice thing about context is that everyone has it. _Media, Culture & Society_, 37(7), 1101–1109. 🔒[https://doi.org/10.1177/0163443715594102](https://doi.org/10.1177/0163443715594102)
+
+</div>
