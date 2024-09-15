@@ -36,3 +36,18 @@
     "ss07" 1, "ss08" 1, // square quotes and punctuation (either need to use this or the previous one)
     "calt" 1;
 }
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px 0; /* Add padding to the container */
+
+  img {
+    width: 50%; /* Change to 50% for flush images */
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    padding: 0; /* Remove padding from contained images */
+  }
+}
