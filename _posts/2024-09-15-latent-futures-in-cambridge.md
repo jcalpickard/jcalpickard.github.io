@@ -28,7 +28,7 @@ As an editor and independent researcher working at the boundaries of ethnography
 #### **References**
 
 <div class="custom-bibliography" markdown="1">
-Adema, J., & Hall, G. (2012) The political nature of the book: On artists' books and radical open access. _New Formations_, 78(78), 138-156. 🔒[https://doi.org/10.3898/NewF.78.07.2013](https://doi.org/10.3898/NewF.78.07.2013)  
+Adema, J., & Hall, G. (2012). The political nature of the book: On artists' books and radical open access. _New Formations_, 78(78), 138-156. 🔒[https://doi.org/10.3898/NewF.78.07.2013](https://doi.org/10.3898/NewF.78.07.2013)  
 
 Andersen, C.U., & Cox, G. (2023). Toward a Minor Tech. _A Peer-Reviewed Journal About_, 12(1), 5–9. 🔓[https://doi.org/10.7146/aprja.v12i1.140431](https://doi.org/10.7146/aprja.v12i1.140431)
 
