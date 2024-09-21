@@ -4,7 +4,7 @@ title: "Knowledge bases"
 stage: bruck
 ---
 
-Repositories or databases that store and organise information, data, and knowledge related to a specific topic, product, service, or organisation.
+Repositories or [[databases]] that store and organise information, data, and knowledge related to a specific topic, product, service, or organisation.
 
 Relies on structured data.
 

@@ -14,3 +14,4 @@ Abstraction, encapsulation, and a defined contract or set of rules for interacti
 
 - [?] What, exactly, is an interface? Is it a type of object, process, relation, or something else?
 - [?] How do we demarcate the boundaries between systems while still allowing them to connect and/or influence each other?
+- [&] See also: [[duckypad]], [[gui]]?
