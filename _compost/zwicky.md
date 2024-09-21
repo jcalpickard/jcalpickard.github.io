@@ -17,7 +17,6 @@ Zwicky seeks to:
 - Explore nuanced approaches to cross-consistency assessment, moving beyond binary feasibility to gradient-based or multi-criteria evaluations
 - Develop computationally-efficient ways to represent multi-dimensional problem spaces and solution landscapes
 - Experiment with multimodal outputs to cater to different user needs and preferences, potentially including visual maps, textual narratives, and interactive scenarios
-- Probe potential overlaps between morphological analysis and other approaches, such as scenario planning, actor-network theory, and [[divination]]
 - Explore ways to handle temporality and change over time within the morphological framework
 
 Documentation will be layered and adaptive, supporting users with varying levels of expertise.
