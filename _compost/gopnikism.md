@@ -12,7 +12,7 @@ After cognitive scientist and developmental psychologist Alison Gopnik, whose re
 
 ## Implications for Generative AI
 
-Gopnikism argues that generative AI models should be viewed not as intelligent agents but rather as "cultural technologies" – tools that enhance [[transmission]], serving as efficient "imitation engines".
+Gopnikism argues that generative AI models should be viewed not as intelligent agents but rather as "cultural technologies" – tools that enhance transmission, serving as efficient "imitation engines".
 
 > A very common trope is to treat LLMs as if they were intelligent agents going out in the world and doing things. That’s just a category mistake. A much better way of thinking about them is as a technology that allows humans to access information from many other humans and use that information to make decisions. We have been doing this for as long as we’ve been human.
 <cite>— Alison Gopnik, in "[How to Raise Your Artificial Intelligence](https://lareviewofbooks.org/article/how-to-raise-your-artificial-intelligence-a-conversation-with-alison-gopnik-and-melanie-mitchell/)" (2024)</cite>

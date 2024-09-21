@@ -9,5 +9,5 @@ Field examining the design, implementation, and evaluation of computing systems 
 Big focus on the interaction and the interface.
 
 - [&] See also: Vannevar Bush's article "As We May Think" (1945)
-- [&] See also: [[time-sharing]], the [[gui]]
+- [&] See also: the [[gui]]
 - [&] See also: [[cscw]]
