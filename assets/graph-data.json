@@ -1430,6 +1430,10 @@
       "target": "Lay expertise"
     },
     {
+      "source": "Conjunctural analysis",
+      "target": "Hauntology"
+    },
+    {
       "source": "Convivial tools",
       "target": "Counterfoil research"
     },
@@ -1628,6 +1632,10 @@
     {
       "source": "Hauntology",
       "target": "Conjunctural analysis"
+    },
+    {
+      "source": "Hauntology",
+      "target": "Latency"
     },
     {
       "source": "Human-computer interaction",
