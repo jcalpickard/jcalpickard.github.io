@@ -671,7 +671,7 @@
     {
       "id": "Latency",
       "label": "Latency",
-      "stage": "bruck",
+      "stage": "tinkering",
       "tags": [
         "time"
       ],
@@ -1481,6 +1481,10 @@
       "target": "About"
     },
     {
+      "source": "Databases",
+      "target": "Knowledge bases"
+    },
+    {
       "source": "Degrowth",
       "target": "Bioregionalism"
     },
@@ -1531,6 +1535,10 @@
     {
       "source": "duckyPad",
       "target": "Current activities"
+    },
+    {
+      "source": "duckyPad",
+      "target": "Interfaces"
     },
     {
       "source": "Edge computing",
@@ -1607,6 +1615,10 @@
     {
       "source": "Graphical user interface",
       "target": "Human-computer interaction"
+    },
+    {
+      "source": "Graphical user interface",
+      "target": "Interfaces"
     },
     {
       "source": "Hauntology",
