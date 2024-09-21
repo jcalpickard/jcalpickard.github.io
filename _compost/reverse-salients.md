@@ -23,5 +23,5 @@ Can be about the technical or the social-organisational dimensions of the system
 - [⎈] Analyse failed/stalled technological systems through the lens of unresolved reverse salients. How do they help explain arrested development?
 - [?] How can reverse salients be identified within complex sociotechnical systems? What frameworks or methods can aid in this process?
 - [?] Are reverse salients an inevitable feature of large-scale systems? Can they be anticipated or are they only identified retrospectively?
-- [&] See also: [[pace-layers]]? (both deal with uneven rates of development/sociotechnical change)
+- [&] See also: [[pace-layers]], [[latency]]? (all deal with uneven rates of development/sociotechnical change)
 - [&] Investigate the interplay of reverse salients and technological lock-in, path dependence, and sociotechnical transitions.

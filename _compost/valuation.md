@@ -22,7 +22,7 @@ How people, things, ideas/ideals are ordered.
 
 "Valuation" vs. "evaluation".
 
-Evolution/extinction of an earlier, settled regime of values, changing what is publicly valued in society. Think talk of "[[degrowth]]" and "post-materialist values"?
+Evolution/extinction of an earlier, settled regime of values, changing what is publicly valued in society?
 
 Assessment tools? Multi-criteria mapping?
 
