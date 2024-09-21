@@ -1219,15 +1219,6 @@
       "url": "/compost/translocality/"
     },
     {
-      "id": "Transmission",
-      "label": "Transmission",
-      "stage": "bruck",
-      "tags": [
-
-      ],
-      "url": "/compost/transmission/"
-    },
-    {
       "id": "User innovation",
       "label": "User innovation",
       "stage": "bruck",
@@ -1532,10 +1523,6 @@
     {
       "source": "Divination",
       "target": "Combinatorics"
-    },
-    {
-      "source": "Divination",
-      "target": "Panpneumaton"
     },
     {
       "source": "Divination",
@@ -1934,10 +1921,6 @@
       "target": "Gopnikism"
     },
     {
-      "source": "Retrieval-augmented generation (RAG)",
-      "target": "Prompt engineering"
-    },
-    {
       "source": "Reverse salients",
       "target": "Latency"
     },
@@ -2022,10 +2005,6 @@
       "target": "Microhistory"
     },
     {
-      "source": "Time-sharing",
-      "target": "Human-computer interaction"
-    },
-    {
       "source": "Tinkering",
       "target": "Bruck"
     },
@@ -2044,14 +2023,6 @@
     {
       "source": "Translocality",
       "target": "Genius loci"
-    },
-    {
-      "source": "Transmission",
-      "target": "Gopnikism"
-    },
-    {
-      "source": "Transmission",
-      "target": "Panpneumaton"
     },
     {
       "source": "User innovation",
