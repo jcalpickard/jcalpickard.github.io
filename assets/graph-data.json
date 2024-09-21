@@ -1529,10 +1529,6 @@
       "target": "Tarot"
     },
     {
-      "source": "Divination",
-      "target": "Zwicky"
-    },
-    {
       "source": "duckyPad",
       "target": "Current activities"
     },
