@@ -1490,10 +1490,6 @@
     },
     {
       "source": "Degrowth",
-      "target": "Valuation"
-    },
-    {
-      "source": "Degrowth",
       "target": "Xamota"
     },
     {
@@ -1691,6 +1687,10 @@
     {
       "source": "Latency",
       "target": "Latent Intimacies"
+    },
+    {
+      "source": "Latency",
+      "target": "Reverse salients"
     },
     {
       "source": "Latency",
