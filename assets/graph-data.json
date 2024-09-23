@@ -1029,8 +1029,8 @@
       "url": "/compost/repair/"
     },
     {
-      "id": "Retrieval-augmented generation (RAG)",
-      "label": "Retrieval-augmented generation (RAG)",
+      "id": "Retrieval-augmented generation",
+      "label": "Retrieval-augmented generation",
       "stage": "bruck",
       "tags": [
 
@@ -1609,10 +1609,6 @@
       "target": "Current activities"
     },
     {
-      "source": "Gopnikism",
-      "target": "Panpneumaton"
-    },
-    {
       "source": "Graphical user interface",
       "target": "Human-computer interaction"
     },
@@ -1809,6 +1805,10 @@
       "target": "Local language models"
     },
     {
+      "source": "Panpneumaton",
+      "target": "Panpneumatics"
+    },
+    {
       "source": "Participant observation",
       "target": "Ethnography"
     },
@@ -1929,7 +1929,7 @@
       "target": "Tinkering"
     },
     {
-      "source": "Retrieval-augmented generation (RAG)",
+      "source": "Retrieval-augmented generation",
       "target": "Gopnikism"
     },
     {
