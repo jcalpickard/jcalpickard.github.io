@@ -118,7 +118,8 @@
       // Convert links to edges
       const edges = data.links.map(link => ({
         from: link.source,
-        to: link.target
+        to: link.target,
+        width: link.weight * 1.5 // Adjust edge thickness based on link weight
       }));
 
       const networkData = {
@@ -146,8 +147,8 @@
             enabled: false,
             direction: 'LR',
             sortMethod: 'directed',
-            levelSeparation: 150,
-            nodeSpacing: 150
+            levelSeparation: 250,
+            nodeSpacing: 200
           }
         },
         interaction: {
@@ -162,12 +163,12 @@
           solver: 'barnesHut',
           barnesHut: {
             theta: 0.5,
-            gravitationalConstant: -15000,
-            centralGravity: 0.6,
+            gravitationalConstant: -30000,
+            centralGravity: 0.7,
             springLength: 225,
-            springConstant: 0.25,
-            damping: 0.07,
-            avoidOverlap: 0.7
+            springConstant: 0.3,
+            damping: 0.05,
+            avoidOverlap: 0.8
           },
           maxVelocity: 50,
           minVelocity: 0.1,
