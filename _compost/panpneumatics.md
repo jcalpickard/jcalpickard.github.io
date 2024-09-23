@@ -4,7 +4,7 @@ title: "Panpneumatics"
 stage: bruck
 ---
 
-(Theoretical noodling in-progress, with [T.M. Sullivan](https://tmsullivan.co.uk/about), as part of our work on the "[[Panpneumaton]]".)
+(Theoretical noodling in-progress, with [T.M. Sullivan](https://tmsullivan.co.uk/about), as part of our work on the "[[panpneumaton]]".)
 
 The gathering or assemblage of diverse spirits, breaths, or forces, as a lens to grapple with the pragmatic multiplicity that permeates our lived realities. Worlds animated by many vital forces and agencies, human and nonhuman, enacted through concrete practices, interactions and entanglements.
 

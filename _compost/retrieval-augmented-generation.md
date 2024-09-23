@@ -1,6 +1,6 @@
 ---  
 layout: garden
-title: "Retrieval-augmented generation (RAG)"
+title: "Retrieval-augmented generation"
 stage: bruck
 ---
 
