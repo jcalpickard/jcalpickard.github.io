@@ -1921,6 +1921,10 @@
       "target": "Current activities"
     },
     {
+      "source": "Querent.py",
+      "target": "Xamota"
+    },
+    {
       "source": "Rearguard yin tactics",
       "target": "Minor technologies"
     },
