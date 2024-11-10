@@ -7,8 +7,8 @@ categories: [talks, software, scale, smallness, tools, research, ethnography]
 #### Later this month, I'll be taking a slow journey to Barcelona – looping through France via Lyon and LUMA Arles, before joining my collaborator [Tim](https://www.timcowlishaw.co.uk/) in Tarragona. We'll be presenting at [Híbrides](https://hibrides.axolot.cat/), a three-day event exploring 'small embodied data,' sharing our ongoing exploration of how software might perform 'smallness.'
 
 <div class="image-container">
-  <img src="https://files.justinpickard.net/images/log/2024/11/smallness-timandj.png" alt="A dark display showing four if-then statements as a framework for regulating mental or emotional states">
-  <img src="https://files.justinpickard.net/images/log/2024/11/smallness-if.png" alt="A split-screen video call showing Tim and Justin in discussion, with Tim holding a Raspberry Pi">
+  <img src="https://files.justinpickard.net/images/log/2024/11/smallness-timandj.png" alt="A split-screen video call showing Tim and Justin in discussion, with Tim holding a Raspberry Pi">
+  <img src="https://files.justinpickard.net/images/log/2024/11/smallness-if.png" alt="A dark display showing four if-then statements as a framework for regulating mental or emotional states">
 </div>
 
 > ## 'Code, Cards and Compost: Performing Smallness in Software'
