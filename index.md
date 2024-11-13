@@ -5,7 +5,7 @@ title: "Home"
 
 ### *[Hello](hello.md), I'm Justin. I'm an independent researcher and editor, readily <a href="https://en.wiktionary.org/wiki/nerd-snipe">nerd-sniped</a> by edge cases and emerging phenomena.*
 
-##### From a home base in the haunted, <a href="https://www.theguardian.com/commentisfree/2021/jan/25/bringing-my-family-back-to-the-uk-was-a-bad-decision-but-home-has-its-comforts">flood-prone</a> city of York, I combine ethnographic observation and experimental methods to understand how people make sense of the world. Emphasising careful observation and documentation, I move between ground-level details and broader patterns to draw unexpected connections and reveal hidden meanings.
+##### From a home base in the haunted, <a href="https://www.theguardian.com/commentisfree/2021/jan/25/bringing-my-family-back-to-the-uk-was-a-bad-decision-but-home-has-its-comforts">flood-prone</a> city of York, I combine ethnographic observation and experimental methods to understand how people make sense of the world. Emphasising careful observation and documentation, I move between ground-level details and broader patterns to reveal hidden connections and meanings.
 
 ![Justin Pickard, dithered](http://files.justinpickard.net/images/pages/pickard-dithered.png)
 
