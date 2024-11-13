@@ -20,7 +20,7 @@ Based in Yorkshire since 2017, I maintain connections across the north of Englan
 | <span style="font-size: 1.2em;">Area</span> | <span style="font-size: 1.2em;">Focus<span> |
 |------|--------|
 | <span style="font-size: 1.2em;">*Improvised worlds*</span> | How people work within and around complex situations through practical action. Tracking informal innovations and creative responses to constraint, particularly in changing urban environments and community contexts. |
-| <span style="font-size: 1.2em;">*Knowledge in practice*</span> | How different groups and communities develop and share practical understanding. Exploring different approaches to collective sense-making and documentation. Particular interest in how technologies mediate cultural transmission. |
+| <span style="font-size: 1.2em;">*Knowledge in practice*</span> | How different groups develop and share practical understanding. Exploring different approaches to collective sense-making and documentation. Particular interest in how technologies mediate cultural transmission. |
 | <span style="font-size: 1.2em;">*Experimental methods*</span> | Combining ethnographic observation with prototyping and emerging computational approaches. Developing new tools for documentation and analysis. |
 
 ### **Current work**
