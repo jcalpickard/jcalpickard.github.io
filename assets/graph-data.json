@@ -885,6 +885,15 @@
       "url": "/compost/phronesis/"
     },
     {
+      "id": "Pidgin",
+      "label": "Pidgin",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/pidgin/"
+    },
+    {
       "id": "Pluriverse",
       "label": "Pluriverse",
       "stage": "bruck",
@@ -1201,6 +1210,15 @@
       "url": "/compost/tinkering/"
     },
     {
+      "id": "Topology",
+      "label": "Topology",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/topology/"
+    },
+    {
       "id": "Trace ethnography",
       "label": "Trace ethnography",
       "stage": "bruck",
@@ -1355,6 +1373,10 @@
     {
       "source": "Bricolage",
       "target": "Oulipics"
+    },
+    {
+      "source": "Bricolage",
+      "target": "Pidgin"
     },
     {
       "source": "Bruck",
@@ -1905,6 +1927,10 @@
       "target": "Interfaces"
     },
     {
+      "source": "Protocol",
+      "target": "Pidgin"
+    },
+    {
       "source": "Psychogeography",
       "target": "Hauntology"
     },
@@ -2043,6 +2069,10 @@
     {
       "source": "Translocality",
       "target": "Genius loci"
+    },
+    {
+      "source": "Translocality",
+      "target": "Pidgin"
     },
     {
       "source": "User innovation",
