@@ -19,7 +19,7 @@ and knowledge organisation across diverse settings
 - Computational practices: Reflexive software development, trace ethnography
 - Research design: Hybrid approaches, experimental protocols, research ethics
 
-#### Knowledge mnagement
+#### Knowledge management
 - Writing and editing: Academic writing, journalism, creative non-fiction
 - Experimental publishing: Digital-print hybrids, interactive formats, alternative archival practices
 - Information architecture: Taxonomies, knowledge graphs, metadata, RAG systems
