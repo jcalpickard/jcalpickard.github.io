@@ -7,8 +7,8 @@ categories: [weeknotes]
 #### Attention stretched thin across winter's grey, voices cast into future rooms as old stories assume new weight.
 
 <div class="image-container">
-  <img src="https://files.justinpickard.net/images/log/2025/01/morris-mural.jpg" alt="">
-  <img src="https://files.justinpickard.net/images/log/2025/01/underground-embroidery.jpg" alt="">
+  <img src="https://files.justinpickard.net/images/log/2025/01/morris-mural.jpg" alt="Wall-sized mural depicting William Morris against a leaf-print wallpaper pattern">
+  <img src="https://files.justinpickard.net/images/log/2025/01/underground-embroidery.jpg" alt="Circle line moquette fabric design featuring interconnected red human figures on a blue background">
 </div>
 
 When my friend [David](https://davidbenque.com/) invited me to specify my own role title as an affiliate of his para-fictional institute[^1], I found myself wrestling with fundamental questions of identity beyond traditional institutional boundaries. If there were no limits, what role or remit _would_ I opt into? After some reflection, I found myself gravitating toward historical examples of institutional 'keepers' – those tasked not with 'delivering projects' but maintaining and tending to collections, practices, relationships over time.
