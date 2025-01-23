@@ -18,4 +18,4 @@ As established disciplines and knowledge systems fragment and calcify, Nova's ca
 [^1]: A prompt stolen [from the man himself](https://web.archive.org/web/20250123194353/http://www.nicolasnova.net/pasta-and-vinegar/2011/03/16/keyboard-hack-3).
 [^2]: See [Régine Debatty's review/overview](https://we-make-money-not-art.com/monsters-and-wonders-inside-our-machines/), and [the article that preceded the book](https://edizionicafoscari.unive.it/it/edizioni/riviste/magazen/2023/2/mapping-our-digital-menagerie-a-monster-manual-for/).
 [^3]: [Question your teaspoons](http://web.archive.org/web/20240623015655/http://www.nicolasnova.net/pasta-and-vinegar/2008/01/10/question-your-tea-spoons).
-[^4]: Such as [8-Bit Reggae](http://web.archive.org/web/20240324060336/https://dataairlines.bandcamp.com/merch/8-bit-reggae-collision-and-creolization-by-nicolas-nova).
+[^4]: Such as [8-bit reggae](http://web.archive.org/web/20240324060336/https://dataairlines.bandcamp.com/merch/8-bit-reggae-collision-and-creolization-by-nicolas-nova).
