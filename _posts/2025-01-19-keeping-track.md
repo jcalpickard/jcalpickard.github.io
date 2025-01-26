@@ -32,12 +32,11 @@ This sparked strangely with anthropologists Andrew Graan and Carl Rommel's recen
 ##### **Next week:**
 
 - Coffee/similar with [Asa](https://environment.leeds.ac.uk/geography/staff/8971/dr-asa-roast) in York; hoping to draw on his combined experience as a researcher and [confirmed game enthusiast](https://creators.spotify.com/pod/show/serious-play) to stress-test some of my early ideas for an April academic workshop on 'plurimodal' ethnography, play, and worldmaking.
-- Resynchronising with Tim after the winter break[^3], mapping out collaborative activities and sketch some plans for the year ahead, including identifying next steps for our reflexive software development work.
+- Resynchronising with Tim after the winter break, mapping out collaborative activities and sketch some plans for the year ahead, including identifying next steps for our reflexive software development work.
 - Blocking out some time for Anarchive editing, returning to these autumn interviews now the midwinter funding application sprint is over.
-- Further iteration and testing of my markdown note-taking templates and protocols, alongside some parallel experiments in visual/spatial documentation.[^4]
+- Further iteration and testing of my markdown note-taking templates and protocols, alongside some parallel experiments in visual/spatial documentation.[^3]
 - Scheduled call with Laura, gauging our enthusiasm to develop some academic writing based on the [Latent Intimacies](https://justinpickard.net/compost/latent-intimacies/) project.
 
 [^1]: Probably best not to ask; at least, not _yet_.
 [^2]: [Badge](https://en.wikipedia.org/wiki/Loom_(video_game)#Appearance_in_other_media): 'Ask me about the colportage phenomenon of space.'
-[^3]: Having sent him a lengthy placeholder via voicenote monologue late last week, as some kind of meeting agenda.
-[^4]: Sticking fiducial markers to things, mostly.
+[^3]: Sticking fiducial markers to things, mostly.
