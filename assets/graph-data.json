@@ -498,6 +498,15 @@
       "url": "/compost/forking/"
     },
     {
+      "id": "Fragments",
+      "label": "Fragments",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/fragments/"
+    },
+    {
       "id": "Genius loci",
       "label": "Genius loci",
       "stage": "bruck",
