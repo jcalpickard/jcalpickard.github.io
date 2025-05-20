@@ -37,6 +37,15 @@
       "url": "/compost/adaptive-roadmapping/"
     },
     {
+      "id": "Allagmatics",
+      "label": "Allagmatics",
+      "stage": "bruck",
+      "tags": [
+
+      ],
+      "url": "/compost/allagmatics/"
+    },
+    {
       "id": "Anarchive",
       "label": "Anarchive",
       "stage": "bruck",
