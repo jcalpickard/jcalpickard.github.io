@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: "Latency at the interface"
-categories: [talks, genai, prototypes, latency, futures]
+categories: [talks, genai, prototypes, latency, futures, interfaces]
 ---
 
 #### On June 5th, I'll be participating in [_Latent Futures_](https://www.latentfutures.org/), an online seminar organised by Professors Jen Ross and Richard Sandford. This event challenges the conventional view of futures as distant projections, exploring instead both processes already unfolding and possibilities concealed within our present arrangements.
