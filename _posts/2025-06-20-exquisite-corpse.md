@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: "Exquisite corpse"
-categories: [quotes, genai, tools, technology]
+categories: [quotes, genai, tools, interfaces]
 ---
 
 <div class="image-container">
@@ -15,7 +15,7 @@ categories: [quotes, genai, tools, technology]
 > But the learning side: that’s where the magic happens. The machine encounters unstructured data, updates its parameters stochastically, and alters the logic it uses next time. This process is literally abductive reasoning: each backpropagation cycle tests a hypothesis against new or known data, generating error feedback that modifies the model’s latent representation space and alters its space of reason. When the training process completes (or is considered complete) the model dries out into a kind of husk or a super beautiful cocoon. When I talk ‘with’ ChatGPT, I am talking to a corpse.
 <cite>— Roberto Alonso Trillo & Marek Poliks, "[Interface after AI](https://echo.orpheusinstituut.be/article/interface-after-ai)" (2025)</cite>
 
-**Why post this?** This "talking to a corpse" analysis cuts through anthropomorphic confusion to reveal what's actually happening technically – inference through fixed weights rather than learning. But what's absent is exactly what enables productive exploration.
+**Why post this?** This "talking to a corpse" analysis cuts through anthropomorphic confusion to reveal what's actually happening technically – inference through fixed weights. But what's absent is exactly what enables productive exploration.
 
 This requires navigating what anthropologist Jakob Krause-Jensen recognises as a productive contradiction: these systems are "not human, and yet not-not human". As he observes, you have to engage "as if" they were human, because that's what works for exploration.[^1] The performative necessity of treating it as a dialogue partner itself becomes a generative constraint. In [earlier work](https://justinpickard.net/log/2024/09/15/latent-futures-in-cambridge/), I've approached this as a "belay line into latent space". The rope doesn't need to learn or adapt; its static properties – a reliable anchor point, consistent tension – are what make exploration possible. But more than being secured to equipment, you're engaged in a kind of phantom dialogue with the mountain itself. The model's "corpse-ness", its fixed weights and response patterns, create the stable constraints that permit structured navigation.
 
