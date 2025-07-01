@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: "Perhaps they had simply migrated elsewhere"
-categories: [methodology, fieldwork, observation, digital-folklore, opacity, research, ethnography]
+categories: [methodology, fieldwork, observation, digital folklore, opacity, ethnography]
 ---
 
 > [**Interviewer:**] You yourself are an avid hiker and explorer. These are moments when you contemplate what ties us to the territories we traverse, their myths and legends, their wondrous and unsettling creatures. Is your book born of an attempt to connect these two universes that dwell within you: the ultra-contemporary digital world of design and innovation, and that of past myths?
